@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AW9523B
+D AWINIC;AW9523B;AW9523B是一款I2C接口、16路呼吸灯， 每路可作扩展 GPIO 控制器。
+K AWINIC;AW9523B;IO扩展;I2C;IIC
+F http://www.awinic.com.cn/product_nei.php?id=60
+$ENDCMP
+#
+$CMP CH340E
+D WCH;CH340E;CH340 是一个 USB 总线的转接芯片，实现 USB 转串口或者 USB 转打印口。 在串口方式下，CH340 提供常用的 MODEM 联络信号，用于为计算机扩展异步串口，或者将普通的 串口设备直接升级到 USB 总线
+K WCH;CH340E;USB to UART;
+F http://wch.cn/downloads/CH340DS1_PDF.html
+$ENDCMP
+#
+$CMP CP2102
+D Silicon Labs;CP2102;SINGLE-CHIP USB TO UART BRIDGE
+K Silicon Labs;CP2102;USB to UART;RS232
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf
+$ENDCMP
+#
+$CMP CP2102N
+D These highly-integrated USB-to-UART bridge controllers provide a simple solution for updating RS-232 designs to USB using a minimum of components and PCB space. CP2102N includes a USB 2.0 full-speed function controller, USB transceiver, oscillator, and Universal Asynchronous Receiver/Transmitter (UART) in packages as small as 3 mm x 3 mm. No other external USB components are required for development. All customization and configuration options can be selected using a simple GUI-based configurator. By eliminating the need for complex firmware and driver development, the CP2102N devices enable quick USB connectivity with minimal development effort.
+K Silicon Labs;CP2102N;USB to UART;RS232
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/cp2102n-datasheet.pdf
+$ENDCMP
+#
+$CMP SL2.1A
+D CoreChips;SL2.1A;USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER
+K CoreChips;SL2.1A;USB 2.0;HUB
+F http://www.szlcsc.com/product/pdf/A_A6D0EF895473624719CCF6439954C4D3296C67311B688FC3.PDF
+$ENDCMP
+#
+#End Doc Library

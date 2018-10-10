@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP InStar;YR5030D
+D Buzzer Passive
+K Buzzer,Passive
+$ENDCMP
+#
+#End Doc Library

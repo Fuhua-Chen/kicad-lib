@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 16MHz
+D TXC Crystal,16MHZ,9pF,10ppm,100R,2520
+K Crystal 2520
+F https://atta.szlcsc.com/upload/public/pdf/source/20170728/C116546_1501225728588848794.pdf
+$ENDCMP
+#
+$CMP Crystal-2P
+D Crystal-2P
+K Crystal;2P
+$ENDCMP
+#
+$CMP Crystal-3P
+D Crystal-3P
+K Crystal;3P
+$ENDCMP
+#
+$CMP Crystal-4P
+D Crystal-4P
+K Crystal;4P
+$ENDCMP
+#
+#End Doc Library

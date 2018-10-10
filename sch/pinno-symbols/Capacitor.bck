@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1.5pF
+D Fenghua Ceramic Capacitor,1.5pF,±0.25pF,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1552_1506149267851988359.pdf
+$ENDCMP
+#
+$CMP 100nF
+D Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf
+$ENDCMP
+#
+$CMP 10pF
+D Fenghua Ceramic Capacitor,10pF,10%,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180917/C286508_843E2753D9ACAD7C1893F0BB0BC9A265.pdf
+$ENDCMP
+#
+$CMP 1uF
+D Fenghua Ceramic Capacitor,1uF,10%,10V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1526_1506149256027988333.pdf
+$ENDCMP
+#
+$CMP 2.2nF
+D Fenghua Ceramic Capacitor,2.2nF,±10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1531_1506149258433988338.pdf
+$ENDCMP
+#
+$CMP 33nF
+D YAGEO Ceramic Capacitor,33nF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170728/C106862_1501225699852848738.pdf
+$ENDCMP
+#
+$CMP 4.7pF
+D Fenghua Ceramic Capacitor,4.7pF,±0.25pF,50V,NP0,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180403/C189469_64662B4C0C1C4BECD5C204028AE63279.pdf
+$ENDCMP
+#
+$CMP CAP_Electrolytic
+D Electrolytic Capacitors
+K Capacitor
+$ENDCMP
+#
+#End Doc Library

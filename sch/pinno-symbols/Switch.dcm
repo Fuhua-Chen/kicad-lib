@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Joytick-5P
+D Joytick/Switch with 5 direction.
+K Joytick,Switch
+$ENDCMP
+#
+$CMP MT9700
+D MT9700是一款低成本、低功耗的电子负载开关，常用于USB供电控制，电压范围：2.4V~5.5V ，内阻:80mR ，具备过热保护、限流保护（通过外部电阻设置电流大小）
+K Power switch;Current Limited;80mΩ;负载开关
+F https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492481333031.pdf
+$ENDCMP
+#
+#End Doc Library

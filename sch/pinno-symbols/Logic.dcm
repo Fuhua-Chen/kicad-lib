@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC00
+D NXP;74HC00;Quad 2-input NAND gate
+K Logic,NAND,NXP,74HC00
+F http://www.mouser.com/ds/2/302/74HC_HCT00-839309.pdf
+$ENDCMP
+#
+$CMP 74HC1G08GW,125
+D Philips;74HC1G08GW,125;The 74HC1G/HCT1G08 is a high-speed Si-gate CMOS device.The 74HC1G/HCT1G08 provides the 2-input AND function. The standard output currents are 1⁄2 the 74HC/HCT08.
+K 2-input AND gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20130521/1457706602953.pdf
+$ENDCMP
+#
+#End Doc Library

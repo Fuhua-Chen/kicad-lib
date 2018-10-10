@@ -1,0 +1,134 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ANKX01.0092
+D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
+K RFsister;SMA,Antenna
+F http://www.szlcsc.com/so/product/details_140889.html
+$ENDCMP
+#
+$CMP Header_1x1
+D Pin Header 1x1
+K Header;1 row;1 pin
+$ENDCMP
+#
+$CMP Header_1x10
+D Pin Header 1x10
+K Header;1 row;10 pins
+$ENDCMP
+#
+$CMP Header_1x2
+D Pin Header 1x2
+K Header;1 row;2 pins
+$ENDCMP
+#
+$CMP Header_1x3
+D Pin Header 1x3
+K Header;1 row;3 pins
+$ENDCMP
+#
+$CMP Header_1x4
+D Pin Header 1x4
+K Header;1 row;4 pins
+$ENDCMP
+#
+$CMP Header_1x5
+D Pin Header 1x5
+K Header;1 row;5 pins
+$ENDCMP
+#
+$CMP Header_1x6
+D Pin Header 1x6
+K Header;1 row;6 pins
+$ENDCMP
+#
+$CMP Header_1x7
+D Pin Header 1x7
+K Header;1 row;7 pins
+$ENDCMP
+#
+$CMP Header_1x8
+D Pin Header 1x8
+K Header;1 row;8 pins
+$ENDCMP
+#
+$CMP Header_2x20
+D Pin Header 2x20
+K Header;2 rows;20 pins
+$ENDCMP
+#
+$CMP Header_2x3
+D Pin Header 2x3
+K Header;2 rows;3 pins
+$ENDCMP
+#
+$CMP IPEX-1
+D IPEX MHF1
+K IPEX;MHF1
+$ENDCMP
+#
+$CMP JST-2P
+D JST;2 Pins
+K JST;2P
+$ENDCMP
+#
+$CMP JTJ-USB-01
+D 立创;JTJ-USB-01;USB双层90度有边外扣弯脚
+K 立创;JTJ-USB-01;USB;双层
+F https://item.szlcsc.com/12613.html
+$ENDCMP
+#
+$CMP MicroSD
+D MicroSD Jack
+K Micro SD;TF
+$ENDCMP
+#
+$CMP OK-03M030-04
+D OCN,BTB,2x30,Pitch 0.4mm
+K OCN Conector
+$ENDCMP
+#
+$CMP OK-03NF030-04
+D OCN,BTB,2x30,Pitch 0.4mm
+K OCN Conector
+$ENDCMP
+#
+$CMP OK-501F006-13
+D OCN,BTB,2x3,Pitch 1.3mm
+K OCN Conector
+$ENDCMP
+#
+$CMP OK-501M006-13
+D OCN,BTB,2x3,Pitch 1.3mm
+K OCN Conector
+$ENDCMP
+#
+$CMP SIM-002-T6
+D 東莞市碩方電子科技有限公司;Micro SIM Connector;SIM-002-T6;17.2x15.3x1.25mm
+K Micro SIM Connector;SIM-002-T6
+F https://item.szlcsc.com/112424.html
+$ENDCMP
+#
+$CMP SM02B-SRSS-TB
+D JST,SR,SH,1.0mm,2pins,Side entry
+K JST,SR,1.0,2p
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP SM03B-SRSS-TB
+D JST,SR,SH,1.0mm,3pins,Side entry
+K JST,SR,1.0,3p
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP SM04B-SRSS-TB
+D JST,SR,SH,1.0mm,4pins,Side entry
+K JST,SR,1.0,4p
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
+$CMP USB
+D USB
+K USB;5P
+$ENDCMP
+#
+#End Doc Library

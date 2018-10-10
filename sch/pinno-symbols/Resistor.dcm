@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100
+D UniOhm Chip Resistor,100,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25076_1505901197574982707.pdf
+$ENDCMP
+#
+$CMP 100k
+D UniOhm Chip Resistor,100k,1%,0402
+K Resistor
+$ENDCMP
+#
+$CMP 10k
+D UniOhm Chip Resistor,10k,1%,0402
+K Resistor
+$ENDCMP
+#
+$CMP 1k
+D UniOhm Chip Resistor,1k,1%,0402
+K Resistor
+$ENDCMP
+#
+$CMP 200k
+D UniOhm Chip Resistor,200k,1%,0402
+K Resistor
+$ENDCMP
+#
+$CMP 22k
+D UniOhm Chip Resistor,22k,1%,0402
+K Resistor
+$ENDCMP
+#
+$CMP 33k
+D UniOhm Chip Resistor,33k,1%,0402
+K Resistor
+$ENDCMP
+#
+#End Doc Library

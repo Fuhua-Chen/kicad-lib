@@ -1,0 +1,130 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 100
+#
+DEF 100 R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "100" 150 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25076_1505901197574982707.pdf" -250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF1000TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/25819.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25076" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100k
+#
+DEF 100k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "100k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180314/0E2614623E0414D50D3004040B0D85FE.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF1003TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26484.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25741" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k
+#
+DEF 10k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "10k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25744_1505901522148983320.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF1002TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26487.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25744" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1k
+#
+DEF 1k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "1k" 150 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180314/F614A0AEE69F33CBFC7409D8D3158E8B.pdf" -250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF1001TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/12256.html" 200 400 50 H I C CNN "Supplier"
+F7 "C11702" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 200k
+#
+DEF 200k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "200k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25764_1505901532268983339.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF2003TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26507.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25764" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22k
+#
+DEF 22k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "22k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25768_1505901534273983343.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF2202TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26511.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25768" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33k
+#
+DEF 33k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "33k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25779_1505901539281983353.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF3302TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26522.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25779" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

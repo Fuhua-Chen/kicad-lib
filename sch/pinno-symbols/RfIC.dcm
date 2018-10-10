@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NRF24L01
+D The nRF24L01 is a single chip 2.4GHz transceiver with an embedded baseband protocol engine
+K NRF 2.4G sigle chip transicever
+F http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf
+$ENDCMP
+#
+$CMP NRF24L01P-R
+D The nRF24L01 is a single chip 2.4GHz transceiver with an embedded baseband protocol engine
+K NRF 2.4G sigle chip transicever
+F http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED
+D LED
+K LED
+$ENDCMP
+#
+$CMP WS2812B
+D LED COLOR;WS2812B;WS2812B is a intelligent control LED light source that the control circuit and RGB chip are integrated in a package of 5050 components
+K RGB;WS2812
+F http://www.led-color.com/index.php/Product/view/id/763/lang/cn.html
+$ENDCMP
+#
+#End Doc Library
