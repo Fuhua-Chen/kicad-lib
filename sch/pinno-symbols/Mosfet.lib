@@ -40,7 +40,7 @@ F0 "Q" 325 150 60 H V C CNN
 F1 "CJ2101" 350 -50 60 H V C CNN
 F2 "SOT-323_SC-70" 350 -250 60 H I C CNN
 F3 "https://atta.szlcsc.com/upload/public/pdf/source/20160713/1468379852203.pdf" 1800 475 60 H I C CNN
-F4 "JCET" 250 -150 50 H I C CNN "Manufacture"
+F4 "JCET" 250 -150 50 H I C CNN "Manufacturer"
 F5 "CJ2101" 600 550 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/53655.html" 625 450 50 H I C CNN "Supplier"
 F7 "https://item.szlcsc.com/53655.html" 725 550 50 H I C CNN "Sku"

@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AS3933-BTST
+D The AS3933 is a 3-channel low power ASK receiver that is able to generate a wake-up upon detection of a data signal which uses a LF carrier frequency between 15-150 kHz. The integrated correlator can be used for detection of a programmable 16-bit or 32-bit Manchester wake-up pattern. The device can operate using one, two, or three active channels.
+K 125k Transiceiver
+F http://ams.com/documents/20143/36005/AS3933_DS000353_1-00.pdf/0e72c752-bc65-2c61-b41f-f787fc6c88d7
+$ENDCMP
+#
 $CMP NRF24L01
 D The nRF24L01 is a single chip 2.4GHz transceiver with an embedded baseband protocol engine
 K NRF 2.4G sigle chip transicever

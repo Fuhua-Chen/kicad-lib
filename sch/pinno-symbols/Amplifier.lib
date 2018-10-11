@@ -29,7 +29,7 @@ F0 "U" 200 -100 60 H V C CNN
 F1 "LMV321TP-CR" 450 -200 60 H V C CNN
 F2 "SOT-353_SC-70-5" 350 200 60 H I C CNN
 F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170821/C90297_1503303451434901701.pdf" 800 600 60 H I C CNN
-F4 "3Peak" 450 -100 50 H I C CNN "Manufactuer"
+F4 "3Peak" 450 -100 50 H I C CNN "Manufacturer"
 F5 "LMV321TP-CR" 400 100 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/193497.html" 1000 450 50 H I C CNN "Supplier"
 F7 "C182098" 600 300 50 H I C CNN "Sku"

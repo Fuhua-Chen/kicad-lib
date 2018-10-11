@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HRS3300
+D NanJing TianYiHeXin HALS3300 is an optical digital heart rate sensor, 525nm green LED and driver in a single 8-pin package. The sensor incorporates with a fast, two-wire I2C bus (up to 800kHz) to communicate with micro-controller or embedded system. Its excellent background light rejection allows the device to operate in environments from sunlight to dark rooms. The heart rate sensing is realized by using an 525nm green light LED with current driver, a reflection light detector for the PPG signal from the human body, as well as heart rate algorithm. Typical heart rate measurement samples the reflected PPG signal at a frequency of 25Hz, then the resulting light intensity signal can be transferred to the host controller by I2C interface and the heart rate is calculated by the controller utilizing the algorithm. The device can be used in a health wearable devices, such as sport band or smart watch. Its signal can also be analyzed to indicate the detach of the device.
+K Heart Rate Sensor
+F http://www.tianyihexin.com/pic/file/20170627/20170627154877337733.pdf
+$ENDCMP
+#
+#End Doc Library
