@@ -61,13 +61,17 @@ X ~ 8 300 -150 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# AN2051
+# AN2051-245
 #
-DEF AN2051 ANT 0 40 Y N 1 F N
+DEF AN2051-245 ANT 0 40 Y N 1 F N
 F0 "ANT" -200 75 50 H V L BNN
-F1 "AN2051" -200 150 50 H V L BNN
+F1 "AN2051-245" -200 150 50 H V L BNN
 F2 "Antenna_RainSun_AN2051_5.1x2.0mm" 500 325 50 H I C CNN
 F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752053541.pdf" 1550 250 60 H I C CNN
+F4 "RainSun" -100 175 50 H I C CNN "Manufacturer"
+F5 "AN2051-245" 0 275 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/100941.html" 200 475 50 H I C CNN "Supplier"
+F7 "C99727" 100 375 50 H I C CNN "Sku"
 DRAW
 C -150 0 25 0 1 0 F
 P 2 1 0 0 -200 -50 200 -50 N

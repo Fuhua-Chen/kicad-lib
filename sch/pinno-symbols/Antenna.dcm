@@ -6,7 +6,7 @@ K 3D,125k, Antenna
 F https://wenku.baidu.com/view/ecdbae02a58da0116d1749c9.html
 $ENDCMP
 #
-$CMP AN2051
+$CMP AN2051-245
 D RainSun;AN2051;Multilayer Chip Antenna for 2.4GHz Wireless Communication
 K RainSun;AN2051;2.4G;Chip Antenna;Wireless
 F https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752053541.pdf

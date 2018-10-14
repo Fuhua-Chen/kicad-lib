@@ -515,11 +515,11 @@ DEF SM02B-SRSS-TB J 0 40 Y Y 1 F N
 F0 "J" 150 50 60 V V C CNN
 F1 "SM02B-SRSS-TB" 50 -150 60 H V C CNN
 F2 "JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal" -250 500 60 H I C CNN
-F3 "http://www.jst-mfg.com/product/pdf/eng/eSH.pdf" 150 400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180807/C160402_C52575402B565CCBDF59AB94B2142EC4.pdf" 150 400 60 H I C CNN
 F4 "JST" 0 -250 50 H I C CNN "Manufacturer"
-F5 "SM02B-SRSS-TB" -700 300 50 H I C CNN "PartNumber"
-F6 "https://www.digikey.com.cn/product-detail/zh/jst-sales-america-inc-/SM02B-SRSS-TB-LF-SN-/455-1802-1-ND/926873?keywords=SM02B-SRSS-TB" 750 200 50 H I C CNN "Supplier"
-F7 "455-1802-1-ND" 100 300 50 H I C CNN "Sku"
+F5 "SM02B-SRSS-TB (LF)(SN)" -700 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/171782.html" 200 250 50 H I C CNN "Supplier"
+F7 "C160402" 100 300 50 H I C CNN "Sku"
 DRAW
 S -100 -100 100 100 0 1 0 N
 X ~ 1 -50 150 50 D 20 20 1 1 P
@@ -535,11 +535,11 @@ DEF SM03B-SRSS-TB J 0 40 Y Y 1 F N
 F0 "J" 200 50 60 V V C CNN
 F1 "SM03B-SRSS-TB" 100 -150 60 H V C CNN
 F2 "JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal" -250 500 60 H I C CNN
-F3 "http://www.jst-mfg.com/product/pdf/eng/eSH.pdf" 150 400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180919/C160403_442D705426F4D0D46A6651CC447C1714.pdf" 150 400 60 H I C CNN
 F4 "JST" 0 -250 50 H I C CNN "Manufacturer"
-F5 "SM03B-SRSS-TB" -700 300 50 H I C CNN "PartNumber"
-F6 "https://www.digikey.com.cn/product-detail/zh/jst-sales-america-inc-/SM03B-SRSS-TB-LF-SN-/455-1803-1-ND/926874?keywords=SM03B-SRSS-TB" 750 200 50 H I C CNN "Supplier"
-F7 "455-1803-1-ND" 100 300 50 H I C CNN "Sku"
+F5 "SM03B-SRSS-TB(LF)(SN)(P)" -700 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/171783.html" 750 200 50 H I C CNN "Supplier"
+F7 "C160403" 100 300 50 H I C CNN "Sku"
 DRAW
 S -150 -100 150 100 0 1 0 N
 X ~ 1 -100 150 50 D 20 20 1 1 P
@@ -556,11 +556,11 @@ DEF SM04B-SRSS-TB J 0 40 Y Y 1 F N
 F0 "J" 150 50 60 V V C CNN
 F1 "SM04B-SRSS-TB" 50 -150 60 H V C CNN
 F2 "JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" -250 500 60 H I C CNN
-F3 "http://www.jst-mfg.com/product/pdf/eng/eSH.pdf" 150 400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180807/C160404_E225E1CAF2097A2A768605C2D447DD05.pdf" 150 400 60 H I C CNN
 F4 "JST" 0 -250 50 H I C CNN "Manufacturer"
-F5 "SM04B-SRSS-TB" -700 300 50 H I C CNN "PartNumber"
-F6 "https://www.digikey.com.cn/product-detail/zh/jst-sales-america-inc-/SM04B-SRSS-TB-LF-SN-/455-1804-1-ND/926875?keywords=SM04B-SRSS-TB" 750 200 50 H I C CNN "Supplier"
-F7 "455-1804-1-ND" 100 300 50 H I C CNN "Sku"
+F5 "SM04B-SRSS-TB (LF)(SN)" -700 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/171784.html" 750 200 50 H I C CNN "Supplier"
+F7 "C160404" 100 300 50 H I C CNN "Sku"
 DRAW
 S -200 -100 200 100 0 1 0 N
 X ~ 1 -150 150 50 D 20 20 1 1 P
