@@ -5,6 +5,18 @@ D LED
 K LED
 $ENDCMP
 #
+$CMP LED_GREEN
+D Orient(奥伦德) LED,翠绿色,520~535nm,150mcd@5mA,0603
+K Chip Green LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20180403/C205443_FC3A450D702BEC6084FEB8CF87A0695F.pdf
+$ENDCMP
+#
+$CMP LED_IR
+D EVERLIGHT(台湾亿光) LED,红外,940nm,1.16mW/sr,0603
+K Chip IR LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20161026/1477463507027.pdf
+$ENDCMP
+#
 $CMP WS2812B
 D LED COLOR;WS2812B;WS2812B is a intelligent control LED light source that the control circuit and RGB chip are integrated in a package of 5050 components
 K RGB;WS2812

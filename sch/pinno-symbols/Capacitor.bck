@@ -12,10 +12,22 @@ K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf
 $ENDCMP
 #
+$CMP 100pF
+D Fenghua Ceramic Capacitor,100pF,5%,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1546_1506149265265988353.pdf
+$ENDCMP
+#
 $CMP 10pF
 D Fenghua Ceramic Capacitor,10pF,10%,50V,C0G,0402
 K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20180917/C286508_843E2753D9ACAD7C1893F0BB0BC9A265.pdf
+$ENDCMP
+#
+$CMP 1pF
+D Fenghua Ceramic Capacitor,1pF,±0.25pF,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1550_1506149267010988357.pdf
 $ENDCMP
 #
 $CMP 1uF

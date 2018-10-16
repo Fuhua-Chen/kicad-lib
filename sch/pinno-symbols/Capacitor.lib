@@ -39,6 +39,25 @@ X ~ 2 100 0 100 L 0 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 100pF
+#
+DEF 100pF C 0 40 Y Y 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "100pF" 150 100 60 H V C CNN
+F2 "C_0402_1005Metric" -100 -400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1546_1506149265265988353.pdf" -50 -500 60 H I C CNN
+F4 "Fenghua" 600 -400 50 H I C CNN "Manufacturer"
+F5 "0402CG101J500NT" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/1898.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C1546" 0 -100 50 H I C CNN "Sku"
+DRAW
+S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 10pF
 #
 DEF 10pF C 0 40 Y Y 1 F N
