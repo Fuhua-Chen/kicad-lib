@@ -1,7 +1,7 @@
 (module OCN_BTB_OK-03NF030-04_2x15_P0.4mm_Vertical (layer F.Cu) (tedit 5BC4686B)
   (tags BTB,2x15,P0.4mm)
   (attr smd)
-  (fp_text reference REF** (at -2.51 -2.49) (layer F.SilkS)
+  (fp_text reference REF (at -2.51 -2.49) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value OCN_BTB_OK-03NF030-04_2x15_P0.4mm_Vertical (at 1.51 2.91) (layer F.Fab)

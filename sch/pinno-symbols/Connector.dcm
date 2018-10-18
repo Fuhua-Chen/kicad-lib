@@ -77,8 +77,18 @@ D MicroSD Jack
 K Micro SD;TF
 $ENDCMP
 #
+$CMP OK-03M010-04
+D OCN,BTB,2x5,Pitch 0.4mm
+K OCN Conector
+$ENDCMP
+#
 $CMP OK-03M030-04
 D OCN,BTB,2x30,Pitch 0.4mm
+K OCN Conector
+$ENDCMP
+#
+$CMP OK-03NF010-04
+D OCN,BTB,2x5,Pitch 0.4mm
 K OCN Conector
 $ENDCMP
 #
