@@ -5,6 +5,12 @@ D LED
 K LED
 $ENDCMP
 #
+$CMP LED_BLUE
+D Everlight(台湾亿光) LED,蓝色,465~475nm,11.5~28.5mcd@5mA,0603
+K Chip Green LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20170116/1484561237273.pdf
+$ENDCMP
+#
 $CMP LED_GREEN
 D Orient(奥伦德) LED,翠绿色,520~535nm,150mcd@5mA,0603
 K Chip Green LED
@@ -15,6 +21,12 @@ $CMP LED_IR
 D EVERLIGHT(台湾亿光) LED,红外,940nm,1.16mW/sr,0603
 K Chip IR LED
 F https://atta.szlcsc.com/upload/public/pdf/source/20161026/1477463507027.pdf
+$ENDCMP
+#
+$CMP LED_RED
+D Everlight(台湾亿光) LED,红色,617.5~633.5nm,11.5~28.5mcd@5mA,0603
+K Chip Green LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20160507/1462613613821.pdf
 $ENDCMP
 #
 $CMP WS2812B
