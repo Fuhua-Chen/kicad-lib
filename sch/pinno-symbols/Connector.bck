@@ -131,6 +131,12 @@ K JST,SR,1.0,4p
 F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
+$CMP SM05B-SRSS-TB
+D JST,SR,SH,1.0mm,4pins,Side entry
+K JST,SR,1.0,4p
+F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+$ENDCMP
+#
 $CMP USB
 D USB
 K USB;5P
