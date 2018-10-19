@@ -132,9 +132,9 @@ F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
 $ENDCMP
 #
 $CMP SM05B-SRSS-TB
-D JST,SR,SH,1.0mm,4pins,Side entry
-K JST,SR,1.0,4p
-F http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+D JST,SR,SH,1.0mm,5pins,Side entry
+K JST,SR,1.0,5p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180326/C136657_2836F64FCEAA309619DD64A0A4BEB0A3.pdf
 $ENDCMP
 #
 $CMP USB
