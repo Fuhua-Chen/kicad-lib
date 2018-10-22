@@ -26,7 +26,7 @@ $ENDCMP
 $CMP LED_RED
 D Everlight(台湾亿光) LED,红色,617.5~633.5nm,11.5~28.5mcd@5mA,0603
 K Chip Green LED
-F https://atta.szlcsc.com/upload/public/pdf/source/20180403/C205443_FC3A450D702BEC6084FEB8CF87A0695F.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20160507/1462613613821.pdf
 $ENDCMP
 #
 $CMP WS2812B
