@@ -23,6 +23,12 @@ K Chip IR LED
 F https://atta.szlcsc.com/upload/public/pdf/source/20161026/1477463507027.pdf
 $ENDCMP
 #
+$CMP LED_IR_5mm
+D EVERLIGHT(台湾亿光) LED,红外,940nm,60mW/sr,5mm,100mA,150mW,20deg
+K Through Hole IR LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20171215/C139041_15133106878901182323.pdf
+$ENDCMP
+#
 $CMP LED_RED
 D Everlight(台湾亿光) LED,红色,617.5~633.5nm,11.5~28.5mcd@5mA,0603
 K Chip Green LED

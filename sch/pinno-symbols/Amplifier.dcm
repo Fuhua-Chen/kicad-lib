@@ -12,6 +12,12 @@ K Operational Amplifier;3PEAK;LMV321TP;40μA
 F http://www.3peakic.com.cn/resources/download/LMV321TP-358TP-324TP.pdf
 $ENDCMP
 #
+$CMP LMV321TP-TR
+D 3PEAK;LMV321TP;LMV321TP/358TP/324TP are CMOS single, dual, and quad op-amps with low offset, stable high frequency response, low power, low supply voltage, and rail-to-rail inputs and outputs. They incorporate 3PEAK’s proprietary and patented design techniques to achieve best in-class performance among all micro-power CMOS amplifiers.  The LMV321TP/358TP/324TP are unity gain stable with Any Capacitive Load with a Constant 1.27MHz gain-bandwidth product, 0.9V/μs slew rate while consuming only 40μA of supply current per amplifier. Analog trim and calibration routine reduces input offset voltage to below 3.5mV. Adaptive biasing and dynamic compensation enables the LMV321TP /358TP/324TP to achieve ‘THD+NOISE’ for 1kHz and 10kHz 2VPP signal at -105dB and -90dB, respectively. Beyond the rails input and rail-to-rail output characteristics allow the full power-supply voltage to be used for signal range. This combination of features makes the LMV321TP /358TP/324TP superior among rail-to-rail input /output CMOS op amps in its power class. The LMV321TP/358TP/324TP are ideal choices for battery-powered applications because they minimize errors due to power supply voltage variations over the lifetime of the battery and maintain high CMRR even for a rail-to-rail input op-amp. The LMV321TP/358TP/324TP can be used as cost-effective plug-in replacements for many commercially available op amps to reduce power and improve input/output range and performance.
+K Operational Amplifier;3PEAK;LMV321TP;40μA
+F http://www.3peakic.com.cn/resources/download/LMV321TP-358TP-324TP.pdf
+$ENDCMP
+#
 $CMP RC4580IDR
 D TI;RC4580;Dual Audio Operational Amplifier
 K Operational Amplifier;TI;TI;RC4580;Audio

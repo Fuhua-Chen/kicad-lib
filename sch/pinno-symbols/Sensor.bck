@@ -8,8 +8,14 @@ $ENDCMP
 #
 $CMP PAH8011ES-IN
 D PAH8011ES-IN: Low Power Heart Rate Monitor Optical Chip
-K Heart Rate 
+K Heart Rate
 F https://pdf1.alldatasheetcn.com/datasheet-pdf/view/987644/PIXART/PAH8011ES-IN.html
+$ENDCMP
+#
+$CMP PT334-6B
+D PT334-6B is a high speed and high sensitive NPN silicon, NPN epitaxial planar phototransistor molded in a standard 5 mm package. Due to its Black epoxy the device is sensitive to infrared radiation.
+K IR Receiver,NPN
+F https://atta.szlcsc.com/upload/public/pdf/source/20151126/1457707592655.pdf
 $ENDCMP
 #
 #End Doc Library

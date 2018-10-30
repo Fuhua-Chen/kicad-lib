@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1k
+D Copal Variant Resistor,1k,20%
+K Variant Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170930/C132876_1506736316281997229.pdf
+$ENDCMP
+#
+#End Doc Library

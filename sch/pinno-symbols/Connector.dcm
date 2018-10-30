@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A2001WR-S-2P
+D CJT,PH,2.0mm,2pins,Side entry
+K CJT,PH,2.0,2p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225233_C656E3DBD5D93AB75B97D984929AF7CC.pdf
+$ENDCMP
+#
 $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna

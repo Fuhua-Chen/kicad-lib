@@ -27,6 +27,12 @@ D UniOhm Chip Resistor,1k,1%,0402
 K Resistor
 $ENDCMP
 #
+$CMP 200
+D Ralec Chip Resistor,200,1%,2512
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20171228/C159190_15144326500391212712.pdf
+$ENDCMP
+#
 $CMP 200k
 D UniOhm Chip Resistor,200k,1%,0402
 K Resistor
