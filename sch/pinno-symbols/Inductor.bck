@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10uH
+D Inductors
+K Inductor
+$ENDCMP
+#
 $CMP 2.7nH
 D Sunlord Inductor,High Frequency,2.7nH,±0.3nH,0.2DCR,300mA,6000MHz,Q8,0402
 K High Frequency Inductor

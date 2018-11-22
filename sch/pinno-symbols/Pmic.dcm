@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CN3300
+D CN3300是一款工作于4V到28V的PFM升压型电池 充电控制集成电路。 CN3300内部集成有基准电压 源，＋5V电压调制单元，电感电流检测单元，电 池电压检测电路和片外N沟道MOSFET驱动电路 等，具有外部元件少，电路简单等优点。 当接通输入电源时，CN3300进入充电状态，控制 片外N沟道MOSFET导通，电感电流上升，当上升 到外部电流检测电阻设置的上限时，片外N沟道 MOSFET截止，电感电流下降，电感中的能量转 移到电池中。当电感电流下降到外部电流检测电 阻设置的下限时，片外N沟道MOSFET再次导通， 如此循环。电池电压通过电阻分压网络反馈到FB 管脚，当FB管脚电压达到1.205V(典型值)时，充电 过程结束，片外N沟道MOSFET保持截止状态。当 FB管脚电压下降到再充电阈值时，CN3300再次进 入充电状态。CN3300最高工作频率可达1MHz， 工作温度范围从－40℃到＋85℃。 CN3300采用6管脚的SOT23封装。输入电压范围4V 到 28V,高达25W输出功率。 
+K 多节锂电池充电,8.4V,7.4V,电池管理
+F https://atta.szlcsc.com/upload/public/pdf/source/20160416/1460799387784.pdf
+$ENDCMP
+#
 $CMP ETA6003
 D ETA;ETA6003;2.5A, 3MHz Switching Charger with Dynamic Power Path Management
 K Switching Charger;Power Path Management;2.5A;3MHz;

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMW2012B371BTE
+D Wire-wound Common Mode Filter,370Ω@100MHz,300mA,2012
+K Common Mode Filter,Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180730/C254903_44A22E2BE65001D3A8E9652DD889E5BE.pdf
+$ENDCMP
+#
+#End Doc Library

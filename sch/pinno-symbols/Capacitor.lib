@@ -77,6 +77,101 @@ X ~ 2 100 0 100 L 0 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 10uF
+#
+DEF 10uF C 0 40 Y Y 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "10uF" 50 100 60 H V C CNN
+F2 "C_1210_3225Metric" -100 -400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20171106/C116808_15099531532101092443.pdf" -50 -500 60 H I C CNN
+F4 "Fenghua" 600 -400 50 H I C CNN "Manufacturer"
+F5 "1210B106K500NT" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/118063.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C116808" 0 -100 50 H I C CNN "Sku"
+DRAW
+S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_0
+#
+DEF 10uF_0 C 0 40 Y Y 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "10uF_0" 150 100 60 H V C CNN
+F2 "C_1210_3225Metric" -100 -400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180511/C172721_A74F42A7B6B3325B101544BD906A55A3.pdf" -50 -500 60 H I C CNN
+F4 "HEC" 600 -400 50 H I C CNN "Manufacturer"
+F5 "C1210X106K050T" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/184109.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C172721" 0 -100 50 H I C CNN "Sku"
+DRAW
+S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_1
+#
+DEF 10uF_1 C 0 40 Y Y 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "10uF_1" 150 100 60 H V C CNN
+F2 "C_1206_3216Metric" -100 -400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf" -50 -500 60 H I C CNN
+F4 "SAMSUNG" 600 -400 50 H I C CNN "Manufacturer"
+F5 "CL31B106KBHNNNE" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/90812.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C89632" 0 -100 50 H I C CNN "Sku"
+DRAW
+S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_2
+#
+DEF 10uF_2 C 0 40 Y Y 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "10uF_2" 50 100 60 H V C CNN
+F2 "C_0805_2012Metric" -100 -400 60 H I C CNN
+F3 "https://so.szlcsc.com/global.html?os=0&sb=1&pn=1&c=&k=10uF%252025v%2520x7r&tc=0&pds=0&pa=0&gp=0&queryProductDiscount=&st=&sk=10uF+25v+x7r&bp=&ep=&pageNumber=1" -50 -500 60 H I C CNN
+F4 "Fenghua" 600 -400 50 H I C CNN "Manufacturer"
+F5 "0805B106K250NT" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/93198.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C92009" 0 -100 50 H I C CNN "Sku"
+DRAW
+S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_3
+#
+DEF 10uF_3 C 0 40 Y Y 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "10uF_3" 50 100 60 H V C CNN
+F2 "C_1206_3216Metric" -100 -400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90538_1506149559527988965.pdf" -50 -500 60 H I C CNN
+F4 "Fenghua" 600 -400 50 H I C CNN "Manufacturer"
+F5 "1206B106K250NT" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/91725.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C90538" 0 -100 50 H I C CNN "Sku"
+DRAW
+S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 1pF
 #
 DEF 1pF C 0 40 Y Y 1 F N
@@ -134,6 +229,25 @@ X ~ 2 100 0 100 L 0 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 200pF
+#
+DEF 200pF C 0 40 Y Y 1 F N
+F0 "C" -150 100 60 H V C CNN
+F1 "200pF" 150 100 60 H V C CNN
+F2 "C_0402_1005Metric" -100 -400 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1529_1506149257478988336.pdf" -50 -500 60 H I C CNN
+F4 "Fenghua" 600 -400 50 H I C CNN "Manufacturer"
+F5 "0402B201K500NT" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/1881.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C1529" 0 -100 50 H I C CNN "Sku"
+DRAW
+S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 33nF
 #
 DEF 33nF C 0 40 Y Y 1 F N
@@ -166,6 +280,26 @@ F6 "https://item.szlcsc.com/1921.html" 250 -200 50 H I C CNN "Supplier"
 F7 "C1569" 0 -100 50 H I C CNN "Sku"
 DRAW
 S -50 50 -50 -50 0 1 10 N
+S 0 50 0 -50 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 100 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF
+#
+DEF 47uF C 0 40 Y Y 1 F N
+F0 "C" -100 50 60 H V C CNN
+F1 "47uF" 200 150 60 H V C CNN
+F2 "CP_Elec_6.3x7.7" 200 250 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180813/C267471_4D4550B5852E9AC2CB37E8AE11263E0F.pdf" -100 50 60 H I C CNN
+F4 "ROQANG" 0 150 50 H I C CNN "Manufacturer"
+F5 "RT1H470M0607" 100 250 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/257388.html" 200 350 50 H I C CNN "Supplier"
+F7 "C267471" 300 450 50 H I C CNN "Sku"
+DRAW
+T 0 -92 -28 50 0 0 0 + Normal 0 C C
+S -50 50 -50 -50 0 1 20 N
 S 0 50 0 -50 0 1 10 N
 X ~ 1 -150 0 100 R 0 50 1 1 P
 X ~ 2 100 0 100 L 0 50 1 1 P

@@ -1,6 +1,28 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# CN3300
+#
+DEF CN3300 U 0 40 Y Y 1 F N
+F0 "U" -200 -250 50 H V C CNN
+F1 "CN3300" 100 -250 50 H V C CNN
+F2 "SOT-23-6" -250 350 50 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20160416/1460799387784.pdf" -400 250 50 H I C CNN
+F4 "CONSONANCE(如韵电子)" 50 650 50 H I C CNN "Manfacturer"
+F5 "CN3300" 200 350 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/53389.html" -100 450 50 H I C CNN "Supplier"
+F7 " C52375" -50 550 50 H I C CNN "Sku"
+DRAW
+S -250 200 250 -200 0 1 0 N
+X CSN 1 -350 100 100 R 50 50 1 1 I
+X FB 2 -350 0 100 R 50 50 1 1 I
+X VIN 3 -350 -100 100 R 50 50 1 1 W
+X VCC 4 350 -100 100 L 50 50 1 1 w
+X DRV 5 350 0 100 L 50 50 1 1 O
+X GND 6 350 100 100 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # ETA6003
 #
 DEF ETA6003 U 0 40 Y Y 1 F N
@@ -133,6 +155,7 @@ F2 "SOT-23-6" 250 -250 50 H I C CNN
 F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180306/C181781_15203186595101398056.pdf" 300 550 50 H I C CNN
 F4 "Aerosemi" 150 350 50 H I C CNN "Manufacture"
 F5 "https://item.szlcsc.com/193178.html" -50 450 50 H I C CNN "Supplier"
+F6 "C181781" 50 550 50 H I C CNN "Sku"
 DRAW
 S -300 200 300 -200 0 1 0 N
 X GND 1 0 -300 100 U 50 50 1 1 W
@@ -173,6 +196,7 @@ F2 "SOT-23-6" 250 -250 50 H I C CNN
 F3 "https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478743351706.pdf" 300 450 50 H I C CNN
 F4 "Aerosemi" 150 350 50 H I C CNN "Manufacture"
 F5 "https://item.szlcsc.com/85988.html" -50 450 50 H I C CNN "Supplier"
+F6 "C84817" 50 550 50 H I C CNN "Sku"
 DRAW
 S -300 200 300 -200 0 1 0 N
 X SW 1 400 100 100 L 50 50 1 1 w

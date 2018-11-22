@@ -30,4 +30,10 @@ K PMOS
 F https://atta.szlcsc.com/upload/public/pdf/source/20171230/C163738_15146280902861222121.pdf
 $ENDCMP
 #
+$CMP NCE6003
+D The NCE6003 MOSFET (N-Channel) 60V 3A
+K N Channel;MOSFETS;NMOS
+F https://atta.szlcsc.com/upload/public/pdf/source/20171026/C112351_15089856325661059554.pdf
+$ENDCMP
+#
 #End Doc Library

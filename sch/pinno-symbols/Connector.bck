@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A2001WR-S-2P
+D CJT,PH,2.0mm,2pins,Side entry
+K CJT,PH,2.0,2p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225233_C656E3DBD5D93AB75B97D984929AF7CC.pdf
+$ENDCMP
+#
 $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna
@@ -135,6 +141,12 @@ $CMP SM05B-SRSS-TB
 D JST,SR,SH,1.0mm,5pins,Side entry
 K JST,SR,1.0,5p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180326/C136657_2836F64FCEAA309619DD64A0A4BEB0A3.pdf
+$ENDCMP
+#
+$CMP SM08B-SRSS-TB
+D JST,SR,SH,1.0mm,8pins,Side entry
+K JST,SR,1.0,8p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180919/C160407_746DD325331750CE03918053D99628BF.pdf
 $ENDCMP
 #
 $CMP USB

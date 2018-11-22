@@ -1,9 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 1k-VR
+$CMP 1k
 D Copal Variant Resistor,1k,20%
 K Variant Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170930/C132876_1506736316281997229.pdf
+$ENDCMP
+#
+$CMP RL0402E012M100K
+D Varistor Resistor,Operation Voltage 12V,Clamping Voltage 50V,ESD Voltage 8KV,1pF,0402
+K Variant Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20140725/1457707184627.pdf
+$ENDCMP
+#
+$CMP RL0603E012M100K
+D Varistor Resistor,Operation Voltage 12V,Clamping Voltage 50V,ESD Voltage 8KV,1pF,0603
+K Variant Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20140725/1457707186893.pdf
 $ENDCMP
 #
 #End Doc Library

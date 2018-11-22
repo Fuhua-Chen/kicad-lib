@@ -24,6 +24,36 @@ K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20180917/C286508_843E2753D9ACAD7C1893F0BB0BC9A265.pdf
 $ENDCMP
 #
+$CMP 10uF
+D Fenghua Ceramic Capacitor,10uF,±10%,50V,X7R,1210
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20171106/C116808_15099531532101092443.pdf
+$ENDCMP
+#
+$CMP 10uF_0
+D HEC Ceramic Capacitor,10uF,±10%,50V,X7R,1210
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C172721_A74F42A7B6B3325B101544BD906A55A3.pdf
+$ENDCMP
+#
+$CMP 10uF_1
+D SAMSUNG Ceramic Capacitor,10uF,±10%,50V,X7R,1206
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf
+$ENDCMP
+#
+$CMP 10uF_2
+D Fenghua Ceramic Capacitor,10uF,±10%,25V,X7R,0805
+K Ceramic Capacitor
+F https://so.szlcsc.com/global.html?os=0&sb=1&pn=1&c=&k=10uF%252025v%2520x7r&tc=0&pds=0&pa=0&gp=0&queryProductDiscount=&st=&sk=10uF+25v+x7r&bp=&ep=&pageNumber=1
+$ENDCMP
+#
+$CMP 10uF_3
+D Fenghua Ceramic Capacitor,10uF,±10%,50V,X7R,1206
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90538_1506149559527988965.pdf
+$ENDCMP
+#
 $CMP 1pF
 D Fenghua Ceramic Capacitor,1pF,±0.25pF,50V,C0G,0402
 K Ceramic Capacitor
@@ -42,6 +72,12 @@ K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1531_1506149258433988338.pdf
 $ENDCMP
 #
+$CMP 200pF
+D Fenghua Ceramic Capacitor,200pF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1529_1506149257478988336.pdf
+$ENDCMP
+#
 $CMP 33nF
 D YAGEO Ceramic Capacitor,33nF,10%,50V,X7R,0402
 K Ceramic Capacitor
@@ -52,6 +88,12 @@ $CMP 4.7pF
 D Fenghua Ceramic Capacitor,4.7pF,±0.25pF,50V,NP0,0402
 K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20180403/C189469_64662B4C0C1C4BECD5C204028AE63279.pdf
+$ENDCMP
+#
+$CMP 47uF
+D Electrolytic Capacitors,-40℃~+105℃,50V,±20%,6.3x7.7mm,2000Hrs@105℃
+K Electrolytic Capacitors
+F https://atta.szlcsc.com/upload/public/pdf/source/20180813/C267471_4D4550B5852E9AC2CB37E8AE11263E0F.pdf
 $ENDCMP
 #
 $CMP CAP_Electrolytic

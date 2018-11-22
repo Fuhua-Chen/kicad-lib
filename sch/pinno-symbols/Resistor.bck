@@ -6,6 +6,24 @@ K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C21376_1505887444166980543.pdf
 $ENDCMP
 #
+$CMP 0.1
+D YAGEO Chip Resistor,0.1Ω,1%,2512,1W
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181031/C326592_04A60DE821051A02B0F259090E71EA8E.pdf
+$ENDCMP
+#
+$CMP 0.1_0
+D UniOhm Chip Resistor,0.1Ω,1%,2512,3W
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170704/1499132967692.pdf
+$ENDCMP
+#
+$CMP 1.2M
+D UniOhm Chip Resistor,1.2M,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C43675_1505895330776981400.pdf
+$ENDCMP
+#
 $CMP 100
 D UniOhm Chip Resistor,100,1%,0402
 K Resistor
@@ -22,15 +40,21 @@ D UniOhm Chip Resistor,10k,1%,0402
 K Resistor
 $ENDCMP
 #
+$CMP 110k
+D Fenghua Chip Resistor,110k,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20171106/C140209_15099446183391092298.pdf
+$ENDCMP
+#
+$CMP 110k_0
+D UniOhm Chip Resistor,110k,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25745_1505901522744983321.pdf
+$ENDCMP
+#
 $CMP 1k
 D UniOhm Chip Resistor,1k,1%,0402
 K Resistor
-$ENDCMP
-#
-$CMP 1k-VR
-D Copal Variant Resistor,1k,20%
-K Variant Resistor
-F https://atta.szlcsc.com/upload/public/pdf/source/20170930/C132876_1506736316281997229.pdf
 $ENDCMP
 #
 $CMP 200
@@ -44,9 +68,33 @@ D UniOhm Chip Resistor,200k,1%,0402
 K Resistor
 $ENDCMP
 #
+$CMP 20k
+D Fenghua Chip Resistor,20k,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180730/C258096_5354335BDB3FA8B1E1A4974A193554F9.pdf
+$ENDCMP
+#
+$CMP 20k_0
+D UniOhm Chip Resistor,20k,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25765_1505901532738983340.pdf
+$ENDCMP
+#
 $CMP 22k
 D UniOhm Chip Resistor,22k,1%,0402
 K Resistor
+$ENDCMP
+#
+$CMP 330k
+D Fenghua Chip Resistor,330k,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180730/C258100_268060357BAB6EC5185E77552B6BED11.pdf
+$ENDCMP
+#
+$CMP 330k_0
+D UniOhm Chip Resistor,330k,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25778_1505901538742983352.pdf
 $ENDCMP
 #
 $CMP 33k

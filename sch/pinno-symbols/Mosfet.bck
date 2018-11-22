@@ -18,10 +18,22 @@ K N Channel;MOSFETS;NMOS
 F https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707282836.pdf
 $ENDCMP
 #
+$CMP CJ3134K
+D The CJ3134K N-Channel MOSFET 20V -0.75A 380mΩ
+K N Channel;MOSFETS;NMOS
+F https://atta.szlcsc.com/upload/public/pdf/source/20160416/1460799387864.pdf
+$ENDCMP
+#
 $CMP NCE40P05Y
 D The NCE40P05Y P Channel -40V -5.3A
 K PMOS
 F https://atta.szlcsc.com/upload/public/pdf/source/20171230/C163738_15146280902861222121.pdf
+$ENDCMP
+#
+$CMP NCE6003
+D The NCE6003 MOSFET (N-Channel) 60V 3A
+K N Channel;MOSFETS;NMOS
+F https://atta.szlcsc.com/upload/public/pdf/source/20171026/C112351_15089856325661059554.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -19,6 +19,60 @@ X ~ 2 200 0 100 L 0 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 0.1
+#
+DEF 0.1 R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "0.1" 150 100 60 H V C CNN
+F2 "R_2512_6332Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20181031/C326592_04A60DE821051A02B0F259090E71EA8E.pdf" -250 650 60 H I C CNN
+F4 "YAGEO" 0 200 50 H I C CNN "Manufacturer"
+F5 "RL2512FK-070R1L" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/306686.html" 200 400 50 H I C CNN "Supplier"
+F7 " C326592" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0.1_0
+#
+DEF 0.1_0 R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "0.1_0" 150 100 60 H V C CNN
+F2 "R_2512_6332Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170704/1499132967692.pdf" -250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "MS122WF100LT4E" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/64387.html" 200 400 50 H I C CNN "Supplier"
+F7 "C63324" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.2M
+#
+DEF 1.2M R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "1.2M" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C43675_1505895330776981400.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF1204TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/44668.html" 200 400 50 H I C CNN "Supplier"
+F7 "C43675" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 100
 #
 DEF 100 R 0 40 Y Y 1 F N
@@ -66,6 +120,42 @@ F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
 F5 "0402WGF1002TCE" 100 300 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/26487.html" 200 400 50 H I C CNN "Supplier"
 F7 "C25744" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 110k
+#
+DEF 110k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "110k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20171106/C140209_15099446183391092298.pdf" 250 650 60 H I C CNN
+F4 "Fenghua" 0 200 50 H I C CNN "Manufacturer"
+F5 "RC-02W1103FT" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/151535.html" 200 400 50 H I C CNN "Supplier"
+F7 "C140209" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 110k_0
+#
+DEF 110k_0 R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "110k_0" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25745_1505901522744983321.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF1103TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26488.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25745" -350 500 50 H I C CNN "Sku"
 DRAW
 S -50 25 100 -25 0 1 10 N
 X ~ 1 -150 0 100 R 0 50 1 1 P
@@ -127,6 +217,42 @@ X ~ 2 200 0 100 L 0 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 20k
+#
+DEF 20k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "20k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180730/C258096_5354335BDB3FA8B1E1A4974A193554F9.pdf" 250 650 60 H I C CNN
+F4 "Fenghua" 0 200 50 H I C CNN "Manufacturer"
+F5 "RC-02W2002FT" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/251121.html" 200 400 50 H I C CNN "Supplier"
+F7 "C258096" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 20k_0
+#
+DEF 20k_0 R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "20k_0" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25765_1505901532738983340.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF2002TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26508.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25765" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 22k
 #
 DEF 22k R 0 40 Y Y 1 F N
@@ -138,6 +264,42 @@ F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
 F5 "0402WGF2202TCE" 100 300 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/26511.html" 200 400 50 H I C CNN "Supplier"
 F7 "C25768" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330k
+#
+DEF 330k R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "330k" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180730/C258100_268060357BAB6EC5185E77552B6BED11.pdf" 250 650 60 H I C CNN
+F4 "Fenghua" 0 200 50 H I C CNN "Manufacturer"
+F5 "RC-02W3303FT" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/251125.html" 200 400 50 H I C CNN "Supplier"
+F7 " C258100" -350 500 50 H I C CNN "Sku"
+DRAW
+S -50 25 100 -25 0 1 10 N
+X ~ 1 -150 0 100 R 0 50 1 1 P
+X ~ 2 200 0 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330k_0
+#
+DEF 330k_0 R 0 40 Y Y 1 F N
+F0 "R" -100 100 60 H V C CNN
+F1 "330k_0" 250 100 60 H V C CNN
+F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25778_1505901538742983352.pdf" 250 650 60 H I C CNN
+F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
+F5 "0402WGF3303TCE" 100 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/26521.html" 200 400 50 H I C CNN "Supplier"
+F7 "C25778" -350 500 50 H I C CNN "Sku"
 DRAW
 S -50 25 100 -25 0 1 10 N
 X ~ 1 -150 0 100 R 0 50 1 1 P
