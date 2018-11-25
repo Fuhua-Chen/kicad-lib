@@ -136,7 +136,7 @@ F0 "Q" 325 150 60 H V C CNN
 F1 "NCE40P05Y" 450 -100 60 H V C CNN
 F2 "SOT-23" 350 -250 60 H I C CNN
 F3 "https://atta.szlcsc.com/upload/public/pdf/source/20171230/C163738_15146280902861222121.pdf" 1800 475 60 H I C CNN
-F4 "NCEPOWER" 400 -350 50 H I C CNN "Manufacture"
+F4 "NCEPOWER" 400 -350 50 H I C CNN "Manufacturer"
 F5 "NCE40P05Y" 600 550 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/175120.html" 625 450 50 H I C CNN "Supplier"
 F7 "C47937" 725 550 50 H I C CNN "Sku"

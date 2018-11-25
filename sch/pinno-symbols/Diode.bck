@@ -7,7 +7,7 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20150915/1457707371129.pdf
 $ENDCMP
 #
 $CMP CESD5V0D3
-D The CESD5V0D3 is designed to protect voltage sensitive components from ESD. Excellent clamping capability, low leakage, and fast response time provide best in class protection on designs that are exposed to ESD. Because of its small size, it is suited for use in cellular phones, MP3 players, digital cameras and many other portable applications where board space is at a premium. 
+D The CESD5V0D3 is designed to protect voltage sensitive components from ESD. Excellent clamping capability, low leakage, and fast response time provide best in class protection on designs that are exposed to ESD. Because of its small size, it is suited for use in cellular phones, MP3 players, digital cameras and many other portable applications where board space is at a premium.
 K Diode,ESD
 F https://atta.szlcsc.com/upload/public/pdf/source/20140301/1457707004115.pdf
 $ENDCMP
@@ -36,6 +36,12 @@ $CMP SS34
 D The SS34 40V 3A Schottky Diodes
 K Diode;Schottky;SS34
 F https://atta.szlcsc.com/upload/public/pdf/source/20180327/C183891_8A3842A9AB1C34A47BEFE07949B906E2.pdf
+$ENDCMP
+#
+$CMP SS54BF
+D The SS54BF 40V 5A Schottky Diodes
+K Diode;Schottky;SS54
+F https://atta.szlcsc.com/upload/public/pdf/source/20180730/C190806_2B944236921B5C0DE44E6C346DABD980.pdf
 $ENDCMP
 #
 $CMP ST;USBLC6-2

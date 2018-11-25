@@ -117,6 +117,7 @@ F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180327/C183891_8A3842A9AB
 F4 "Hottech" 150 200 50 H I C CNN "Manufacturer"
 F5 "SS34" 200 100 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/195295.html" 250 400 50 H I C CNN "Supplier"
+F7 "C183891" -350 500 50 H I C CNN "Sku"
 DRAW
 P 2 0 1 0 0 -50 10 -60 N
 P 2 0 1 0 0 50 -10 60 N
