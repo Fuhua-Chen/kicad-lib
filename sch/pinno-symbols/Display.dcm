@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OLED_WhiteFont_1.3Inch_128x64Pixels
+D OLED Screen,white font,1.3 Inch, 128x64 pixels, SSD1306, FPC Number:ut-0206-P05
+K OLED Screen,1.3 Inch, 128x64 pixels
+F https://atta.szlcsc.com/upload/public/pdf/source/20170608/1496894127844.pdf
+$ENDCMP
+#
+#End Doc Library
