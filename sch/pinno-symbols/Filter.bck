@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCZ0806AH900L2TA0G
+D 高速查分信号线用小型叠层共模滤波器(USB2.0,LVDS等)
+K Common Mode Filter for USB,LVDS or so on high speed different signal line,Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20161125/1480068347523.pdf
+$ENDCMP
+#
 $CMP SMW2012B371BTE
 D Wire-wound Common Mode Filter,370Ω@100MHz,300mA,2012
 K Common Mode Filter,Inductor
