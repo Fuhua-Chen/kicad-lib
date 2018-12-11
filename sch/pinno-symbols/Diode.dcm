@@ -44,10 +44,10 @@ K Diode;Schottky;SS54
 F https://atta.szlcsc.com/upload/public/pdf/source/20180730/C190806_2B944236921B5C0DE44E6C346DABD980.pdf
 $ENDCMP
 #
-$CMP ST;USBLC6-2
+$CMP USBLC6-2SC6
 D The USBLC6-2SC6 and USBLC6-2P6 are monolithic application specific devices dedicated to ESD protection of high speed interfaces, such as USB 2.0, Ethernet links and video lines. The very low line capacitance secures a high level of signal integrity without compromising in protecting sensitive chips against the most stringently characterized ESD strikes.
 K ESD,Diode,USB,low capacitance
-F http://www.st.com/content/st_com/en/products/protection-devices/esd-protection/usb-port-protection/usblc6-2.html
+F https://atta.szlcsc.com/upload/public/pdf/source/20140724/1457707166955.pdf
 $ENDCMP
 #
 #End Doc Library
