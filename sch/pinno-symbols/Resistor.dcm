@@ -52,6 +52,12 @@ K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25745_1505901522744983321.pdf
 $ENDCMP
 #
+$CMP 18
+D UniOhm Chip Resistor,18Ω,1%,1206
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C17922_1505887309908980272.pdf
+$ENDCMP
+#
 $CMP 1k
 D UniOhm Chip Resistor,1k,1%,0402
 K Resistor
