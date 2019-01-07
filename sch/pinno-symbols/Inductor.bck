@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 10uH
-D Inductors
+D Cjiang Inductor, High Current, Power Inductor,10uH,±20%，0.062DCR,4.5A,5MHz,7.3x6.8x 3.0mm
 K Inductor
 $ENDCMP
 #
