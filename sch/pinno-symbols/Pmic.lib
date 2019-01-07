@@ -134,8 +134,11 @@ ENDDEF
 DEF MIC29302WU U 0 40 Y Y 1 F N
 F0 "U" -300 250 60 H V C CNN
 F1 "MIC29302WU" -100 350 60 H V C CNN
-F2 "TO-263-5Lead" -50 550 60 H I C CNN
-F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf" 1200 450 60 H I C CNN
+F2 "TO-263-5_TabPin3" -50 450 60 H I C CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf" 250 550 60 H I C CNN
+F4 "Microchip" 400 250 50 H I C CNN "Manufacturer"
+F5 "MIC29302WU-TR" 550 350 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/11696.html" 100 650 50 H I C CNN "Supplier"
 DRAW
 S -350 200 350 -250 0 1 0 N
 X EN 1 -550 -150 200 R 50 50 1 1 I
