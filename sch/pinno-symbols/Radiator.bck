@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP U
+D Radiator,2 holes, 38*38*6mm
+K Radiator,铝制散热片
+$ENDCMP
+#
+#End Doc Library
