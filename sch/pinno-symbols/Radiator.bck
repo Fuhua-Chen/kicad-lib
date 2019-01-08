@@ -1,8 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP U
+$CMP Radiator_38x38x6mm_2holes
 D Radiator,2 holes, 38*38*6mm
 K Radiator,铝制散热片
+F http://detail.m.1688.com/page/index.htm?offerId=557309378084
 $ENDCMP
 #
 #End Doc Library
