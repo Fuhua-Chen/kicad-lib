@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 204-10SDRD_S530-A3-L
+D Everlight(台湾亿光) LED,红色,639nm,80mcd@20mA,Through hole,3mm
+K Through hole Red LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20170717/C84774_1500286941158822251.pdf
+$ENDCMP
+#
 $CMP LED
 D LED
 K LED
