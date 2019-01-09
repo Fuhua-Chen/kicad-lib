@@ -22,4 +22,10 @@ K SMD Button 4P
 F https://atta.szlcsc.com/upload/public/pdf/source/20181030/C273507_2EE484BB84AB69DC7DF4B8E47CB971AF.pdf
 $ENDCMP
 #
+$CMP TS-1187-B-A-B
+D XKB(星坤) Button,4 Pins,160gf,5.1x5.1x1.5mm
+K Button,4P,160gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20181029/C318884_B7FBA564256833590EBD8CAF2A1232F3.pdf
+$ENDCMP
+#
 #End Doc Library
