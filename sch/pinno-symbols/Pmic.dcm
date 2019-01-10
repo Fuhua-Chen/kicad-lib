@@ -30,9 +30,15 @@ K ST;MC34063;3 V to 40 V;1.5 A;100 kHz.
 F http://www.mouser.com/ds/2/389/mc34063ab-974173.pdf
 $ENDCMP
 #
+$CMP ME6209A18M3G
+D The ME6209 series are a group of positive voltage output, three –pin regulator, that provide a high current even when the input/output Voltage differential is small. Low power consumption and high accuracy is achieved through CMOS technology. They allow input voltages as high as 18V.
+K MicroOne;ME6209;LDO;1.8V
+F https://atta.szlcsc.com/upload/public/pdf/source/20180709/C236690_7298A31E655FC3E069C078A3A679D33F.pdf
+$ENDCMP
+#
 $CMP ME6209A33M3G
 D The ME6209 series are a group of positive voltage output, three –pin regulator, that provide a high current even when the input/output Voltage differential is small. Low power consumption and high accuracy is achieved through CMOS technology. They allow input voltages as high as 18V.
-K MicroOne;ME6209;LDO
+K MicroOne;ME6209;LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20161212/1481539101152.pdf
 $ENDCMP
 #
