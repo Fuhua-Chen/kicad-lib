@@ -22,7 +22,11 @@ K Resistor
 $ENDCMP
 #
 $CMP 0402WGF1004TCE
+<<<<<<< HEAD
 D UniOhm Chip Resistor,1MΩ,1%,0402
+=======
+D UniOhm Chip Resistor,1M,1%,0402
+>>>>>>> 7ce3cc9fdb886b0e3f887f04d712a5d455566067
 K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C26083_1505895182773981069.pdf
 $ENDCMP

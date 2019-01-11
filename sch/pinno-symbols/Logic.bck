@@ -24,6 +24,7 @@ K transceiver,level switch
 F https://atta.szlcsc.com/upload/public/pdf/source/20180109/C168856_15154706151821250215.pdf
 $ENDCMP
 #
+<<<<<<< HEAD
 $CMP MC74VHC1G32DFT2G
 D The MC74VHC1G32 is an advanced high speed CMOS 2−input OR
 gate fabricated with silicon gate CMOS technology.
@@ -35,6 +36,18 @@ allows the MC74VHC1G32 to be used to interface 5 V circuits to 3 V
 circuits.
 K 2-input OR gate
 F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184692_2A4B27801ECE5CCAAB16339ADEDBF0C3.PDF
+=======
+$CMP NL17SZ32XV5T2G
+D The NL17SZ32 is a single 2−input OR Gate in three tiny footprint packages. The device performs much as LCX multi−gate products in speed and drive. They should be used wherever the need for higher speed and drive are needed.
+K Single 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20170310/1489116322835.PDF
+$ENDCMP
+#
+$CMP NL17SZ32XV5T2G_0
+D The NL17SZ32 is a single 2−input OR Gate in three tiny footprint packages. The device performs much as LCX multi−gate products in speed and drive. They should be used wherever the need for higher speed and drive are needed.
+K Single 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20170310/1489116322835.PDF
+>>>>>>> 7ce3cc9fdb886b0e3f887f04d712a5d455566067
 $ENDCMP
 #
 $CMP NL27WZ32USG
