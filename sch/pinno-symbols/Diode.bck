@@ -17,7 +17,7 @@ D Diode
 K Diode
 $ENDCMP
 #
-$CMP Diode_ESD
+$CMP Diode_ESD_0
 D ESD Diode
 K Diode;ESD
 $ENDCMP
@@ -30,6 +30,12 @@ $ENDCMP
 $CMP Diode_Zener
 D Zener;Diode
 K Diode;Zener
+$ENDCMP
+#
+$CMP PESD15VL1BA
+D 台湾元基 双向ESD, 15V (Max)关断, 16.7V 击穿, 31V 钳位，11A (8/20us),SOD-323 
+K Diode;ESD
+F https://atta.szlcsc.com/upload/public/pdf/source/20181108/C330095_E8DDC9FC0522283065CE8FE4437C26EE.pdf
 $ENDCMP
 #
 $CMP SS34
