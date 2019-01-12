@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A1002WR-S-6P
+D CJT,SR,SH,1.0mm,6pins,Side entry,替代SM06B-SRSS-TB
+K CJT,SR,1.0,6p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180724/C239524_10DB3B45D7C6FE05ABCFBCE206176212.pdf
+$ENDCMP
+#
 $CMP A2001WR-S-2P
 D CJT,PH,2.0mm,2pins,Side entry
 K CJT,PH,2.0,2p
