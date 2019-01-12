@@ -143,6 +143,12 @@ K JST,SR,1.0,5p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180326/C136657_2836F64FCEAA309619DD64A0A4BEB0A3.pdf
 $ENDCMP
 #
+$CMP SM06B-SRSS-TB
+D JST,SR,SH,1.0mm,6pins,Side entry
+K JST,SR,1.0,6p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180919/C160405_1A1AC24B3C29D4BEF848D797AB9AFABC.pdf
+$ENDCMP
+#
 $CMP SM08B-SRSS-TB
 D JST,SR,SH,1.0mm,8pins,Side entry
 K JST,SR,1.0,8p
