@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM25F01-TS-T-G
+D The FM25FF01 is a 1M-bit(128K-byte)Serial Flash memory, with advanced writer protection mechanisms. The FM25F01 support the standard Serial Peripheral Interface (SPI), and a high performance Dual output as well as Dual IO. The FM25F01 can be programmed 1 to256 bytes at a time,using the Page Program instruction, It is designed to allow either single Sector/Block at a time or full chip erase operation.The FM25F01 can be configured to protect part of the memory as the software protected mode. The Device can sustain a minimum of 100k program/erasw cycles on each sector or block.
+K 1M-Bit Serial Flash Memory
+F https://atta.szlcsc.com/upload/public/pdf/source/20180829/C250846_441F4612D5F42C2ADB3A93F7AF901F19.pdf
+$ENDCMP
+#
+#End Doc Library

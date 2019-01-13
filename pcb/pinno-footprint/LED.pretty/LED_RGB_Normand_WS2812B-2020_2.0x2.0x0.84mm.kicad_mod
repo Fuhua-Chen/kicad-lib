@@ -1,6 +1,7 @@
-(module LED_RGB_Normand_WS2812B-2020_2.0x2.0x0.84mm (layer F.Cu) (tedit 5C3AE000)
+(module LED_RGB_Normand_WS2812B-2020_2.0x2.0x0.84mm (layer F.Cu) (tedit 5C3B345C)
   (descr http://www.normandled.com/upload/201901/WS2812B-2020%20Led%20Datasheet.pdf)
   (tags RGB,LED,WS2812B,2020)
+  (attr smd)
   (fp_text reference REF** (at 0.37 -2.12) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
