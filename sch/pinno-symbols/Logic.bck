@@ -31,9 +31,15 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184692_2A4B27801ECE
 $ENDCMP
 #
 $CMP NL17SZ32XV5T2G
-D The MC74VHC1G32 is an advanced high speed CMOS 2−input OR gate fabricated with silicon gate CMOS technology. The internal circuit is composed of multiple stages, including a buffer output which provides high noise immunity and stable output. The MC74VHC1G32 input structure provides protection when voltages up to 7 V are applied, regardless of the supply voltage. This allows the MC74VHC1G32 to be used to interface 5 V circuits to 3 V circuits.
+D The NL17SZ32 is a single 2−input OR Gate in three tiny footprint packages. The device performs much as LCX multi−gate products in speed and drive. They should be used wherever the need for higher speed and drive are needed.
 K Single 2-Input OR Gate
-F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184692_2A4B27801ECE5CCAAB16339ADEDBF0C3.PDF
+F https://atta.szlcsc.com/upload/public/pdf/source/20170310/1489116322835.PDF
+$ENDCMP
+#
+$CMP NL27WZ32USG
+D The NL27WZ32 is a high performance dual 2−input OR Gate operating from a 1.65 V to 5.5 V supply.
+K Dual 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184880_03D26CC743483A7DE8F281E033115CAA.PDF
 $ENDCMP
 #
 #End Doc Library

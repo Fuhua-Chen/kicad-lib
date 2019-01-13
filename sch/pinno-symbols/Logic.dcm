@@ -36,4 +36,10 @@ K Single 2-Input OR Gate
 F https://atta.szlcsc.com/upload/public/pdf/source/20170310/1489116322835.PDF
 $ENDCMP
 #
+$CMP NL27WZ32USG
+D The NL27WZ32 is a high performance dual 2−input OR Gate operating from a 1.65 V to 5.5 V supply.
+K Dual 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184880_03D26CC743483A7DE8F281E033115CAA.PDF
+$ENDCMP
+#
 #End Doc Library

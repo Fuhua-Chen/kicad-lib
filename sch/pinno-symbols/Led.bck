@@ -6,6 +6,12 @@ K Through hole Red LED
 F https://atta.szlcsc.com/upload/public/pdf/source/20170717/C84774_1500286941158822251.pdf
 $ENDCMP
 #
+$CMP EC20-SK9822-2020
+D EC20-SK9822-2020 is a 20x20mm RGB LED with SPI interface
+K RGB LED,APA102-2020 replaceable,SK9822
+F https://item.taobao.com/item.htm?spm=a230r.1.14.17.233e1ce6J5YRQp&id=583626419469&ns=1&abbucket=20#detail
+$ENDCMP
+#
 $CMP LED
 D LED
 K LED
@@ -45,6 +51,12 @@ $CMP WS2812B
 D LED COLOR;WS2812B;WS2812B is a intelligent control LED light source that the control circuit and RGB chip are integrated in a package of 5050 components
 K RGB;WS2812
 F http://www.led-color.com/index.php/Product/view/id/763/lang/cn.html
+$ENDCMP
+#
+$CMP WS2812B-2020
+D LED COLOR;WS2812B;WS2812B is a intelligent control LED light source that the control circuit and RGB chip are integrated in a package of 2020 components
+K RGB;WS2812-2020
+F http://www.normandled.com/upload/201901/WS2812B-2020%20Led%20Datasheet.pdf
 $ENDCMP
 #
 #End Doc Library
