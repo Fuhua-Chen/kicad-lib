@@ -138,7 +138,7 @@ ENDDEF
 DEF PT334-6B D 0 40 Y Y 1 F N
 F0 "D" -350 300 50 H V C CNN
 F1 "PT334-6B" 150 0 50 V V C CNN
-F2 "LED_D5.0mm" 500 400 50 H I C CNN
+F2 "IrSensor_Everlight_PT334-6B_D5.0mm" 500 400 50 H I C CNN
 F3 "https://atta.szlcsc.com/upload/public/pdf/source/20151126/1457707592655.pdf" 550 700 50 H I C CNN
 F4 "Everlight" -250 400 50 H I C CNN "Manufacturer"
 F5 "PT334-6B" 400 600 50 H I C CNN "PartNumber"
