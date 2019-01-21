@@ -5,12 +5,6 @@ D Cjiang Inductor, High Current, Power Inductor,10uH,±20%，0.062DCR,4.5A,5MHz,
 K Inductor
 $ENDCMP
 #
-$CMP 1mH
-D TaiYo Inductor,1mH,1.6MHz,16Ω,100mA,1210
-K SMD Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20181206/C223235_CC487224E89CCDC31FDEE4E4F24060B9.pdf
-$ENDCMP
-#
 $CMP 2.7nH
 D Sunlord Inductor,High Frequency,2.7nH,±0.3nH,0.2DCR,300mA,6000MHz,Q8,0402
 K High Frequency Inductor
@@ -27,6 +21,12 @@ $CMP 8.2nH
 D Sunlord Inductor,High Frequency,8.2nH,±5%,0.4DCR,300mA,3600MHz,Q8,0402
 K High Frequency Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20140222/1457706791971.pdf
+$ENDCMP
+#
+$CMP CBC3225T102KR
+D TaiYo Inductor,1mH,1.6MHz,16Ω,100mA,1210
+K SMD Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181206/C223235_CC487224E89CCDC31FDEE4E4F24060B9.pdf
 $ENDCMP
 #
 $CMP IND

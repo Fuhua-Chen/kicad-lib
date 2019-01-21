@@ -6,7 +6,7 @@ K Inductor
 $ENDCMP
 #
 $CMP 1mH
-D TaiYo Inductor,1mH,1210
+D TaiYo Inductor,1mH,1.6MHz,16Ω,100mA,1210
 K SMD Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20181206/C223235_CC487224E89CCDC31FDEE4E4F24060B9.pdf
 $ENDCMP
