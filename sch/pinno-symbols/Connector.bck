@@ -119,6 +119,12 @@ D OCN,BTB,2x3,Pitch 1.3mm
 K OCN Conector
 $ENDCMP
 #
+$CMP PJ-609-5A
+D 韩国韩荣，防水IPX8音频连接器15x8mm，带耳朵
+K Audio Connector
+F https://atta.szlcsc.com/upload/public/pdf/source/20170922/C128984_1506073624840987249.pdf
+$ENDCMP
+#
 $CMP SIM-002-T6
 D 東莞市碩方電子科技有限公司;Micro SIM Connector;SIM-002-T6;17.2x15.3x1.25mm
 K Micro SIM Connector;SIM-002-T6
@@ -159,6 +165,12 @@ $CMP SM08B-SRSS-TB
 D JST,SR,SH,1.0mm,8pins,Side entry
 K JST,SR,1.0,8p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180919/C160407_746DD325331750CE03918053D99628BF.pdf
+$ENDCMP
+#
+$CMP U-E-M5SS-Y-1
+D 韩国，韩荣，带耳朵，防水IP67，Micro USB，OTG
+K Micro USB OTG
+F https://atta.szlcsc.com/upload/public/pdf/source/20170922/C129012_1506073636460987277.pdf
 $ENDCMP
 #
 $CMP USB
