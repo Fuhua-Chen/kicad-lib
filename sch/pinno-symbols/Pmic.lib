@@ -303,7 +303,7 @@ DEF TP4057 U 0 40 Y Y 1 F N
 F0 "U" -300 400 60 H V C CNN
 F1 "TP4057" -200 300 60 H V C CNN
 F2 "SOT-23-6" 400 500 60 H I C CNN
-F3 "http://www.szlcsc.com/product/pdf/A_100FC20098F7D836.PDF" 350 900 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706997013.pdf" 350 900 60 H I C CNN
 F4 "TOPPOWER(南京拓微)" -350 500 50 H I C CNN "Manufacturer"
 F5 "TP4057" -250 750 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/12599.html" 50 650 50 H I C CNN "Supplier"
