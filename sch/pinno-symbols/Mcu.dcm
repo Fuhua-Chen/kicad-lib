@@ -54,6 +54,12 @@ K STM32;F103RC
 F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00191185.pdf
 $ENDCMP
 #
+$CMP STM32F730V8T6
+D ST;STM32F730V8T6;High-performance and DSP with FPU, Arm Cortex-M7 MCU with 64 Kbytes of Flash memory, 216 MHz CPU, Art Accelerator, L1 cache, HW crypto, SDRAM
+K MCU;ST;STM32F730V8;Cortex-M7
+F https://www.st.com/resource/en/datasheet/stm32f730v8.pdf
+$ENDCMP
+#
 $CMP STM32L011D4P6
 D ST;STM32L011D4P6;Access line ultra-low-power 32-bit MCU Arm®-based
 K MCU;ST;STM32L011D4P6;M0+

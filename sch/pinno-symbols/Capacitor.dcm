@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0402B102K500NT
+D Fenghua Ceramic Capacitor,1nF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1523_1506149254821988331.pdf
+$ENDCMP
+#
 $CMP 0402B104K500NT
 D Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402
 K Ceramic Capacitor
@@ -24,6 +30,12 @@ K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1531_1506149258433988338.pdf
 $ENDCMP
 #
+$CMP 0402B331K500NT
+D Fenghua Ceramic Capacitor,330pF,±10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1535_1506149260191988342.pdf
+$ENDCMP
+#
 $CMP 0402CG100K500NT
 D Fenghua Ceramic Capacitor,10pF,10%,50V,C0G,0402
 K Ceramic Capacitor
@@ -46,6 +58,12 @@ $CMP 0402CG1R5C500NT
 D Fenghua Ceramic Capacitor,1.5pF,±0.25pF,50V,C0G,0402
 K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1552_1506149267851988359.pdf
+$ENDCMP
+#
+$CMP 0402CG330J500NT
+D Fenghua Ceramic Capacitor,33pF,±5%,50V,C0G,NP0,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1562_1506149272462988369.pdf
 $ENDCMP
 #
 $CMP 0402CG4R7C500NT

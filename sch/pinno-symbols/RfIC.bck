@@ -6,6 +6,18 @@ K 125k Transiceiver
 F http://ams.com/documents/20143/36005/AS3933_DS000353_1-00.pdf/0e72c752-bc65-2c61-b41f-f787fc6c88d7
 $ENDCMP
 #
+$CMP FM17520
+D FM17520 是一款高度集成的工作在 13.56MHz 下的非接触读写器，支持符合 ISO/IEC 14443
+K 13.56MHz,RFID,ISO/IEC 14443 TypeA,M1
+F https://atta.szlcsc.com/upload/public/pdf/source/20161226/1482721703953.pdf
+$ENDCMP
+#
+$CMP FM17522
+D FM17522 是一款高度集成的工作在 13.56MHz 下的非接触读写器芯片，支持符合 ISO/IEC 14443 TypeA 协议的非接触读写器模式。同时提供了低功耗的外部卡片侦测功能，方便电池供电、需要低功耗工作、并且需要实时处理任意时刻会进入射频场的外部卡片的读写器设备。FM17522 具有低电压、低功耗、驱动能力强、多接口支持等特点。适用于低功耗、低电压、低成本要求的非接触读写器应用。
+K 13.56MHz,RFID,ISO/IEC 14443 TypeA,M1
+F https://atta.szlcsc.com/upload/public/pdf/source/20161230/1483091766145.pdf
+$ENDCMP
+#
 $CMP NRF24L01
 D The nRF24L01 is a single chip 2.4GHz transceiver with an embedded baseband protocol engine
 K NRF 2.4G sigle chip transicever

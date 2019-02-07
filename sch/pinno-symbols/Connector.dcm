@@ -18,6 +18,12 @@ K RFsister;SMA,Antenna
 F http://www.szlcsc.com/so/product/details_140889.html
 $ENDCMP
 #
+$CMP DS1093-01-PN60
+D PS2,鼠标键盘插座,6pins,紫色
+K PS2
+F https://atta.szlcsc.com/upload/public/pdf/source/20160816/1471343007546.pdf
+$ENDCMP
+#
 $CMP Header_1x1
 D Pin Header 1x1
 K Header;1 row;1 pin
@@ -123,6 +129,12 @@ $CMP PJ-609-5A
 D 韩国韩荣，防水IPX8音频连接器15x8mm，带耳朵
 K Audio Connector
 F https://atta.szlcsc.com/upload/public/pdf/source/20170922/C128984_1506073624840987249.pdf
+$ENDCMP
+#
+$CMP RJ45-B-1*1
+D RJ45 connector,2 pointer, 12pins, Shielded, with LEDs
+K RJ45 with LEDs
+F https://atta.szlcsc.com/upload/public/pdf/source/20181205/C138392_5F9E20043BE8382E95B829F97AF44BAE.pdf
 $ENDCMP
 #
 $CMP SIM-002-T6
