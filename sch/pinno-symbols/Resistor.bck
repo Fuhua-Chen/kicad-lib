@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 0402WGF1000TCE
-D UniOhm Chip Resistor,100,1%,0402
+D UniOhm Chip Resistor,100Ω,1%,0402
 K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25076_1505901197574982707.pdf
 $ENDCMP
@@ -11,7 +11,7 @@ D UniOhm Chip Resistor,1k,1%,0402
 K Resistor
 $ENDCMP
 #
-$CMP 0402WGF1002TCE
+$CMP 0402WGF1002TCE_0
 D UniOhm Chip Resistor,10k,1%,0402
 K Resistor
 $ENDCMP
@@ -39,6 +39,12 @@ K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C43675_1505895330776981400.pdf
 $ENDCMP
 #
+$CMP 0402WGF1302TCE
+D UniOhm Chip Resistor,13k,1%,0402
+K Chip Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25754_1505901527442983330.pdf
+$ENDCMP
+#
 $CMP 0402WGF2002TCE
 D UniOhm Chip Resistor,20k,1%,0402
 K Resistor
@@ -55,6 +61,12 @@ D UniOhm Chip Resistor,22k,1%,0402
 K Resistor
 $ENDCMP
 #
+$CMP 0402WGF2701TCE
+D UniOhm Chip Resistor,2.7kΩ,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25885_1505895098333980891.pdf
+$ENDCMP
+#
 $CMP 0402WGF3302TCE
 D UniOhm Chip Resistor,33k,1%,0402
 K Resistor
@@ -64,6 +76,12 @@ $CMP 0402WGF3303TCE
 D UniOhm Chip Resistor,330k,1%,0402
 K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25778_1505901538742983352.pdf
+$ENDCMP
+#
+$CMP 0402WGF470KTCE
+D UniOhm Chip Resistor,4.7Ω,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf
 $ENDCMP
 #
 $CMP 0402WGF5103TCE

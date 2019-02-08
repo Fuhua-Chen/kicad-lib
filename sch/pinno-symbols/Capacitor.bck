@@ -1,9 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP 0402B102K500NT
-D Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402
+D Fenghua Ceramic Capacitor,1nF,10%,50V,X7R,0402
 K Ceramic Capacitor
-F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1523_1506149254821988331.pdf
 $ENDCMP
 #
 $CMP 0402B104K500NT

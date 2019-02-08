@@ -42,4 +42,10 @@ K RS232,2 channel
 F https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492506327248.pdf
 $ENDCMP
 #
+$CMP YD3082E
+D 用于 RS-485/RS-422 通信的 YD3082E 是一款半双工通信的高速收发器，其包含一路驱动器和一路接 收器。具有±15kV 人体模式 ESD 保护以及失效保护电路，当接收器输入开路或短路时，确保接收器输出 逻辑高电平。如果挂接在终端匹配总线上的所有发送器都禁用（高阻） ，接收器将输出逻辑高电平。YD3082E 具有低摆率驱动器，能够减小 EMI 和由于不恰当的终端匹配电缆所引起的反射，并实现高达 1Mbps 的无 差错数据传输。此外，YD3082E 其接收器具有 1/8 单位负载输入阻抗，总线上可以挂接多达 256 个收发 器。
+K RS485,半双工,Half Duplex
+F https://atta.szlcsc.com/upload/public/pdf/source/20180912/C269866_D747821E929F946C980352EF331DA1D4.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -84,6 +84,12 @@ K DCDC;Synchronous Step Down Regulator;1.5MHz;1A;
 F https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752163260.pdf
 $ENDCMP
 #
+$CMP SY8120B
+D SY8120B1 develops high efficiency synchronous stepdown DC-DC converter capable of delivering 2A load current . SY8120B1 operates over a wide input voltage range from 4.5V to 18V and integrates main switch and synchronous switch with very low RDS(ON) to minimize the conduction loss. SY8120B1 adopts the instant PWM architecture to achieve fast transient responses for high step down applications and high efficiency at light loads. In addition, it operates at pseudo-constant frequency of 500 kHz under heavy load conditions to minimize the size of inductor and capacitor.
+K DCDC,Synchronous Step Down,Buck
+F https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752188611.pdf
+$ENDCMP
+#
 $CMP TP4057
 D 南京拓微集成;TP4057 一款完整的单节锂离子电池充电器，带电池正负极反接保护，采用恒定电流/恒定电压线性控制。其 SOT 封装与较少的外部元件数目使得 TP4057 便携式应用的理想选择。TP4057 可以适合 USB 电源和适配器电源工作。由于采用了内部 PMOSFET 架构，加上防倒充电路，所以不需要外部检测电阻器和隔离二极管。热反馈可对充电电流进行自动调节，以便在大功率操作或高环境温度条件下对芯片温度加以限制。充满电压固定于 4.2V，而充电电流可通过一个电阻器进行外部设置。当电池达到 4.2V 之后，充电电流降至设定值 1/10，TP4057 将自动终止充电。当输入电压（交流适配器或 USB 电源）被拿掉时，TP4057 自动进入一个低电流状态，电池漏电流在 2uA 以下。TP4057 的其他特点包括充电电流监控器、欠压闭锁、自动再充电和两个用于指示充电结束和输入电压接入的状态引脚。
 K TP4057;线性充电

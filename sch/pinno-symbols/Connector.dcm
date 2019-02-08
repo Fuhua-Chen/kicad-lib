@@ -12,6 +12,18 @@ K CJT,PH,2.0,2p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225233_C656E3DBD5D93AB75B97D984929AF7CC.pdf
 $ENDCMP
 #
+$CMP AFC01-S24FCA-00
+D JS,FPC,Pitch0.5mm,24pins,Side entry,翻盖式
+K FPC,0.5mm,24P
+F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262567_D085E02ABE248D4AE4FCF844F3A6EB2F.pdf
+$ENDCMP
+#
+$CMP AFC07-S24ECA-00
+D JS,FPC,Pitch0.5mm,24pins,Side entry,抽屉式
+K FPC,0.5mm,24P
+F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262643_A165FE49097C78A84A50B150AB79460D.pdf
+$ENDCMP
+#
 $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna

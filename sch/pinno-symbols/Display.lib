@@ -1,6 +1,17 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# JLT28016A
+#
+DEF JLT28016A U 0 40 Y Y 1 F N
+F0 "U" -650 1200 50 H V C CNN
+F1 "JLT28016A" -450 1100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
 # OLED_WhiteFont_1.3Inch_128x64Pixels
 #
 DEF OLED_WhiteFont_1.3Inch_128x64Pixels U 0 40 Y Y 1 F N
