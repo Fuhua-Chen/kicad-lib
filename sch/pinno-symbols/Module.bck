@@ -6,60 +6,14 @@ K 2.4G,LNA,NRF24L01
 F http://www.ashining.com.cn/datasheets/as01sp2cn.pdf
 $ENDCMP
 #
+$CMP AW5169P1EF
+D AW516x 是广州致远电子基于 NXP JN516X 无线微控制器开发的一系列低功耗、高性价
+K Zigbee,ZLG,fastzigbee,AW516,2.4G
+F http://www.zlg.cn/data/upload/software/Wireless/AW516x_ZigBee_V.pdf
+$ENDCMP
+#
 $CMP BC20NA-04-STD
-D Quectel
-BC20
-尺寸紧凑、功耗超低
-NB
--
-IoT/GNSS
-无线通信模块
-Build a Smarter World
-BC20
-是一款高性能、低功耗、多频段、支持
-GNSS
-定位功能的
-NB
--
-IoT
-无线通信模块。其尺寸仅为
-18.7mm × 16.0mm × 
-2.1mm
-，能最大限度地满足终端设备对小尺寸模块产品的需求，同时有效帮助客户减小产品尺寸并优化产品成本。
-BC20
-在设计上兼容移远通信
-GSM/GPRS/GNSS
-系列的
-MC20
-模块，方便客户快速、灵活的进行产品设计和升级。
-BC20
-提供丰富的外部接口和协议栈，同时支持中国移动
-OneNET
-物联网云平台，为客户的应用提供极大的便利。
-BC20
-支持北斗、
-GPS
-、
-QZSS 
-等多星座卫星系统解调算法，其定位更加精准，抗多路径干扰能力更强，比传统的单 
-GPS 
-模块具有更多优势。另外，
-BC20 
-模块中内置
-LNA 
-和低功耗算法：前者保证更高的灵敏度，后者保证低功耗模式
-下更低的耗流。
-BC20
-模块较传统 
-NB
--
-IoT+GNSS
-方案体积减少
-40%
-。凭借其紧凑尺寸、超低功耗和超宽工作温度范围，
-BC20
-在各种应
-用中占具更大优势；其主要应用领域为：自行车和摩托车防盗、宠物追踪、金融财产追踪及行车记录仪等等。
+D Quectel BC20尺寸紧凑、功耗超低NB-IoT/GNSS无线通信模块Build a Smarter WorldBC20是一款高性能、低功耗、多频段、支持GNSS定位功能的NB-IoT无线通信模块。其尺寸仅为18.7mm × 16.0mm × 2.1mm，能最大限度地满足终端设备对小尺寸模块产品的需求，同时有效帮助客户减小产品尺寸并优化产品成本。BC20在设计上兼容移远通信GSM/GPRS/GNSS系列的MC20模块，方便客户快速、灵活的进行产品设计和升级。BC20提供丰富的外部接口和协议栈，同时支持中国移动OneNET物联网云平台，为客户的应用提供极大的便利。BC20支持北斗、GPS、QZSS 等多星座卫星系统解调算法，其定位更加精准，抗多路径干扰能力更强，比传统的单GPS 模块具有更多优势。另外，BC20 模块中内置LNA 和低功耗算法：前者保证更高的灵敏度，后者保证低功耗模式下更低的耗流。BC20模块较传统 NB-IoT+GNSS方案体积减少40%。凭借其紧凑尺寸、超低功耗和超宽工作温度范围，BC20在各种应用中占具更大优势；其主要应用领域为：自行车和摩托车防盗、宠物追踪、金融财产追踪及行车记录仪等等。
 K NB-Iot,Quectel,BC20,GNSS
 F https://www.quectel.com/cn/product/bc20.htm
 $ENDCMP
