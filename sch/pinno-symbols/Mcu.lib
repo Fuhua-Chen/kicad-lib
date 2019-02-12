@@ -565,7 +565,7 @@ ENDDEF
 DEF STM32F730V8T6 U 0 40 Y Y 1 F N
 F0 "U" -1550 1700 60 H V C CNN
 F1 "STM32F730V8T6" 0 0 60 H V C CNN
-F2 "LQFP-64_10x10mm_Pitch0.5mm" 0 2300 60 H I C CNN
+F2 "Package_QFP:LQFP-100_14x14mm_P0.5mm" 0 2300 60 H I C CNN
 F3 "http://www.stmicroelectronics.com.cn/content/ccc/resource/technical/document/datasheet/8a/f4/9d/d7/61/1b/46/b4/DM00105960.pdf/files/DM00105960.pdf/jcr:content/translations/en.DM00105960.pdf" -300 2200 60 H I C CNN
 F4 "ST" -1450 2700 50 H I C CNN "Manufacturer"
 F5 "STM32F730V8T6" -1200 2400 50 H I C CNN "PartNumber"

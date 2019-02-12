@@ -5,4 +5,9 @@ D Buzzer Passive
 K Buzzer,Passive
 $ENDCMP
 #
+$CMP SFN-1407PA7.6
+D Buzzer,Pitch7.6mm
+K Buzzer,蜂鸣器
+$ENDCMP
+#
 #End Doc Library

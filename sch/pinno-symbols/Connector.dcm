@@ -30,6 +30,12 @@ K RFsister;SMA,Antenna
 F http://www.szlcsc.com/so/product/details_140889.html
 $ENDCMP
 #
+$CMP DC-005-5.5-2.0MM
+D 电源连接器（AC电源插座，DC连接器）,DC-005
+K DC-005
+F https://atta.szlcsc.com/upload/public/pdf/source/20180802/C16214_761D11F0E9B48746DC2F3A44D46ECB1F.pdf
+$ENDCMP
+#
 $CMP DS1093-01-PN60
 D PS2,鼠标键盘插座,6pins,紫色
 K PS2
