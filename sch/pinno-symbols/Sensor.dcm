@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AHT10
+D AHT10，新一代温湿度传感器在尺寸与智能 方面建立了新的标准：它嵌入了适于回流焊 的双列扁平无引脚SMD 封装，底面 4 x 5mm ， 高度1.6mm。传感器输出经过标定的数字信 2号 ，标准 I C 格式。 AHT10 配有一个全新设计的 ASIC专用芯片、 一个经过改进的MEMS半导体电容式湿度传感 元件和一个标准的片上温度传感元件，其性 能已经大大提升甚至超出了前一代传感器的 可靠性水平，新一代温湿度传感器，经过改 进使其在恶劣环境下的性能更稳定。
+K 温湿度传感器,humidity,temperature
+F https://atta.szlcsc.com/upload/public/pdf/source/20190129/C368909_B294364A5189322D50DF5028F78C32FD.pdf
+$ENDCMP
+#
 $CMP BH1730FVC-TR
 D BH1730FVC is a digital Ambient Light Sensor IC with I 2C bus interface. This IC is most suitable for obtaining ambient light data for adjusting LCD and backlight power of TV and mobile phone. It is capable of detecting a very wide range of illuminance.
 K Digital 16bit Serial Output Type
