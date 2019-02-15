@@ -24,6 +24,12 @@ K TI;LM2576/LM2576HV;7V to 40V;3 A;32 kHz.
 F http://www.szlcsc.com/member/downloadFile-C85B7D62FA1D081E-new_pdf_doc-pdf_see.html
 $ENDCMP
 #
+$CMP M3406-ADJ
+D The M3406 is a constant frequency, current mode step-down converter.  The device integrates a main switch and a synchronous rectifier for high efficiency without an external Schottky diode.  It is ideal for powering portable equipment that runs from a single cell Lithium-Ion (Li+) battery. The output voltage can be regulated as low as 0.6V. The M3406 can also run at 100% duty cycle for low dropout operation, extending battery life in portable system. This device offers two operation modes, PWM control and PFM Mode switching control, which allows a high efficiency over the wider range of the load.The M3406 is offered in a low profile (1mm) 5-pin, thin SOT package, and is available in an adjustable version.
+K DCDC,BUCK,Step Down,1.5MHz,800mA
+F https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478742836232.pdf
+$ENDCMP
+#
 $CMP MC34063AB
 D ST;MC34063AB;DC-DC converter control circuits,Output switch current in excess of 1.5 A,2 % reference accuracy,Low quiescent current: 2.5 mA (typ.),Operating from 3 V to 40 V,Frequency operation to 100 kHz,Active current limiting.
 K ST;MC34063;3 V to 40 V;1.5 A;100 kHz.
@@ -40,6 +46,12 @@ $CMP ME6209A33M3G
 D The ME6209 series are a group of positive voltage output, three –pin regulator, that provide a high current even when the input/output Voltage differential is small. Low power consumption and high accuracy is achieved through CMOS technology. They allow input voltages as high as 18V.
 K MicroOne;ME6209;LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20161212/1481539101152.pdf
+$ENDCMP
+#
+$CMP ME6215C33M5G
+D ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input.
+K MicroOne,ME6215,LDO,3.3V
+F https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf
 $ENDCMP
 #
 $CMP MIC29302WU
@@ -84,7 +96,7 @@ K DCDC;Synchronous Step Down Regulator;1.5MHz;1A;
 F https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752163260.pdf
 $ENDCMP
 #
-$CMP SY8120B
+$CMP SY8120B1ABC
 D SY8120B1 develops high efficiency synchronous stepdown DC-DC converter capable of delivering 2A load current . SY8120B1 operates over a wide input voltage range from 4.5V to 18V and integrates main switch and synchronous switch with very low RDS(ON) to minimize the conduction loss. SY8120B1 adopts the instant PWM architecture to achieve fast transient responses for high step down applications and high efficiency at light loads. In addition, it operates at pseudo-constant frequency of 500 kHz under heavy load conditions to minimize the size of inductor and capacitor.
 K DCDC,Synchronous Step Down,Buck
 F https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752188611.pdf

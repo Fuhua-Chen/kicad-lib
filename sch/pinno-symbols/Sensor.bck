@@ -11,4 +11,10 @@ D BH1730FVC is a digital Ambient Light Sensor IC with I 2C bus interface. This I
 K Digital 16bit Serial Output Type
 $ENDCMP
 #
+$CMP MSA300
+D MSA300 is a triaxial, low-g accelerometer with I2C/SPI digital output for
+K accelerometer,加速度计
+F https://atta.szlcsc.com/upload/public/pdf/source/20170413/1492062749091.pdf
+$ENDCMP
+#
 #End Doc Library

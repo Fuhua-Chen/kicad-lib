@@ -125,6 +125,12 @@ K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf
 $ENDCMP
 #
+$CMP CL32A107MPVNNNE
+D SAMSUNG Ceramic Capacitor,100uF,±20%,10V,X5R,1210
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707710659.pdf
+$ENDCMP
+#
 $CMP RT1H470M0607
 D Electrolytic Capacitors,47uF,-40℃~+105℃,50V,±20%,6.3x7.7mm,2000Hrs@105℃
 K Electrolytic Capacitors
