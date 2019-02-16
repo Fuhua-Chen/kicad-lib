@@ -4,14 +4,14 @@ EESchema-LIBRARY Version 2.4
 # 1.25T-5PWT
 #
 DEF 1.25T-5PWT J 0 40 Y Y 1 F N
-F0 "J" 150 50 60 V V C CNN
+F0 "J" -300 -150 60 H V C CNN
 F1 "1.25T-5PWT" 50 -150 60 H V C CNN
-F2 "JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal" -250 500 60 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180326/C136657_2836F64FCEAA309619DD64A0A4BEB0A3.pdf" 150 400 60 H I C CNN
-F4 "JST" 0 -250 50 H I C CNN "Manufacturer"
-F5 "SM05B-SRSS-TB (LF)(SN)" -700 300 50 H I C CNN "PartNumber"
-F6 "https://item.szlcsc.com/147973.html" 1050 300 50 H I C CNN "Supplier"
-F7 "C136657" 100 300 50 H I C CNN "Sku"
+F2 "Connector_BOOMELE_1.25T-5PWT_P1.25MM_5Pins_8.0x4.2x3.55mm" -250 500 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760162.pdf" 150 400 60 H I C CNN
+F4 "BOOMELE(博穆精密)" 0 -250 50 H I C CNN "Manufacturer"
+F5 "1.25T-5PWT" -700 300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/22800.html" 1050 300 50 H I C CNN "Supplier"
+F7 "C22076" 100 300 50 H I C CNN "Sku"
 DRAW
 S -200 -100 300 100 0 1 0 N
 X ~ 1 -150 150 50 D 20 20 1 1 P
