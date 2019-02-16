@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1.25T-5PWT
+D 1.25mm间距的卧式贴片插座,1.25mm,5pins,Side entry
+K 1.25mm,5p
+F https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760162.pdf
+$ENDCMP
+#
+$CMP A1002WR-S-10P
+D CJT,SR,SH,1.0mm,10pins,Side entry,替代SM10B-SRSS-TB
+K JST,SR,1.0,10p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180724/C239528_E75F761DA428CB7C6E1C3A537EFBF572.pdf
+$ENDCMP
+#
 $CMP A1002WR-S-6P
 D CJT,SR,SH,1.0mm,6pins,Side entry,替代SM06B-SRSS-TB
 K CJT,SR,1.0,6p

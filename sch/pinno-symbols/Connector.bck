@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP A1002WR-S-10P
+D CJT,SR,SH,1.0mm,10pins,Side entry,替代SM10B-SRSS-TB
+K JST,SR,1.0,10p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180724/C239528_E75F761DA428CB7C6E1C3A537EFBF572.pdf
+$ENDCMP
+#
 $CMP A1002WR-S-6P
 D CJT,SR,SH,1.0mm,6pins,Side entry,替代SM06B-SRSS-TB
 K CJT,SR,1.0,6p
@@ -28,6 +34,12 @@ $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna
 F http://www.szlcsc.com/so/product/details_140889.html
+$ENDCMP
+#
+$CMP DC-005-5.5-2.0MM
+D 电源连接器（AC电源插座，DC连接器）,DC-005
+K DC-005
+F https://atta.szlcsc.com/upload/public/pdf/source/20180802/C16214_761D11F0E9B48746DC2F3A44D46ECB1F.pdf
 $ENDCMP
 #
 $CMP DS1093-01-PN60
