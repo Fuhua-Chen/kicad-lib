@@ -290,6 +290,10 @@ F0 "U" -650 600 50 H V C CNN
 F1 "STM32F030F4P6" 350 600 50 H V C CNN
 F2 "TSSOP-20_4.4x6.5mm_P0.65mm" -150 800 50 H I C CNN
 F3 "https://www.st.com/resource/en/datasheet/stm32f030f4.pdf" 400 700 50 H I C CNN
+F4 "ST" -550 700 50 H I C CNN "Manufacturer"
+F5 "STM32F030F4P6" -450 800 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/33873.html" -350 900 50 H I C CNN "Supplier"
+F7 "C32908" -250 1000 50 H I C CNN "Sku"
 DRAW
 S -700 550 700 -550 0 1 0 N
 X BOOT0 1 -800 450 100 R 50 50 1 1 I

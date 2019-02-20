@@ -35,11 +35,6 @@ K Power Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20181022/C307626_05B07B29189CEA75F2CB79BF1CAF77CF.pdf
 $ENDCMP
 #
-$CMP FXL0630-100-M
-D Cjiang Inductor, High Current, Power Inductor,10uH,±20%，0.062DCR,4.5A,5MHz,7.3x6.8x 3.0mm
-K Inductor
-$ENDCMP
-#
 $CMP IND
 D Inductors
 K Inductor

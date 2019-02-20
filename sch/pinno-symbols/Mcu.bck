@@ -25,8 +25,8 @@ F http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf5
 $ENDCMP
 #
 $CMP STM32F030F4P6
-D ST,STM32F030F4P6,Value-line ARM-based 32-bit MCU with up to 256 KB Flash,timers, ADC, communication interfaces, 2.4-3.6 V operation
-K STM32,F030F4
+D ST;STM32F030F4P6;Value-line ARM®-based 32-bit MCU with up to 256 KB Flash,timers, ADC, communication interfaces, 2.4-3.6 V operation
+K STM32;F030F4
 F https://www.st.com/resource/en/datasheet/stm32f030f4.pdf
 $ENDCMP
 #
