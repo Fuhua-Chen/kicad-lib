@@ -1,4 +1,5 @@
-(module Connector_BOOMELE_1.25T-5PWT_P1.25MM_5Pins_8.0x4.2x3.55mm (layer F.Cu) (tedit 5C6797FC)
+(module Connector_BOOMELE_1.25T-5PWT_P1.25MM_5Pins_8.0x4.2x3.55mm (layer F.Cu) (tedit 5C735DE3)
+  (attr smd)
   (fp_text reference REF** (at 0 -5.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

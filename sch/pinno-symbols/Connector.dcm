@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1.25T-4PWT
+D BOOMELE,1.25mm间距的卧式贴片插座,1.25mm,4pins,Side entry
+K 1.25mm,4p
+F https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760481.pdf
+$ENDCMP
+#
 $CMP 1.25T-5PWT
 D BOOMELE,1.25mm间距的卧式贴片插座,1.25mm,5pins,Side entry
 K 1.25mm,5p
