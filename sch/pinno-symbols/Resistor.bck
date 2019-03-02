@@ -51,6 +51,12 @@ K Chip Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25754_1505901527442983330.pdf
 $ENDCMP
 #
+$CMP 0402WGF2001TCE
+D UniOhm Chip Resistor,2k,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C4109_1505887492137980645.pdf
+$ENDCMP
+#
 $CMP 0402WGF2002TCE
 D UniOhm Chip Resistor,20k,1%,0402
 K Resistor
@@ -136,6 +142,18 @@ $CMP 1206W4F180JT5E
 D UniOhm Chip Resistor,18Ω,1%,1206
 K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C17922_1505887309908980272.pdf
+$ENDCMP
+#
+$CMP 1210W2F100KT5E
+D UniOhm Chip Resistor,1Ω,1%,1210,1W
+K Resistor
+F 1210W2F100KT5E
+$ENDCMP
+#
+$CMP 25121WF100KT4E
+D UniOhm Chip Resistor,1Ω,1%,2512,1W
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C11254_1505886988786979635.pdf
 $ENDCMP
 #
 $CMP MS122WF100LT4E
