@@ -1,12 +1,12 @@
-[submodule "pcb/kicad-footprints"]
-	path = pcb/kicad-footprints
+[submodule " kicad-lib/kicad-footprints"]
+	path = kicad-lib/kicad-footprints
 	url = https://github.com/KiCad/kicad-footprints.git
-[submodule "sch/kicad-symbols"]
+[submodule " kicad-lib/kicad-symbols"]
 	path = sch/kicad-symbols
 	url = https://github.com/KiCad/kicad-symbols.git
-[submodule "template/kicad-templates"]
+[submodule " kicad-lib/kicad-templates"]
 	path = template/kicad-templates
 	url = https://github.com/KiCad/kicad-templates.git
-[submodule "shape/kicad-packages3D"]
+[submodule " kicad-lib/kicad-packages3D"]
 	path = shape/kicad-packages3D
 	url = https://github.com/KiCad/kicad-packages3D.git
