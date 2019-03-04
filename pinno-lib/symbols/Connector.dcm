@@ -126,7 +126,13 @@ K 立创;JTJ-USB-01;USB;双层
 F https://item.szlcsc.com/12613.html
 $ENDCMP
 #
-$CMP MQ_Sensor_Connector
+$CMP MQ_Sensor_Connector_6P
+D MQ Sensor Connector for MQ-2 MQ-3 MQ-4 MQ-5 MQ-7 MQ-9 MQ135 MQ136 MQ137 MQ138 and so on.
+K MQ,6 pins
+F https://www.china.cn/chuanganqi/3688053017.html
+$ENDCMP
+#
+$CMP MQ_Sensor_Connector_7P
 D MQ Sensor Connector for MQ-2 MQ-3 MQ-4 MQ-5 MQ-7 MQ-9 MQ135 MQ136 MQ137 MQ138 and so on.
 K MQ,7 pins
 F https://www.china.cn/chuanganqi/3688053017.html
