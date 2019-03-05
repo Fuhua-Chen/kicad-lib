@@ -31,9 +31,9 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20170717/C84774_1500286941158
 $ENDCMP
 #
 $CMP 204-10SYGD-S530-E3
-D Everlight(台湾亿光) LED,黄绿色,573nm,100mcd@20mA,Through hole,3mm
+D Everlight(台湾亿光) LED,红色,639nm,80mcd@20mA,Through hole,3mm
 K Through hole Red LED
-F https://atta.szlcsc.com/upload/public/pdf/source/20181205/C85161_54D2881904BBFDED7AAB4D08F0D96F46.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20170717/C84774_1500286941158822251.pdf
 $ENDCMP
 #
 $CMP EC20-SK9822-2020
