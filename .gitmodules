@@ -1,15 +1,3 @@
-[submodule " kicad-lib/kicad-footprints"]
-	path = kicad-lib/kicad-footprints
-	url = https://github.com/KiCad/kicad-footprints.git
-[submodule " kicad-lib/kicad-symbols"]
-	path = kicad-lib/kicad-symbols
-	url = https://github.com/KiCad/kicad-symbols.git
-[submodule " kicad-lib/kicad-templates"]
-	path = kicad-lib/kicad-templates
-	url = https://github.com/KiCad/kicad-templates.git
-[submodule " kicad-lib/kicad-packages3D"]
-	path = kicad-lib/kicad-packages3D
-	url = https://github.com/KiCad/kicad-packages3D.git
 [submodule "lc_kicad_lib"]
 	path = lc_kicad_lib
 	url = https://github.com/xtoolbox/lc_kicad_lib.git
