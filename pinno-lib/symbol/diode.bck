@@ -32,6 +32,18 @@ D Zener;Diode
 K Diode;Zener
 $ENDCMP
 #
+$CMP LESD8D5.0CAT5G
+D The LESD8D5.0CAT5G,VRWM=5V,Vc=12.5V,Ipp=5.5A 双向, is designed to protect voltage sensitive components from ESD.Excellent clamping capability, low leakage, and fast response time ,make these parts ideal for ESD. protection on designs where board space is at a premium. Because of its small size, it is suited for use in cellular phones, MP3 players, digital cameras and many other portable applications where board space is at a premium.
+K ESD Rating of Class 3 (> 16 kV) per Human Body,IEC61000−4−2 Level 4 ESD Protection.
+F https://atta.szlcsc.com/upload/public/pdf/source/20180130/C172411_15172974224441323440.pdf
+$ENDCMP
+#
+$CMP LESD8D5.0CKT5G
+D The LESD8D5.0CKT5G,VRWM=5V,Vc=12.5V,Ipp=4.5A 双向, is designed to protect voltage sensitive components from ESD.Excellent clamping capability, low leakage, and fast response time ,make these parts ideal for ESD. protection on designs where board space is at a premium. Because of its small size, it is suited for use in cellular phones, MP3 players, digital cameras and many other portable applications where board space is at a premium.
+K ESD Rating of Class 3 (> 16 kV) per Human Body,IEC61000−4−2 Level 4 ESD Protection.
+F https://atta.szlcsc.com/upload/public/pdf/source/20180130/C172412_15172974231611323441.pdf
+$ENDCMP
+#
 $CMP PESD15VL1BA
 D 台湾元基 双向ESD, 15V (Max)关断, 16.7V 击穿, 31V 钳位，11A (8/20us),SOD-323
 K Diode;ESD
@@ -39,9 +51,9 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20181108/C330095_E8DDC9FC0522
 $ENDCMP
 #
 $CMP SMF24A
-D Vrmv=24V, Vbr:26.7-29.5V, 单向, Ipp=5.1A,TVS
-K Diode,TVS
-F https://atta.szlcsc.com/upload/public/pdf/source/20180125/C169430_15168663708931303204.pdf
+D The CESD5V0D3 is designed to protect voltage sensitive components from ESD. Excellent clamping capability, low leakage, and fast response time provide best in class protection on designs that are exposed to ESD. Because of its small size, it is suited for use in cellular phones, MP3 players, digital cameras and many other portable applications where board space is at a premium.
+K Diode,ESD
+F https://atta.szlcsc.com/upload/public/pdf/source/20140301/1457707004115.pdf
 $ENDCMP
 #
 $CMP SS34
