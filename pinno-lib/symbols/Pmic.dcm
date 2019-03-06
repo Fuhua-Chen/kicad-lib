@@ -24,6 +24,12 @@ K TI;LM2576/LM2576HV;7V to 40V;3 A;32 kHz.
 F http://www.szlcsc.com/member/downloadFile-C85B7D62FA1D081E-new_pdf_doc-pdf_see.html
 $ENDCMP
 #
+$CMP LM2576S-ADJ_TR
+D LM2576,40V in, -40°C  TJ  +125°C, 42-47KHz,5.8A
+K DCDC,BUCK
+F https://atta.szlcsc.com/upload/public/pdf/source/20180627/C194474_19FB16BEFD9D57E85171135392C08A87.pdf
+$ENDCMP
+#
 $CMP M3406-ADJ
 D The M3406 is a constant frequency, current mode step-down converter.  The device integrates a main switch and a synchronous rectifier for high efficiency without an external Schottky diode.  It is ideal for powering portable equipment that runs from a single cell Lithium-Ion (Li+) battery. The output voltage can be regulated as low as 0.6V. The M3406 can also run at 100% duty cycle for low dropout operation, extending battery life in portable system. This device offers two operation modes, PWM control and PFM Mode switching control, which allows a high efficiency over the wider range of the load.The M3406 is offered in a low profile (1mm) 5-pin, thin SOT package, and is available in an adjustable version.
 K DCDC,BUCK,Step Down,1.5MHz,800mA
@@ -72,6 +78,12 @@ K DCDC;Synchronous Step down converter;2A;16V
 F https://atta.szlcsc.com/upload/public/pdf/source/20170628/1498635304645.pdf
 $ENDCMP
 #
+$CMP MT2593
+D MT2593 是一款输入耐压可达 40V 的降压式 DC/DC 驱动电路，能够实现精确的恒流以及恒压功 能。 MT2593 内置 75mohm 的功率 MOSFET，可 持续输出 5V/3A 的负载能力。具有极好的线性调整 率和负载调整率。 MT2593 以 150KHz 固定频率工作，无需外部 补偿，可以依靠内部的稳定环路实现恒压和恒流控制。 MT2593 只需要很少的外部器件就可以工作，应用线 路非常简单。 MT2593 占空比可以通过 PWM 控制电路实现 0~100%范围内的调节。MT2593 具有输入过压和过 流保护功能，具有转换效率高，系统元件少，可靠性 高，安全性高等优点。
+K DCDC,BUCK
+F https://atta.szlcsc.com/upload/public/pdf/source/20180129/C180419_15172302340431320422.pdf
+$ENDCMP
+#
 $CMP MT3608
 D AEROSEMI;MT3608;The MT3608 is a constant frequency, 6-pin SOT23 package.
 K DCDC;Synchronous Step up Regulator;1.2MHz;2A;
@@ -80,8 +92,8 @@ $ENDCMP
 #
 $CMP SD45230
 D 士兰微电子;SD45230;40V,2.1A/2.4A,120KHz降压型DC-DC
-K 士兰微电子;SD45230;40V,2.1A/2.4A,120KHz,降压型,DC-DC,Buck.
-F http://www.szlcsc.com/member/downloadFile-D9603D461C80C62E-new_pdf_doc-pdf_see.html
+K DC-DC,Buck
+F https://atta.szlcsc.com/upload/public/pdf/source/20161114/1479093432553.pdf
 $ENDCMP
 #
 $CMP SP6205

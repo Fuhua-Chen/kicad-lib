@@ -38,6 +38,12 @@ K Diode;ESD
 F https://atta.szlcsc.com/upload/public/pdf/source/20181108/C330095_E8DDC9FC0522283065CE8FE4437C26EE.pdf
 $ENDCMP
 #
+$CMP SMF24A
+D Vrmv=24V, Vbr:26.7-29.5V, 单向, Ipp=5.1A,TVS
+K Diode,TVS
+F https://atta.szlcsc.com/upload/public/pdf/source/20180125/C169430_15168663708931303204.pdf
+$ENDCMP
+#
 $CMP SS34
 D The SS34 40V 3A Schottky Diodes
 K Diode;Schottky;SS34
