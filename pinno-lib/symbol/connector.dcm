@@ -126,6 +126,12 @@ K 立创;JTJ-USB-01;USB;双层
 F https://item.szlcsc.com/12613.html
 $ENDCMP
 #
+$CMP KF8500-4P-8.4mm
+D 栅栏式接线端子,1x4,Female Sockets,8.4mm,Through Hole,
+K Female Sockets;1 row;4 pins
+F https://atta.szlcsc.com/upload/public/pdf/source/20151026/1457707499773.pdf
+$ENDCMP
+#
 $CMP MQ_Sensor_Connector_6P
 D MQ Sensor Connector for MQ-2 MQ-3 MQ-4 MQ-5 MQ-7 MQ-9 MQ135 MQ136 MQ137 MQ138 and so on.
 K MQ,6 pins

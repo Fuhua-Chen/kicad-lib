@@ -581,6 +581,29 @@ X ~ 5 150 -400 200 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# KF8500-4P-8.4mm
+#
+DEF KF8500-4P-8.4mm J 0 40 Y Y 1 F N
+F0 "J" 50 200 60 H V C CNN
+F1 "KF8500-4P-8.4mm" 200 100 60 H V C CNN
+F2 "Connector_Terminal_BOOMELE_KF8500_4P_Picth8.5mm_36x16x16.3mm" 50 300 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20151026/1457707499773.pdf" 0 800 60 H I C CNN
+F4 "BOOMELE(博穆精密)" 0 600 50 H I C CNN "Manufacturer"
+F5 "KF8500-4P-8.4mm" 0 400 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/25412.html" 350 500 50 H I C CNN "Supplier"
+F7 "C24671" 0 700 50 H I C CNN "Sku"
+DRAW
+C 0 0 50 0 1 10 N
+C 100 0 50 0 1 10 N
+C 200 0 50 0 1 10 N
+C 300 0 50 0 1 10 N
+X ~ 1 0 -150 100 U 50 50 1 1 P
+X ~ 2 100 -150 100 U 50 50 1 1 P
+X ~ 3 200 -150 100 U 50 50 1 1 P
+X ~ 4 300 -150 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # MQ_Sensor_Connector_6P
 #
 DEF MQ_Sensor_Connector_6P J 0 40 Y Y 1 F N

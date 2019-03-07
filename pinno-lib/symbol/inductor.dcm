@@ -80,4 +80,10 @@ K Ceramic Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707280994.pdf
 $ENDCMP
 #
+$CMP YXMAC1265-101M-ITF
+D 功率电感 100uH ±20% 3A 160 mOhm Max
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180822/C241450_BB079187F3F6D253C2B48C47FC6F7F15.pdf
+$ENDCMP
+#
 #End Doc Library

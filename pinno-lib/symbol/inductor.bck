@@ -35,6 +35,11 @@ K Power Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20181022/C307626_05B07B29189CEA75F2CB79BF1CAF77CF.pdf
 $ENDCMP
 #
+$CMP FXL0630-100-M
+D Cjiang Inductor, High Current, Power Inductor,10uH,±20%，0.062DCR,4.5A,5MHz,7.3x6.8x 3.0mm
+K Inductor
+$ENDCMP
+#
 $CMP IND
 D Inductors
 K Inductor
@@ -73,6 +78,12 @@ $CMP SDCL1608CR33JTDF
 D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series  ,330nH,±5%,2.8DCR,150mA,Q8,0603
 K Ceramic Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707280994.pdf
+$ENDCMP
+#
+$CMP YXMAC1265-101M-ITF
+D 功率电感 100uH ±20% 3A 160 mOhm Max
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180822/C241450_BB079187F3F6D253C2B48C47FC6F7F15.pdf
 $ENDCMP
 #
 #End Doc Library
