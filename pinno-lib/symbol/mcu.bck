@@ -25,8 +25,8 @@ F http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf5
 $ENDCMP
 #
 $CMP STM32F030F4P6
-D ST;STM32F030F4P6;Value-line ARM®-based 32-bit MCU with up to 256 KB Flash,timers, ADC, communication interfaces, 2.4-3.6 V operation
-K STM32;F030F4
+D ST,STM32F030F4P6,Value-line ARM-based 32-bit MCU with up to 256 KB Flash,timers, ADC, communication interfaces, 2.4-3.6 V operation
+K STM32,F030F4
 F https://www.st.com/resource/en/datasheet/stm32f030f4.pdf
 $ENDCMP
 #
@@ -58,6 +58,11 @@ $CMP STM32F730V8T6
 D ST;STM32F730V8T6;High-performance and DSP with FPU, Arm Cortex-M7 MCU with 64 Kbytes of Flash memory, 216 MHz CPU, Art Accelerator, L1 cache, HW crypto, SDRAM
 K MCU;ST;STM32F730V8;Cortex-M7
 F https://www.st.com/resource/en/datasheet/stm32f730v8.pdf
+$ENDCMP
+#
+$CMP STM32H750VBT6
+D ARM Microcontrollers - MCU High-performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 128 Kbytes of Flash memory, 1MB RAM, 400 MHz CPU, L1 cache, external memory interface, JPEG codec, HW crypto, large set of peripherals
+F https://www.st.com/resource/en/datasheet/stm32h750vb.pdf
 $ENDCMP
 #
 $CMP STM32L011D4P6
