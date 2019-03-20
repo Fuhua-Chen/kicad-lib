@@ -24,6 +24,12 @@ K CJT,SR,1.0,6p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180724/C239524_10DB3B45D7C6FE05ABCFBCE206176212.pdf
 $ENDCMP
 #
+$CMP A1251WR-S-2P
+D 1.25mm pitch wire to board and wire to wire connector
+K CJT,1.25mm,2p
+F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225111_F046D91F4FC85813A85D32FD7471B71D.pdf
+$ENDCMP
+#
 $CMP A2001WR-S-2P
 D CJT,PH,2.0mm,2pins,Side entry
 K CJT,PH,2.0,2p

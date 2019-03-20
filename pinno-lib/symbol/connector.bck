@@ -85,11 +85,6 @@ D Pin Header 1x4
 K Header;1 row;4 pins
 $ENDCMP
 #
-$CMP Header_1x4_0
-D Pin Header 1x4
-K Header;1 row;4 pins
-$ENDCMP
-#
 $CMP Header_1x5
 D Pin Header 1x5
 K Header;1 row;5 pins

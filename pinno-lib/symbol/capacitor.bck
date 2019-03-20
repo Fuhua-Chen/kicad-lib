@@ -137,10 +137,4 @@ K Electrolytic Capacitors
 F https://atta.szlcsc.com/upload/public/pdf/source/20180813/C267471_4D4550B5852E9AC2CB37E8AE11263E0F.pdf
 $ENDCMP
 #
-$CMP VT1H102M1616
-D Electrolytic Capacitors,1000uF,-40℃~+105℃,50V,±20%,16x16.5mm,2000Hrs@105℃
-K Electrolytic Capacitors
-F https://atta.szlcsc.com/upload/public/pdf/source/20180703/C239251_3A0764FDC0C179558E579B4B57B5CF6F.pdf
-$ENDCMP
-#
 #End Doc Library

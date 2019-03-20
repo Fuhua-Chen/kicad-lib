@@ -61,7 +61,7 @@ F https://www.st.com/resource/en/datasheet/stm32f730v8.pdf
 $ENDCMP
 #
 $CMP STM32H750VBT6
-D ARM Microcontrollers - MCU High-performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 128 Kbytes of Flash memory, 1MB RAM, 400 MHz CPU, L1 cache, external memory interface, JPEG codec, HW crypto, large set of peripherals
+D ARM Microcontrollers MCU High performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 128 Kbytes of Flash memory, 1MB RAM, 400 MHz CPU, L1 cache, external memory interface, JPEG codec, HW crypto, large set of peripherals
 K MCU,STM32H7
 F https://www.st.com/resource/en/datasheet/stm32h750vb.pdf
 $ENDCMP
