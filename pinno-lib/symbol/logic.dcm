@@ -32,7 +32,7 @@ $ENDCMP
 #
 $CMP NL17SZ14DFT2G
 D The NL17SZ14 is a single inverter with Schmitt trigger in three tiny
-K logic,inverter
+K logic,inverter,反相器
 F https://atta.szlcsc.com/upload/public/pdf/source/20170522/1495448318625.PDF
 $ENDCMP
 #
