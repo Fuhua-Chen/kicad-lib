@@ -30,6 +30,12 @@ K Single 2-Input OR Gate
 F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184692_2A4B27801ECE5CCAAB16339ADEDBF0C3.PDF
 $ENDCMP
 #
+$CMP NL17SZ14DFT2G
+D The NL17SZ14 is a single inverter with Schmitt trigger in three tiny
+K logic,inverter,反相器
+F https://atta.szlcsc.com/upload/public/pdf/source/20170522/1495448318625.PDF
+$ENDCMP
+#
 $CMP NL17SZ32XV5T2G
 D The NL17SZ32 is a single 2−input OR Gate in three tiny footprint packages. The device performs much as LCX multi−gate products in speed and drive. They should be used wherever the need for higher speed and drive are needed.
 K Single 2-Input OR Gate

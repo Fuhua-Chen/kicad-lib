@@ -18,6 +18,18 @@ K Eutech;EUP3476;Step Down;DCDC;Buck;3A;28V
 F http://item.szlcsc.com/169438.html
 $ENDCMP
 #
+$CMP HM1160
+D HM1160 是一款单节锂电池电量指示芯片，该芯片采用 CMOS 工艺实现，体积小，便于便携式产品安装。 HM1160内置比较器和反馈回路，实现4个电压点的检 测。 通过内部修调技术，可以保证电压检测精度达 到±1%。输出 采用 OPENDRAIN 结构，便于客户使用 IO 口 或者 LED 指示。
+K 单节锂电池电量指示芯片
+F http://www.hmsemi.com/page/6546775/index.php
+$ENDCMP
+#
+$CMP HX70A
+D HX70A 是一款单节锂电池电量指示芯片，该芯片采用 CMOS 工艺实现，体积小，便于便携式产品安装。 HX70A内置比较器和反馈回路，实现4个电压点的检 测。 通过内部修调技术，可以保证电压检测精度达 到±1%。输出 采用 OPENDRAIN 结构，便于客户使用 IO 口 或者 LED 指示。
+K 单节锂电池电量指示芯片
+F C:/kicad-lib/datasheet/HX70A.pdf
+$ENDCMP
+#
 $CMP LM2576
 D TI;LM2576/LM2576HV Series SIMPLE SWITCHER® 3A Step-Down Voltage Regulator
 K TI;LM2576/LM2576HV;7V to 40V;3 A;32 kHz.
@@ -40,12 +52,6 @@ $CMP M3406-ADJ
 D The M3406 is a constant frequency, current mode step-down converter.  The device integrates a main switch and a synchronous rectifier for high efficiency without an external Schottky diode.  It is ideal for powering portable equipment that runs from a single cell Lithium-Ion (Li+) battery. The output voltage can be regulated as low as 0.6V. The M3406 can also run at 100% duty cycle for low dropout operation, extending battery life in portable system. This device offers two operation modes, PWM control and PFM Mode switching control, which allows a high efficiency over the wider range of the load.The M3406 is offered in a low profile (1mm) 5-pin, thin SOT package, and is available in an adjustable version.
 K DCDC,BUCK,Step Down,1.5MHz,800mA
 F https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478742836232.pdf
-$ENDCMP
-#
-$CMP MC34063AB
-D ST;MC34063AB;DC-DC converter control circuits,Output switch current in excess of 1.5 A,2 % reference accuracy,Low quiescent current: 2.5 mA (typ.),Operating from 3 V to 40 V,Frequency operation to 100 kHz,Active current limiting.
-K ST;MC34063;3 V to 40 V;1.5 A;100 kHz.
-F http://www.mouser.com/ds/2/389/mc34063ab-974173.pdf
 $ENDCMP
 #
 $CMP ME6209A18M3G
