@@ -32,12 +32,6 @@ D Zener;Diode
 K Diode;Zener
 $ENDCMP
 #
-$CMP LBAV99LT1G
-D LBAV99LT1G Dual Series Switching Diode
-K Diode,Switching,开关二极管
-F https://atta.szlcsc.com/upload/public/pdf/source/20160716/1468655427703.pdf
-$ENDCMP
-#
 $CMP LESD8D5.0CAT5G
 D The LESD8D5.0CAT5G,VRWM=5V,Vc=12.5V,Ipp=5.5A 双向, is designed to protect voltage sensitive components from ESD.Excellent clamping capability, low leakage, and fast response time ,make these parts ideal for ESD. protection on designs where board space is at a premium. Because of its small size, it is suited for use in cellular phones, MP3 players, digital cameras and many other portable applications where board space is at a premium.
 K ESD Rating of Class 3 (> 16 kV) per Human Body,IEC61000−4−2 Level 4 ESD Protection.
@@ -54,6 +48,12 @@ $CMP PESD15VL1BA
 D 台湾元基 双向ESD, 15V (Max)关断, 16.7V 击穿, 31V 钳位，11A (8/20us),SOD-323
 K Diode;ESD
 F https://atta.szlcsc.com/upload/public/pdf/source/20181108/C330095_E8DDC9FC0522283065CE8FE4437C26EE.pdf
+$ENDCMP
+#
+$CMP PESD15VL1BA_0
+D LBAV99LT1G Dual Series Switching Diode
+K Diode,Switching,开关二极管
+F https://atta.szlcsc.com/upload/public/pdf/source/20160716/1468655427703.pdf
 $ENDCMP
 #
 $CMP SMF24A

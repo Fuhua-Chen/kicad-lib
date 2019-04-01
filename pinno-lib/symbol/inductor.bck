@@ -56,12 +56,6 @@ K Power Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20180326/C95966_2987616B4C7077C875F3CAA13DBA9134.pdf
 $ENDCMP
 #
-$CMP MPH201214S100MT
-D Sunlord(顺络) Inductor,1A,375毫欧,0805,10uH,20%
-K Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C192450_D367E2F3A262E86E340600F0454A5E72.pdf
-$ENDCMP
-#
 $CMP MPL2016S2R2MHT
 D Sunlord Inductor,Multilayer Chip Power Inductor – MPL Series,2.2uH,±20%,0.11DCR,1.2A,0806
 K Power Inductor
