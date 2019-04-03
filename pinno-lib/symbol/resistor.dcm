@@ -91,6 +91,12 @@ K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25784_1505901541961983358.pdf
 $ENDCMP
 #
+$CMP 0402WGF3300TCE
+D UniOhm Chip Resistor,330Ω,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25104_1505901212369982735.pdf
+$ENDCMP
+#
 $CMP 0402WGF3302TCE
 D UniOhm Chip Resistor,33k,1%,0402
 K Resistor

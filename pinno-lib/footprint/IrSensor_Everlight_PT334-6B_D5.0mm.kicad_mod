@@ -1,4 +1,4 @@
-(module IrSensor_Everlight_PT334-6B_D5.0mm (layer F.Cu) (tedit 5C41A8EF)
+(module IrSensor_Everlight_PT334-6B_D5.0mm (layer F.Cu) (tedit 5CA1FC27)
   (descr "LED, diameter 5.0mm, 2 pins")
   (tags "LED diameter 5.0mm 2 pins")
   (fp_text reference REF** (at 0.01 -3.895732) (layer F.SilkS)
@@ -21,8 +21,8 @@
   (fp_arc (start -0.03 0) (end -2.53 -1.469694) (angle 299.1) (layer F.Fab) (width 0.1))
   (fp_arc (start -0.03 0) (end -2.59 -1.54483) (angle 148.9) (layer F.SilkS) (width 0.12))
   (fp_arc (start -0.03 0) (end -2.59 1.54483) (angle -148.9) (layer F.SilkS) (width 0.12))
-  (pad 1 thru_hole rect (at -1.3 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 1.24 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 2 thru_hole rect (at -1.3 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 1.24 0) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/LED_THT.3dshapes/LED_D5.0mm_IRBlack.wrl
     (offset (xyz -1.3 0 -2.9))
     (scale (xyz 1 1 1))

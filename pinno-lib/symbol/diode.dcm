@@ -50,6 +50,18 @@ K ESD Rating of Class 3 (> 16 kV) per Human Body,IEC61000−4−2 Level 4 ESD Pr
 F https://atta.szlcsc.com/upload/public/pdf/source/20180130/C172412_15172974231611323441.pdf
 $ENDCMP
 #
+$CMP MMSZ4692
+D CJ Zener Diode,MMSZ4692, 6.8V 0.35W, SOD-123
+K Diode,Zener
+F https://atta.szlcsc.com/upload/public/pdf/source/20140301/1457707001493.pdf
+$ENDCMP
+#
+$CMP MMSZ5246B
+D CJ Zener Diode,MMSZ5246B, 16V 0.35W, SOD-123
+K Diode,Zener
+F https://atta.szlcsc.com/upload/public/pdf/source/20140301/1457707001725.pdf
+$ENDCMP
+#
 $CMP PESD15VL1BA
 D 台湾元基 双向ESD, 15V (Max)关断, 16.7V 击穿, 31V 钳位，11A (8/20us),SOD-323
 K Diode;ESD
