@@ -6,12 +6,6 @@ K 6W(2Ω 负载);4W（3Ω 负载）;3.5W（4Ω 负载;D类；功放
 F https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492506325635.pdf
 $ENDCMP
 #
-$CMP FM8002A
-D FM8002A 是适用于便携电子产品的音频功率放大器。5V 电压时，最大驱动功率为 1.5W（8Ω负载）和 2.0W（4Ω负载）。FM8002A 的应用电路简单，只需要极少数外围器件。FM8002A 输出不需要外接耦合电容 或上举电容，采用 SOP8封装，非常适合低电压、低功耗音频应用方案上使用。FM8002A 可以通过控制 进入休眠模式，从而降低功耗。FM8002A 通过创新的“开关/切换噪声”抑制技术，杜绝了上电、掉电出现 的噪声。FM8002A 工作稳定，增益带宽积高达 2.5MHz，并且单位增益稳定。通过配置外围电阻可以调整 放大器的电压增益，方便应用。
-K Amplifier,Audio
-F https://atta.szlcsc.com/upload/public/pdf/source/20170211/1486785664274.pdf
-$ENDCMP
-#
 $CMP LM321-TR
 D LM321/358/324 types consist of single/dual/quad channel independent, high gain, internally frequency compensated operational amplifiers which are designed specifically to operate from a single power supply over a wide range of voltages. They may also be operated from split power supplies. The supply current is basically independent of the supply voltage over the recommended voltage range. These devices are particularly useful in interface circuits with digital systems and can be operated from the single common 5VDC power supply. They are also intended for transducer amplifiers, DC gain blocks and many other conventional op amp circuits which can benefit from the single power supply capability. In the linear mode, the input common-mode voltage range includes ground and the output voltage can also swing to both ground and power rail, even though operated from a single power supply. The LM321 is single channel version available in 5-pin SOT23 packages. The LM358 is dual channel version available in 8-pin SOP and MSOP packages. The LM324 is quad channel version available in 14-pin SOP and TSSOP packages.
 K Operational Amplifier
@@ -34,6 +28,12 @@ $CMP RC4580IDR
 D TI;RC4580;Dual Audio Operational Amplifier
 K Operational Amplifier;TI;TI;RC4580;Audio
 F http://www.ti.com.cn/cn/lit/ds/symlink/rc4580.pdf
+$ENDCMP
+#
+$CMP RC4580IDR_0
+D FM8002A 是适用于便携电子产品的音频功率放大器。5V 电压时，最大驱动功率为 1.5W（8Ω负载）和 2.0W（4Ω负载）。FM8002A 的应用电路简单，只需要极少数外围器件。FM8002A 输出不需要外接耦合电容 或上举电容，采用 SOP8封装，非常适合低电压、低功耗音频应用方案上使用。FM8002A 可以通过控制 进入休眠模式，从而降低功耗。FM8002A 通过创新的“开关/切换噪声”抑制技术，杜绝了上电、掉电出现 的噪声。FM8002A 工作稳定，增益带宽积高达 2.5MHz，并且单位增益稳定。通过配置外围电阻可以调整 放大器的电压增益，方便应用。
+K Amplifier,Audio
+F https://atta.szlcsc.com/upload/public/pdf/source/20170211/1486785664274.pdf
 $ENDCMP
 #
 $CMP TLV521DCKR
