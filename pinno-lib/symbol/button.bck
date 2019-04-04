@@ -10,6 +10,12 @@ D Button;4 Pins
 K Button;4P
 $ENDCMP
 #
+$CMP DTSM-24N-V-B
+D Button,4 Pins,12*12*7.3mm 轻触按键,160gf
+K SMD Button 4P,160gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20180517/C224986_77B7168B066B9F835A26D27FA7312524.pdf
+$ENDCMP
+#
 $CMP K2-1102SP-M4SC-04
 D Button,4 Pins,6*6*10mm 轻触按键,30万次寿命
 K SMD Button 4P
