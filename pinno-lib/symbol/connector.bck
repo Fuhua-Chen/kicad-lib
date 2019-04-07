@@ -42,6 +42,18 @@ K CJT,PH,2.0,2p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225233_C656E3DBD5D93AB75B97D984929AF7CC.pdf
 $ENDCMP
 #
+$CMP A2001WV-10P
+D CJT,PH,2.0mm,10pins,立插
+K PH,2.0,10p,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225196_A219E479A4214AC41BADD806F9B86EF8.pdf
+$ENDCMP
+#
+$CMP A2001WV-2P
+D CJT,PH,2.0mm,2pins,立插
+K PH,2.0,2p,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225188_C66D38A5E2F5886396DF5ACF1EBF71A4.pdf
+$ENDCMP
+#
 $CMP AFC01-S24FCA-00
 D JS,FPC,Pitch0.5mm,24pins,Side entry,翻盖式
 K FPC,0.5mm,24P
