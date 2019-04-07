@@ -257,9 +257,21 @@ K Micro USB OTG
 F https://atta.szlcsc.com/upload/public/pdf/source/20170922/C129012_1506073636460987277.pdf
 $ENDCMP
 #
-$CMP USB
+$CMP USB-B
+D GUSHI|USB-B型接口母座(180度固定脚)B母头铜脚铁壳焊接式 不耐高温
+K USB Type B
+F https://atta.szlcsc.com/upload/public/pdf/source/20151208/1457707613905.pdf
+$ENDCMP
+#
+$CMP USB_0
 D USB
 K USB;5P
+$ENDCMP
+#
+$CMP WJ2EDGVC-5.08-12P
+D 插拔式接线端子,12P,间距5.08mm,立插,配套端子型号：WJ2EDGKB-5.08-12P
+K 接线端子,5.08mm
+F https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707515117.pdf
 $ENDCMP
 #
 #End Doc Library
