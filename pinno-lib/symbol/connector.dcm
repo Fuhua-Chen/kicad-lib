@@ -54,6 +54,12 @@ K PH,2.0,2p,立插
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225188_C66D38A5E2F5886396DF5ACF1EBF71A4.pdf
 $ENDCMP
 #
+$CMP A2001WV-4P
+D CJT,PH,2.0mm,4pins,立插
+K PH,2.0,4p,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225190_98701D02E29CB512B7E549B6CD24114D.pdf
+$ENDCMP
+#
 $CMP AFC01-S24FCA-00
 D JS,FPC,Pitch0.5mm,24pins,Side entry,翻盖式
 K FPC,0.5mm,24P
@@ -76,6 +82,12 @@ $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna
 F http://www.szlcsc.com/so/product/details_140889.html
+$ENDCMP
+#
+$CMP DB9公头直针带固定螺丝柱
+D DB9公头直针，黑色，带固定螺丝柱，焊接固定
+K DB9
+F None
 $ENDCMP
 #
 $CMP DC-005-5.5-2.0MM
@@ -284,6 +296,12 @@ $CMP WJ2EDGVC-5.08-12P
 D 插拔式接线端子,12P,间距5.08mm,立插,配套端子型号：WJ2EDGKB-5.08-12P
 K 接线端子,5.08mm
 F https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707515117.pdf
+$ENDCMP
+#
+$CMP 简牛双排直针座2X15P
+D 简牛双排直针座2X15P直插直针,2.54mm
+K 简牛座,2x15
+F 简牛双排直针座 2X15P
 $ENDCMP
 #
 #End Doc Library

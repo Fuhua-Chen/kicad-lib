@@ -143,6 +143,12 @@ K Electrolytic Capacitors
 F https://atta.szlcsc.com/upload/public/pdf/source/20180813/C267471_4D4550B5852E9AC2CB37E8AE11263E0F.pdf
 $ENDCMP
 #
+$CMP SE-5R5-D105VYH
+D 超级电容器,-25℃~+70℃,5.5V,-20%~+80%,1F
+K Super Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170717/C118887_1500269960558820748.pdf
+$ENDCMP
+#
 $CMP VT1H102M1616
 D Electrolytic Capacitors,1000uF,-40℃~+105℃,50V,±20%,16x16.5mm,2000Hrs@105℃
 K Electrolytic Capacitors

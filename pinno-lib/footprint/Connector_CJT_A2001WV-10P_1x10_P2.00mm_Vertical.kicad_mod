@@ -1,4 +1,4 @@
-(module Connector_CJT_A2001WV-10P_1x10_P2.00mm_Vertical (layer F.Cu) (tedit 5CA47DCF)
+(module Connector_CJT_A2001WV-10P_1x10_P2.00mm_Vertical (layer F.Cu) (tedit 5CAAB0FC)
   (fp_text reference REF** (at 0 -1.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,26 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 10uH
-D Cjiang Inductor, High Current, Power Inductor,10uH,±20%，0.062DCR,4.5A,5MHz,7.3x6.8x 3.0mm
-K Inductor
-$ENDCMP
-#
-$CMP 2.7nH
-D Sunlord Inductor,High Frequency,2.7nH,±0.3nH,0.2DCR,300mA,6000MHz,Q8,0402
-K High Frequency Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20140222/1457706791971.pdf
-$ENDCMP
-#
-$CMP 3.9nH
-D Sunlord Inductor,High Frequency,3.9nH,±0.3nH,0.2DCR,300mA,4000MHz,Q8,0402
-K High Frequency Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20180912/C279863_CA7A2FDCA2BE16F7D2CB2BD6A9502C29.pdf
-$ENDCMP
-#
-$CMP 8.2nH
-D Sunlord Inductor,High Frequency,8.2nH,±5%,0.4DCR,300mA,3600MHz,Q8,0402
-K High Frequency Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20140222/1457706791971.pdf
+$CMP ACP3225-501-2P-T000
+D TDK Inductor,500Ω@100MHz,2A电流共模滤波器
+K Common Mode Inductor
+F ACP3225-501-2P-T000
 $ENDCMP
 #
 $CMP CBC3225T102KR

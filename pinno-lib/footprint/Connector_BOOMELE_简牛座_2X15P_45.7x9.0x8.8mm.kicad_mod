@@ -1,0 +1,8 @@
+(module Connector_BOOMELE_简牛座_2X15P_45.7x9.0x8.8mm (layer F.Cu) (tedit 5CAB1AB5)
+  (fp_text reference REF** (at 0 -7) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Connector_BOOMELE_简牛座_2X15P_45.7x9.0x8.8mm (at 0 -9) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

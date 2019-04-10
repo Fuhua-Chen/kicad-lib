@@ -39,7 +39,6 @@ $ENDCMP
 $CMP UT3232G-P16-R
 D The UTC UT3232 has two receivers and two drivers, and a dual charge-pump circuit. The device meets the requirements of TIA/EIA-232-F and provides the electrical interface between an asynchronous communication controller and the serial-port connector. The charge pump and four small external capacitors allow operation from a single 3.0V to 5.5V supply. The device operates at data signaling rates up to 250kbit/s and a maximum of 35V/μs driver output slew rate.
 K RS232
-F https://atta.szlcsc.com/upload/public/pdf/source/20161105/1478330903034.pdf
 $ENDCMP
 #
 $CMP YD3082E
