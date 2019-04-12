@@ -1,6 +1,28 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# M28S
+#
+DEF M28S Q 0 0 Y Y 1 F N
+F0 "Q" -250 200 60 H V C CNN
+F1 "M28S" -200 100 60 H V C CNN
+F2 "SOT-323_SC-70" 0 -900 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20150811/1457707341991.pdf" 0 -800 60 H I C CNN
+F4 "JCET" -300 -700 50 H I C CNN "Manufacturer"
+F5 "MMST3904" -200 -600 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/55904.html" 300 -500 50 H I C CNN "Supplier"
+F7 "C54879" -250 -400 50 H I C CNN "Sku"
+DRAW
+P 2 0 1 0 0 0 100 -100 N
+P 2 0 1 0 0 100 0 -100 N
+P 2 0 1 0 100 100 0 0 N
+P 4 0 1 0 25 -75 75 -75 75 -25 25 -75 F
+X B 1 -100 0 100 R 20 20 1 1 P
+X E 2 100 -200 100 U 20 20 1 1 P
+X C 3 100 200 100 D 20 20 1 1 P
+ENDDRAW
+ENDDEF
+#
 # MMST3904
 #
 DEF MMST3904 Q 0 0 Y Y 1 F N
