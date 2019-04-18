@@ -1,28 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 10uH
-D Cjiang Inductor, High Current, Power Inductor,10uH,±20%，0.062DCR,4.5A,5MHz,7.3x6.8x 3.0mm
-K Inductor
-$ENDCMP
-#
-$CMP 2.7nH
-D Sunlord Inductor,High Frequency,2.7nH,±0.3nH,0.2DCR,300mA,6000MHz,Q8,0402
-K High Frequency Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20140222/1457706791971.pdf
-$ENDCMP
-#
-$CMP 3.9nH
-D Sunlord Inductor,High Frequency,3.9nH,±0.3nH,0.2DCR,300mA,4000MHz,Q8,0402
-K High Frequency Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20180912/C279863_CA7A2FDCA2BE16F7D2CB2BD6A9502C29.pdf
-$ENDCMP
-#
-$CMP 8.2nH
-D Sunlord Inductor,High Frequency,8.2nH,±5%,0.4DCR,300mA,3600MHz,Q8,0402
-K High Frequency Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20140222/1457706791971.pdf
-$ENDCMP
-#
 $CMP ACP3225-501-2P-T000
 D TDK Inductor,500Ω@100MHz,2A电流共模滤波器
 K Common Mode Inductor
@@ -74,6 +51,12 @@ K Power Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170728/C42215_1501225881941849054.pdf
 $ENDCMP
 #
+$CMP PRS6045-4R7MT
+D FH Inductor, High Current, Power Inductor,4.7uH,±20%，0.031DCR,4A,6x6x4.5mm
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170505/1493957831537.pdf
+$ENDCMP
+#
 $CMP SDCL1005CR10JTDF
 D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,100nH,±5%,2.6DCR,150mA,0402
 K Ceramic Inductor
@@ -90,6 +73,12 @@ $CMP SDCL1608CR33JTDF
 D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series  ,330nH,±5%,2.8DCR,150mA,Q8,0603
 K Ceramic Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707280994.pdf
+$ENDCMP
+#
+$CMP YSPI0530-3R3M
+D YJYCOIN(益嘉源) Inductor, High Current, Power Inductor,3.3uH,±20%,0.042DCR,4A,5.2x4.7x3mm
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181218/C351097_213915331424B92557D9F3D56E115792.pdf
 $ENDCMP
 #
 $CMP YXMAC1265-101M-ITF

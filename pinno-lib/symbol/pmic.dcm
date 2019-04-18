@@ -54,6 +54,12 @@ K DCDC,BUCK,Step Down,1.5MHz,800mA
 F https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478742836232.pdf
 $ENDCMP
 #
+$CMP ME2139FM5G
+D The ME2139 series is a CMOS step-up switching regulator which mainly consists of a reference voltage source, an oscillation circuit, an error amplifier, a phase compensation circuit, a PWM/PFM switching control circuit. With an external low-ON-resistance Nch Power MOS, this product is applicable to applications requiring high efficiency and high output current. The ME2139 series switches its operation to the PFM control circuit whose duty ratio is 15 % with to the PWM/PFM switching control circuit under a light load and to prevent decline in the efficiency by IC operation current. 
+K Step up,DCDC
+F https://atta.szlcsc.com/upload/public/pdf/source/20170712/C111931_1499827708520813364.pdf
+$ENDCMP
+#
 $CMP ME6209A18M3G
 D The ME6209 series are a group of positive voltage output, three –pin regulator, that provide a high current even when the input/output Voltage differential is small. Low power consumption and high accuracy is achieved through CMOS technology. They allow input voltages as high as 18V.
 K MicroOne;ME6209;LDO;1.8V

@@ -12,6 +12,12 @@ K 1.25mm,5p
 F https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760162.pdf
 $ENDCMP
 #
+$CMP 2501S-13P
+D XH接插件 XH2.50 
+K XH,2.5
+F https://atta.szlcsc.com/upload/public/pdf/source/20180112/C168989_15157258719761261747.pdf
+$ENDCMP
+#
 $CMP A1002WR-S-10P
 D CJT,SR,SH,1.0mm,10pins,Side entry,替代SM10B-SRSS-TB
 K JST,SR,1.0,10p
@@ -82,12 +88,6 @@ $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna
 F http://www.szlcsc.com/so/product/details_140889.html
-$ENDCMP
-#
-$CMP DB9公头直针
-D DB9公头直针，黑色
-K DB9
-F None
 $ENDCMP
 #
 $CMP DB9公头直针带固定螺丝柱
