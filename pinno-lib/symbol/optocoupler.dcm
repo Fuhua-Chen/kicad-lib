@@ -14,7 +14,7 @@ $ENDCMP
 #
 $CMP TLP240A(TP1,F
 D The TLP240A and TLP240AF photorelay consist of a photo MOSFET optically coupled to an infrared light emitting diode. They are housed in a 4-pin DIP package. They provide an isolation voltage of 5000 Vrms, making them suitable for applications that require reinforced insulation.
-K Photocouplers Photorelay 
+K Photocouplers Photorelay
 F https://atta.szlcsc.com/upload/public/pdf/source/20171211/C146360_15129763828081175391.pdf
 $ENDCMP
 #
