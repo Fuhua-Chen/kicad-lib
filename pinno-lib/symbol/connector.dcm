@@ -287,6 +287,12 @@ K Micro USB OTG
 F https://atta.szlcsc.com/upload/public/pdf/source/20170922/C129012_1506073636460987277.pdf
 $ENDCMP
 #
+$CMP USB-A
+D A/F180度插板铁壳弯脚有卷边 黑胶13.1 不耐高温
+K USB Type A
+F https://atta.szlcsc.com/upload/public/pdf/source/20151109/1457707570402.pdf
+$ENDCMP
+#
 $CMP USB-B
 D GUSHI|USB-B型接口母座(180度固定脚)B母头铜脚铁壳焊接式 不耐高温
 K USB Type B
@@ -307,7 +313,7 @@ $ENDCMP
 $CMP 简牛双排直针座2X15P
 D 简牛双排直针座2X15P直插直针,2.54mm
 K 简牛座,2x15
-F 简牛双排直针座 2X15P
+F https://atta.szlcsc.com/upload/public/pdf/source/20140331/1457707037711.pdf
 $ENDCMP
 #
 #End Doc Library

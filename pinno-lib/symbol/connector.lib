@@ -1418,6 +1418,27 @@ X ~ MP -50 250 100 D 20 20 1 1 P
 ENDDRAW
 ENDDEF
 #
+# USB-A
+#
+DEF USB-A J 0 40 Y Y 1 F N
+F0 "J" -200 300 60 H V C CNN
+F1 "USB-A" -150 400 60 H V C CNN
+F2 "Connector_USB-A_JTJ_AF180度插板铁壳弯脚有卷边黑胶13.1_14.3x6.7x13.1mm" 600 500 60 H I C CNN
+F3 "" 0 800 60 H I C CNN
+F4 "JTJ(精拓金)" 350 400 50 H I C CNN "Manufacturer"
+F5 "A/F180度插板铁壳弯脚有卷边" -150 500 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/47415.html" 100 600 50 H I C CNN "Supplier"
+F7 "C46411" 200 700 50 H I C CNN "Sku"
+DRAW
+S 0 250 300 -150 0 1 0 N
+X VCC 1 -200 200 200 R 50 50 1 1 P
+X DM 2 -200 100 200 R 50 50 1 1 P
+X DP 3 -200 0 200 R 50 50 1 1 P
+X GND 4 -200 -100 200 R 50 50 1 1 P
+X MP 5 250 -350 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # USB-B
 #
 DEF USB-B J 0 40 Y Y 1 F N
@@ -1462,8 +1483,8 @@ ENDDEF
 DEF WJ2EDGVC-5.08-12P J 0 40 Y Y 1 F N
 F0 "J" -100 800 60 H V C CNN
 F1 "WJ2EDGVC-5.08-12P" 150 600 60 H V C CNN
-F2 "PinHeader_1x10_P2.54mm_Vertical" 400 700 60 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707515117.pdf" 150 1250 60 H I C CNN
+F2 "Connector_KANGNEX_WJ2EDGVC-5.08-12P_1x12P_P5.08mm_62.86x8.3x12.2mm" 400 700 60 H I C CNN
+F3 "" 150 1250 60 H I C CNN
 F4 "KANGNEX(康奈克斯电气)" 0 900 50 H I C CNN "Manufacturer"
 F5 "WJ2EDGVC-5.08-12P" 100 1000 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/37031.html?pos=set" 200 1100 50 H I C CNN "Supplier"
