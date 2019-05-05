@@ -1,4 +1,5 @@
-(module Filter_Common-Mode_TDK_ACP3225_1210_3.2x2.5x1.9mm (layer F.Cu) (tedit 5CCE84A2)
+(module Filter_Common-Mode_TDK_ACP3225_1210_3.2x2.5x1.9mm (layer F.Cu) (tedit 5CCE8965)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
