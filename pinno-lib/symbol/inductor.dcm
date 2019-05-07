@@ -1,11 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ACP3225-501-2P-T000
-D TDK Inductor,500Ω@100MHz,2A电流共模滤波器
-K Common Mode Inductor
-F ACP3225-501-2P-T000
-$ENDCMP
-#
 $CMP CBC3225T102KR
 D TaiYo Inductor,1mH,1.6MHz,16Ω,100mA,1210
 K SMD Inductor

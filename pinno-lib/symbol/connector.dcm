@@ -31,7 +31,7 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180724/C239524_10DB3B45D7C6
 $ENDCMP
 #
 $CMP A1251WR-S-2P
-D 1.25mm pitch wire to board and wire to wire connector
+D CJT,A1251WR-S-2P,1.25mm pitch wire to board and wire to wire connector
 K CJT,1.25mm,2p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225111_F046D91F4FC85813A85D32FD7471B71D.pdf
 $ENDCMP
@@ -58,6 +58,12 @@ $CMP A2001WV-2P
 D CJT,PH,2.0mm,2pins,立插
 K PH,2.0,2p,立插
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225188_C66D38A5E2F5886396DF5ACF1EBF71A4.pdf
+$ENDCMP
+#
+$CMP A2001WV-3P
+D CJT,PH,2.0mm,3pins,立插
+K PH,2.0,3p,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225189_7400A83B89D35DE44FE1CB0365EE233F.pdf
 $ENDCMP
 #
 $CMP A2001WV-4P
@@ -88,6 +94,12 @@ $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna
 F http://www.szlcsc.com/so/product/details_140889.html
+$ENDCMP
+#
+$CMP CR2032-BS-6-1
+D 电池盒,电池座,钮扣电池座 CR2032 托盘
+K CR2032
+F https://atta.szlcsc.com/upload/public/pdf/source/20160427/1461725216549.pdf
 $ENDCMP
 #
 $CMP DB9公头直针带固定螺丝柱

@@ -1,11 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ACP3225-501-2P-T000
-D TDK Inductor,500Ω@100MHz,2A电流共模滤波器
-K Common Mode Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20161229/1482979307382.pdf
-$ENDCMP
-#
 $CMP MCZ0806AH900L2TA0G
 D 高速差分信号线用小型叠层共模滤波器(USB2.0,LVDS等)
 K Common Mode Filter for USB,LVDS or so on high speed different signal line,Inductor
