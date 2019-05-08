@@ -72,6 +72,17 @@ K PH,2.0,4p,立插
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225190_98701D02E29CB512B7E549B6CD24114D.pdf
 $ENDCMP
 #
+$CMP A3961WV-2P
+D CJT,VH,3.96mm,2pins,立插
+K VH,3.96mm,2p,立插
+$ENDCMP
+#
+$CMP A3963WV-2P
+D CJT,VH,3.96mm,2pins,立插
+K VH,3.96mm,2p,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20180725/C239409_FA85327A7A5429162BFA0818C7DDCEC3.pdf
+$ENDCMP
+#
 $CMP AFC01-S24FCA-00
 D JS,FPC,Pitch0.5mm,24pins,Side entry,翻盖式
 K FPC,0.5mm,24P
@@ -94,6 +105,12 @@ $CMP ANKX01.0092
 D SMA-K,板端连接器,弯头焊接,工作频率范围宽,DC~6GHz,损耗低SMA,型通用接口,主板焊接式,
 K RFsister;SMA,Antenna
 F http://www.szlcsc.com/so/product/details_140889.html
+$ENDCMP
+#
+$CMP B02P-NV(LF)(SN)
+D JST,NV,5.0mm,2pins,立插
+K NV,5.0mm,2p,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20180420/C160287_B9C96403F23414A5922E8D5EAAC3D302.pdf
 $ENDCMP
 #
 $CMP CR2032-BS-6-1
