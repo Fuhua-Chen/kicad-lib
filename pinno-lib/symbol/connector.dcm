@@ -83,20 +83,20 @@ K VH,3.96mm,2p,立插
 F https://atta.szlcsc.com/upload/public/pdf/source/20180725/C239409_FA85327A7A5429162BFA0818C7DDCEC3.pdf
 $ENDCMP
 #
-$CMP AFC01-S24FCA-00
-D JS,FPC,Pitch0.5mm,24pins,Side entry,翻盖式
-K FPC,0.5mm,24P
-F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262567_D085E02ABE248D4AE4FCF844F3A6EB2F.pdf
+$CMP AFA07-S04FCC-00
+D JS,FPC,Pitch1.0mm,4pins,抽屉式,下接
+K FPC,1.0mm,4P
+F https://atta.szlcsc.com/upload/public/pdf/source/20131111/1457706660317.pdf
 $ENDCMP
 #
 $CMP AFC07-S24ECA-00
-D JS,FPC,Pitch0.5mm,24pins,Side entry,抽屉式
+D JS,FPC,Pitch0.5mm,24pins,抽屉式,上接
 K FPC,0.5mm,24P
 F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262643_A165FE49097C78A84A50B150AB79460D.pdf
 $ENDCMP
 #
 $CMP AFC07-S50ECA-00
-D JS(钜硕电子),FPC,Pitch0.5mm,50pins,up entry,抽屉式,上接
+D JS,FPC,Pitch0.5mm,50pins,抽屉式,上接
 K FPC,0.5mm,50P,抽屉式上接
 F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262650_5ABA128661E228171CB3C670BB40B575.pdf
 $ENDCMP
