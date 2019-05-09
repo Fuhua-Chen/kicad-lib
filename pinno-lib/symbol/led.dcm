@@ -48,6 +48,12 @@ K Through Hole IR LED
 F https://atta.szlcsc.com/upload/public/pdf/source/20171215/C139041_15133106878901182323.pdf
 $ENDCMP
 #
+$CMP IRM-H600JW_TR2
+D The IRM-H600JW devices are miniature type infrared receivers which have been developed and designed by using the latest IC technology.
+K Infrared Receiver Control Receiver Module 
+F https://atta.szlcsc.com/upload/public/pdf/source/20180911/C72046_5D8800E4DDE4A68306FFE93C149F10F7.pdf
+$ENDCMP
+#
 $CMP LED
 D LED
 K LED
