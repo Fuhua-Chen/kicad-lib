@@ -25,9 +25,15 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20160416/1460799387864.pdf
 $ENDCMP
 #
 $CMP NCE0110K
-D The NCE0110K uses advanced trench technology and design to provide excellent RDS(ON) with low gate charge. It can be used in a wide variety of applications. 
+D The NCE0110K uses advanced trench technology and design to provide excellent RDS(ON) with low gate charge. It can be used in a wide variety of applications.
 K 100V,9.6A N沟道，Rds=108mΩ(typ)@10V 30W
 F https://atta.szlcsc.com/upload/public/pdf/source/20170211/1486785673467.pdf
+$ENDCMP
+#
+$CMP NCE01P13K
+D The NCE01P13K P Channel -100V -13A, uses advanced trench technology and design to provide excellent RDS(ON) with low gate charge. It can be used in a wide variety of applications. It is ESD protested.
+K PMOS管,100V,13A,170mΩ,40W
+F https://atta.szlcsc.com/upload/public/pdf/source/20170704/1499151341870.pdf
 $ENDCMP
 #
 $CMP NCE40P05Y

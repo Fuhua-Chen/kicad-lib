@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP APW7090KAI-TRG
+D The APW7090 is a 5A, asynchronous, step-down converter with integrated 50mΩ P-channel MOSFET. The device, with current-mode control scheme, can convert 8~32V input voltage to the output voltage adjustable from 0.8V to 90% VIN to provide excellent output voltage regulation. The APW7090 regulates the output voltage in automatic PSM/PWM mode operation, depending on the output current, for high efficiency operation over light to full load current. The APW7090 is also equipped with power-onreset, soft-start, and whole protections (under-voltage, over- temperature, and current-limit) into a single package. In shutdown mode, the supply current drops below 5µA. This device, available in a 8-pin SOP-8P package, provides a very compact system solution with minimal external components
+K 32V5A，DCDC降压，380KHZ，耐压40V，有过压，过流，过热保护
+F https://atta.szlcsc.com/upload/public/pdf/source/20170810/C125178_1502335359205879930.pdf
+$ENDCMP
+#
 $CMP CN3300
 D CN3300是一款工作于4V到28V的PFM升压型电池 充电控制集成电路。 CN3300内部集成有基准电压 源，＋5V电压调制单元，电感电流检测单元，电 池电压检测电路和片外N沟道MOSFET驱动电路 等，具有外部元件少，电路简单等优点。 当接通输入电源时，CN3300进入充电状态，控制 片外N沟道MOSFET导通，电感电流上升，当上升 到外部电流检测电阻设置的上限时，片外N沟道 MOSFET截止，电感电流下降，电感中的能量转 移到电池中。当电感电流下降到外部电流检测电 阻设置的下限时，片外N沟道MOSFET再次导通， 如此循环。电池电压通过电阻分压网络反馈到FB 管脚，当FB管脚电压达到1.205V(典型值)时，充电 过程结束，片外N沟道MOSFET保持截止状态。当 FB管脚电压下降到再充电阈值时，CN3300再次进 入充电状态。CN3300最高工作频率可达1MHz， 工作温度范围从－40℃到＋85℃。 CN3300采用6管脚的SOT23封装。输入电压范围4V 到 28V,高达25W输出功率。
 K 多节锂电池充电,8.4V,7.4V,电池管理
