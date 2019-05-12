@@ -328,6 +328,11 @@ K USB Type B
 F https://atta.szlcsc.com/upload/public/pdf/source/20151208/1457707613905.pdf
 $ENDCMP
 #
+$CMP USB_0
+D USB
+K USB;5P
+$ENDCMP
+#
 $CMP WJ2EDGVC-5.08-12P
 D 插拔式接线端子,12P,间距5.08mm,立插,配套端子型号：WJ2EDGKB-5.08-12P
 K 接线端子,5.08mm
