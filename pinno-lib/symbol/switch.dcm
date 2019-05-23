@@ -17,4 +17,10 @@ K Power switch;Current Limited;80mΩ;负载开关
 F https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492481333031.pdf
 $ENDCMP
 #
+$CMP SK-3296S-01-L1
+D 单刀双掷拨动开关
+K 拨动开关
+F https://atta.szlcsc.com/upload/public/pdf/source/20181029/C319020_49EB121E4520C3F0267C139A80DE298E.pdf
+$ENDCMP
+#
 #End Doc Library
