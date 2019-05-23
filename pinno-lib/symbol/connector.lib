@@ -480,12 +480,12 @@ X ~ 2 50 150 50 D 20 20 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Bonding_pad1*1
+# Bonding_pad_1x1
 #
-DEF Bonding_pad1*1 J 0 1 Y Y 1 F N
+DEF Bonding_pad_1x1 J 0 1 Y Y 1 F N
 F0 "J" 0 0 50 H V C CNN
-F1 "Bonding_pad1*1" 0 -150 50 H V C CNN
-F2 "Bonding_pad" -100 -250 50 H I C CNN
+F1 "Bonding_pad_1x1" 0 -150 50 H V C CNN
+F2 "Connector_Bonding_pad_4.15x1.44mm" -100 -250 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 C 0 100 50 0 1 0 N
