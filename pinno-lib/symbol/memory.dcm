@@ -6,6 +6,12 @@ K 1M-Bit Serial Flash Memory
 F https://atta.szlcsc.com/upload/public/pdf/source/20180829/C250846_441F4612D5F42C2ADB3A93F7AF901F19.pdf
 $ENDCMP
 #
+$CMP IS42S16400J-7TLI-TR
+D The	64Mb	SDRAM	is	a	high	speed	CMOS,	dynamic	random-access	memory	designed	to	operate	in	3.3V	memory systems containing 67,108,864 bits.  Internally configured	as	a	quad-bank	DRAM	with	a	synchronous	interface.		Each	16,777,216-bit	bank	is	organized	as	4,096	rows by 256 columns by 16 bits. The	64Mb	SDRAM	includes	an	AUTO	REFRESH	MODE,	and a power-saving, power-down mode. All signals are registered	on	the	positive	edge	of	the	clock	signal,	CLK.		All	inputs	and	outputs	are	LVTTL	compatible. The	64Mb	SDRAM	has	the	ability	to	synchronously	burst	data at a high data rate with automatic column-address generation, the ability to interleave between internal banks to hide precharge time and the capability to randomly change column addresses on each clock cycle during burst access. A self-timed row precharge initiated at the end of the burst sequence	is	available	with	the	AUTO	PRECHARGE	function	enabled. Precharge one bank while accessing one of the
+K SDRAM,64Mbits,16bits
+F https://atta.szlcsc.com/upload/public/pdf/source/20170213/1486979821965.pdf
+$ENDCMP
+#
 $CMP LY68L6400SLIT
 D 64M Bits Serial Pseudo-SRAM with SPI and QPI
 K 64M-Bit  PSRAM Memory

@@ -259,7 +259,7 @@ ENDDEF
 DEF Pressure_sensor40PC U 0 3 Y Y 1 F N
 F0 "U" -100 0 50 H V C CNN
 F1 "Pressure_sensor40PC" 0 -450 50 H V C CNN
-F2 "Pressure_sensor40PC" 50 -550 50 H I C CNN
+F2 "Sensor_Pressure_40PC" 50 -550 50 H I C CNN
 F3 "" -100 0 50 H I C CNN
 DRAW
 S -200 250 200 -250 1 1 0 N
