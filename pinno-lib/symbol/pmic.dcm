@@ -84,6 +84,12 @@ K MicroOne,ME6215,LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf
 $ENDCMP
 #
+$CMP ME6216A12M3G
+D ME6216 series are highly precise, low powerconsumption, positive voltage regulatorsmanufactured using CMOS technologies .Theseries provides large currents with a significantlysmall dropout voltage.The series is compatible with low ESR ceramiccapacitors .The current limiter’s foldback circuitalso operates as a short protect for the outputcurrent limiter and the output pin.
+K MicroOne,ME6216,LDO,1.2V
+F https://atta.szlcsc.com/upload/public/pdf/source/20180904/C236663_19DD0BFC49E92FDC512BAAFA4244858E.pdf
+$ENDCMP
+#
 $CMP MIC29302WU
 D Microchip;MIC29302WU;The MIC2915x/2930x/2950x/2975x are high current, high accuracy, low dropout voltage regulators. Using Microchip’s proprietary Super βeta PNP process with a PNP pass element, these regulators feature 350 mV to 425 mV (full load) typical dropout voltages and very low ground current. Designed for high current loads, these devices also find applications in lower current, extremely low dropout-critical systems, where their tiny dropout voltage and ground current values are important attributes. The MIC2915x/2930x/2950x/2975x are fully protected against overcurrent faults, reversed input polarity, reversed lead insertion, overtemperature operation, and positive and negative transient voltage spikes. Five pin fixed-voltage versions feature logic level ON/OFF control and an error flag that signals whenever the output falls out of regulation. Flagged states include low input voltage (dropout), output current limit, overtemperature shutdown, and extremely high voltage spikes on the input.
 K Microchip;MIC29302WU;LDO;3A;26V;ADJ

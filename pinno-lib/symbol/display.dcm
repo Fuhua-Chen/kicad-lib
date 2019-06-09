@@ -9,6 +9,7 @@ $ENDCMP
 $CMP SSD1963QL9
 D SSD1963 is a display controller of 1215K byte frame buffer to support up to 864 x 480 x 24bit graphics content.  It also equips parallel MCU interfaces in different bus width to receive graphics data and command from MCU.  Its display interface supports common RAM-less LCD driver of color depth up to 24 bit-perpixel.
 K LCD Driver，RGB
+F https://gitee.com/Pinno/kicad-lib/blob/master/datasheet/SSD1963.pdf
 $ENDCMP
 #
 #End Doc Library

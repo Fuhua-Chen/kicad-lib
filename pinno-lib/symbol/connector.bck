@@ -95,6 +95,18 @@ K FPC,0.5mm,24P
 F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262643_A165FE49097C78A84A50B150AB79460D.pdf
 $ENDCMP
 #
+$CMP AFC07-S30ECC-00
+D JS,FPC,Pitch0.5mm,30pins,抽屉式,上接
+K FPC,0.5mm,30P,抽屉式上接
+F https://atta.szlcsc.com/upload/public/pdf/source/20130129/1457706582801.pdf
+$ENDCMP
+#
+$CMP AFC07-S40ECC-00
+D JS,FPC,Pitch0.5mm,40pins,抽屉式,上接
+K FPC,0.5mm,40P,抽屉式上接
+F https://atta.szlcsc.com/upload/public/pdf/source/20130129/1457706582855.pdf
+$ENDCMP
+#
 $CMP AFC07-S50ECA-00
 D JS,FPC,Pitch0.5mm,50pins,抽屉式,上接
 K FPC,0.5mm,50P,抽屉式上接
