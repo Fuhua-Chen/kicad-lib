@@ -6,4 +6,10 @@ K H-Bridge,11V,1.5A,3A,PWM
 F https://atta.szlcsc.com/upload/public/pdf/source/20170914/C129328_1505359962536968168.pdf
 $ENDCMP
 #
+$CMP FM116B
+D SOT23-6封装全桥电机驱动，待机1uA功耗，4V,550mA
+K 电机驱动,全桥
+F https://atta.szlcsc.com/upload/public/pdf/source/20180614/C190601_A238805063D6EBAC1656774BFC013F91.pdf
+$ENDCMP
+#
 #End Doc Library
