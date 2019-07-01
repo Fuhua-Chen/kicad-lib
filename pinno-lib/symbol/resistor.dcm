@@ -198,10 +198,22 @@ K Resistor
 F 1210W2F100KT5E
 $ENDCMP
 #
+$CMP 25121WF1000T4E
+D UniOhm Chip Resistor,100Ω,1%,2512
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C35218_1505895271135981266.pdf
+$ENDCMP
+#
 $CMP 25121WF100KT4E
 D UniOhm Chip Resistor,1Ω,1%,2512,1W
 K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C11254_1505886988786979635.pdf
+$ENDCMP
+#
+$CMP 25121WF100MT4E
+D UniOhm Chip Resistor,0.01Ω,1%,2512,1W
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170821/C127692_1503303435816901673.pdf
 $ENDCMP
 #
 $CMP MS122WF100LT4E
