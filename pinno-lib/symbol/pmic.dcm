@@ -135,7 +135,7 @@ $ENDCMP
 $CMP SP6205
 D SIPEX;SP6205/SP6203;Low Noise, 300mA and 500mA CMOS LDO Regulators
 K LDO;Low-Dropout Linear Regulator;300mA,500mA;ultra-quiet operation.
-F http://www.szlcsc.com/member/downloadFile-44641A41D07D01EC-new_pdf_doc-pdf_see.html
+F https://atta.szlcsc.com/upload/public/pdf/source/20190715/C13480_801BC7B7DCCFFE480A75433B3F249019.pdf
 $ENDCMP
 #
 $CMP SY8088

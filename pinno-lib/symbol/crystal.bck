@@ -51,4 +51,10 @@ K Crystal,4P,27.12MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20190124/C362365_9E2A0A7E00021373A75E42C61F7238D7.pdf
 $ENDCMP
 #
+$CMP X1A0001210005
+D Crystal-2P,32.768kHz,12.5pF,20ppm
+K Crystal
+F https://atta.szlcsc.com/upload/public/pdf/source/20181223/C165064_89E145695707DA426F5051ABEBF35627.pdf
+$ENDCMP
+#
 #End Doc Library

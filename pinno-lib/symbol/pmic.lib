@@ -510,7 +510,11 @@ DEF SP6205 U 0 40 Y Y 1 F N
 F0 "U" -150 250 60 H V C CNN
 F1 "SP6205" 150 250 60 H V C CNN
 F2 "SOT-23-5" 50 400 60 H I C CNN
-F3 "http://www.szlcsc.com/member/downloadFile-44641A41D07D01EC-new_pdf_doc-pdf_see.html" 850 550 60 H I C CNN
+F3 "" 850 550 60 H I C CNN
+F4 "EXAR(艾科嘉)" 0 0 50 H I C CNN "Manufacturer"
+F5 "SP6205EM5-L-3.3/TR" 0 0 50 H I C CNN "PartNumber"
+F6 "C13480" 0 0 50 H I C CNN "Sku"
+F7 "https://item.szlcsc.com/14129.html" 0 0 50 H I C CNN "Supplier"
 ALIAS SP6203
 DRAW
 S -200 200 200 -200 0 1 10 N

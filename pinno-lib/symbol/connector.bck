@@ -194,6 +194,11 @@ D Pin Header 1x8
 K Header;1 row;8 pins
 $ENDCMP
 #
+$CMP Header_2x12
+D Pin Header 2x12
+K Header;2 row;12 pins
+$ENDCMP
+#
 $CMP Header_2x20
 D Pin Header 2x20
 K Header;2 rows;20 pins
@@ -236,6 +241,7 @@ $ENDCMP
 $CMP MicroSD
 D MicroSD Jack
 K Micro SD;TF
+F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf
 $ENDCMP
 #
 $CMP OK-03M010-04
@@ -322,6 +328,12 @@ K JST,SR,1.0,8p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180919/C160407_746DD325331750CE03918053D99628BF.pdf
 $ENDCMP
 #
+$CMP TYPE-C-31-M-04
+D USB type C connector
+K USB C
+F https://atta.szlcsc.com/upload/public/pdf/source/20190321/C129018_ECAF745BBC5FC08427E0CBD0F9A58A2A.pdf
+$ENDCMP
+#
 $CMP U-E-M5SS-Y-1
 D 韩国，韩荣，带耳朵，防水IP67，Micro USB，OTG
 K Micro USB OTG
@@ -344,6 +356,12 @@ $CMP WJ2EDGVC-5.08-12P
 D 插拔式接线端子,12P,间距5.08mm,立插,配套端子型号：WJ2EDGKB-5.08-12P
 K 接线端子,5.08mm
 F https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707515117.pdf
+$ENDCMP
+#
+$CMP XKTF-015-N
+D MicroSD Jack
+K Micro SD;TF
+F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf
 $ENDCMP
 #
 $CMP microUSB
