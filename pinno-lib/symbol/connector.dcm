@@ -194,6 +194,11 @@ D Pin Header 1x8
 K Header;1 row;8 pins
 $ENDCMP
 #
+$CMP Header_2x10
+D Pin Header 2x10
+K Header;2 row;10 pins
+$ENDCMP
+#
 $CMP Header_2x12
 D Pin Header 2x12
 K Header;2 row;12 pins
