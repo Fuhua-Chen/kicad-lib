@@ -45,6 +45,12 @@ K Crystal,2P,32.768kHz,3215
 F https://atta.szlcsc.com/upload/public/pdf/source/20180207/C164062_15179949936741359198.pdf
 $ENDCMP
 #
+$CMP TAXM8M4RDBCCT2T
+D TAE Crystal,8MHZ,10pF,15ppm,250R,3225
+K Crystal 2520
+F https://atta.szlcsc.com/upload/public/pdf/source/20190626/C400090_CF95B89E745AFE4EF2E392EF8AC009D6.pdf
+$ENDCMP
+#
 $CMP TXM27.12M0004322DBBDO00T
 D Crystal-4P,27.12MHz,CL 10pF,30Ω,±10ppm,-40~80℃ ±20ppm
 K Crystal,4P,27.12MHz,3225

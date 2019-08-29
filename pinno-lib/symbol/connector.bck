@@ -159,6 +159,16 @@ D Pin Header 1x10
 K Header;1 row;10 pins
 $ENDCMP
 #
+$CMP Header_1x12
+D Pin Header 1x12
+K Header;1 row;12 pins
+$ENDCMP
+#
+$CMP Header_1x13
+D Pin Header 1x13
+K Header;1 row;13 pins
+$ENDCMP
+#
 $CMP Header_1x2
 D Pin Header 1x2
 K Header;1 row;2 pins
@@ -212,11 +222,6 @@ $ENDCMP
 $CMP Header_2x3
 D Pin Header 2x3
 K Header;2 rows;3 pins
-$ENDCMP
-#
-$CMP IPEX-1
-D IPEX MHF1
-K IPEX;MHF1
 $ENDCMP
 #
 $CMP JTJ-USB-01
@@ -339,6 +344,12 @@ K Micro USB OTG
 F https://atta.szlcsc.com/upload/public/pdf/source/20170922/C129012_1506073636460987277.pdf
 $ENDCMP
 #
+$CMP U.FL-R-SMT-1(80)
+D IPEX U.FL
+K IPEX
+F https://atta.szlcsc.com/upload/public/pdf/source/20161125/1480067868647.pdf
+$ENDCMP
+#
 $CMP USB-A
 D A/F180度插板铁壳弯脚有卷边 黑胶13.1 不耐高温
 K USB Type A
@@ -349,6 +360,12 @@ $CMP USB-B
 D GUSHI|USB-B型接口母座(180度固定脚)B母头铜脚铁壳焊接式 不耐高温
 K USB Type B
 F https://atta.szlcsc.com/upload/public/pdf/source/20151208/1457707613905.pdf
+$ENDCMP
+#
+$CMP VH-2A
+D VH-2A,3.96mm,2pins,立插
+K VH,3.96mm,2p,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20130823/1457706640042.pdf
 $ENDCMP
 #
 $CMP WJ2EDGVC-5.08-12P
@@ -367,6 +384,12 @@ $CMP microUSB
 D Micro USB Connector, 四直插固定引脚
 K USB;5P
 F https://atta.szlcsc.com/upload/public/pdf/source/20140814/1457707217304.pdf
+$ENDCMP
+#
+$CMP 简牛双排直针座2X12P
+D 简牛双排直针座2X12P直插直针,2.54mm
+K 简牛座,2x12
+F https://atta.szlcsc.com/upload/public/pdf/source/20131122/1457706661371.pdf
 $ENDCMP
 #
 $CMP 简牛双排直针座2X15P

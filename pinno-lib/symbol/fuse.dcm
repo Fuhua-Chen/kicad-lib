@@ -17,4 +17,10 @@ D FUSE;2P
 K FUSE
 $ENDCMP
 #
+$CMP JK-NSMD100-16V
+D Fuse,PTC,1A,16VDC,1206
+K Fuse,PTC
+F https://atta.szlcsc.com/upload/public/pdf/source/20190306/C369161_B76EB4677BC9743819F61D3CCAC82A6B.pdf
+$ENDCMP
+#
 #End Doc Library

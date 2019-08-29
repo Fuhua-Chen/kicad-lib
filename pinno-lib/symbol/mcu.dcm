@@ -36,6 +36,12 @@ K ST;STM32F051K8
 F https://www.st.com/resource/en/datasheet/stm32f051k8.pdf
 $ENDCMP
 #
+$CMP STM32F070F6P6
+D ARM®-based 32-bit MCU, up to 128 KB Flash, USB FS 2.0,
+K STM32,STM32F070F6P6
+F https://atta.szlcsc.com/upload/public/pdf/source/20170105/1483608757662.pdf
+$ENDCMP
+#
 $CMP STM32F072C8T6
 D The STM32F072x8/xB microcontrollers incorporate the high-performance  ARM® Cortex®-M0 32-bit RISC core operating at up to 48 MHz frequency, high-speed embedded memories (up to 128 Kbytes of Flash memory and 16 Kbytes of SRAM), and an extensive range of enhanced peripherals and I/Os. All devices offer standard communication interfaces (two I2Cs, two SPI/I2S, one HDMI CEC and four USARTs), one USB Full-speed device (crystal-less), one CAN, one 12-bit ADC, one 12-bit DAC with two channels, seven 16-bit timers, one 32-bit timer and an advanced-control PWM timer. The STM32F072x8/xB microcontrollers operate in the -40 to +85 °C and -40 to +105 °C temperature ranges, from a 2.0 to 3.6 V power supply. A comprehensive set of  power-saving modes allows the design of low-power applications. The STM32F072x8/xB microcontrollers include devices in seven different packages ranging from 48 pins to 100 pins with a die form also available upon request. Depending on the device chosen, different sets of peripherals are included. These features make the STM32F072x8/xB microcontrollers suitable for a wide range of applications such as application control and user interfaces, hand-held equipment, A/V receivers and digital TV, PC peripherals, gaming and GPS platforms, industrial applications, PLCs, inverters, printers, scanners, alarm systems, video intercoms and HVACs.
 K STM32,F0,M0,48pins
