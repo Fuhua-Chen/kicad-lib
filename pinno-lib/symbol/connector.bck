@@ -356,6 +356,18 @@ K USB Type A
 F https://atta.szlcsc.com/upload/public/pdf/source/20151109/1457707570402.pdf
 $ENDCMP
 #
+$CMP USB-A_1
+D A/M一件式 17MM 铁壳带脚 白胶 C款 不耐高温
+K USB Type A
+F https://atta.szlcsc.com/upload/public/pdf/source/20151109/1457707568363.pdf
+$ENDCMP
+#
+$CMP USB-A公
+D USB-A公 公头 A型插座 卧式贴片 焊板式 黑胶白胶 带固定脚
+K USB Type A
+F https://detail.tmall.com/item.htm?spm=a230r.1.14.30.732e309asNXFBu&id=19528874210&ns=1&abbucket=18&skuId=3921445474155
+$ENDCMP
+#
 $CMP USB-B
 D GUSHI|USB-B型接口母座(180度固定脚)B母头铜脚铁壳焊接式 不耐高温
 K USB Type B

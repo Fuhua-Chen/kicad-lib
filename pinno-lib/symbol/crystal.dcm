@@ -24,6 +24,12 @@ K Crystal,4P,24MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20180207/C164058_15179949928181359196.pdf
 $ENDCMP
 #
+$CMP CSTCE8M00G15C99-R0
+D TAE Crystal,8MHZ,33pF inside,±0.1%,40R,3213
+K Crystal 2520
+F https://atta.szlcsc.com/upload/public/pdf/source/20180327/C110614_9F5031E08ADB10DE4472527BF78A8CAF.pdf
+$ENDCMP
+#
 $CMP Crystal-2P
 D Crystal-2P
 K Crystal;2P

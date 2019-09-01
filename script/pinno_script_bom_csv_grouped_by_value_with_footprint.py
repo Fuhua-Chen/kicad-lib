@@ -21,6 +21,7 @@
 import sys
 import kicad_netlist_reader
 import csv
+import string
 
 
 # Generate an instance of a generic netlist, and load the netlist tree from
@@ -40,11 +41,11 @@ except IOError:
 out = csv.writer(f, lineterminator='\n', delimiter=',', quotechar='\"', quoting=csv.QUOTE_ALL)
 
 # Output a set of rows for a header providing general information
-out.writerow(['Source:', net.getSource()])
-out.writerow(['Date:', net.getDate()])
-out.writerow(['Tool:', net.getTool()])
-out.writerow( ['Generator:', sys.argv[0]] )
-out.writerow(['Component Count:', len(net.components)])
+#out.writerow(['Source:', net.getSource()])
+#out.writerow(['Date:', net.getDate()])
+#out.writerow(['Tool:', net.getTool()])
+#out.writerow( ['Generator:', sys.argv[0]] )
+#out.writerow(['Component Count:', len(net.components)])
 out.writerow(['Ref', 'Qnty', 'Value', 'Footprint', 'Manufacturer', 'PartNumber', 'Supplier', 'Sku', 'Description', 'Datasheet'])
 
 # Get all of the components in groups of matching parts + values
@@ -58,9 +59,11 @@ for group in grouped:
     # Add the reference of every component in the group and keep a reference
     # to the component so that the other data can be filled in once per group
     for component in group:
-        refs += component.getRef() + ", "
+        refs += component.getRef() + ', '
         c = component
 
     # Fill in the component groups common data
-    out.writerow([refs, len(group), c.getValue(), c.getFootprint(),
+    strValue = c.getValue()
+    if strValue.find('DNP')<0:
+        out.writerow([refs, len(group), c.getValue(), c.getFootprint(),
         c.getField("Manufacturer"), c.getField("PartNumber"), c.getField("Supplier"), c.getField("Sku"), c.getDescription(), c.getDatasheet()])
