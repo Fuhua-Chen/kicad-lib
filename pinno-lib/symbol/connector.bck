@@ -169,6 +169,11 @@ D Pin Header 1x13
 K Header;1 row;13 pins
 $ENDCMP
 #
+$CMP Header_1x14
+D Pin Header 1x14
+K Header;1 row;14 pins
+$ENDCMP
+#
 $CMP Header_1x2
 D Pin Header 1x2
 K Header;1 row;2 pins
@@ -354,12 +359,6 @@ $CMP USB-A
 D A/F180度插板铁壳弯脚有卷边 黑胶13.1 不耐高温
 K USB Type A
 F https://atta.szlcsc.com/upload/public/pdf/source/20151109/1457707570402.pdf
-$ENDCMP
-#
-$CMP USB-A_1
-D A/M一件式 17MM 铁壳带脚 白胶 C款 不耐高温
-K USB Type A
-F https://atta.szlcsc.com/upload/public/pdf/source/20151109/1457707568363.pdf
 $ENDCMP
 #
 $CMP USB-A公

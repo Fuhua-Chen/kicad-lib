@@ -17,6 +17,12 @@ K 流量传感器
 F http://style.winsensor.com/pro_pdf/F1012.pdf
 $ENDCMP
 #
+$CMP ICM-20648
+D IMU-惯性测量单元 DMP-Enabled 6-Axis Integrated Solution for Wrist-Worn Wearable
+K IMU,DMP,9 axis,motion
+F https://www.mouser.cn/datasheet/2/400/DS-000179-ICM-20648-v1.1-TYP-1112733.pdf
+$ENDCMP
+#
 $CMP MSA300
 D MSA300 is a triaxial, low-g accelerometer with I2C/SPI digital output for
 K accelerometer,加速度计

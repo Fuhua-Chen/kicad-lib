@@ -60,6 +60,12 @@ K Infrared Receiver Control Receiver Module
 F https://atta.szlcsc.com/upload/public/pdf/source/20180911/C72046_5D8800E4DDE4A68306FFE93C149F10F7.pdf
 $ENDCMP
 #
+$CMP IRM-H638T_TR2
+D The device is a miniature SMD type infrared remote control system receiver that has been developed and designed by utilizing the most updated IC technology. The PIN diode and preamplifier are assembled on lead frame, the epoxy package is designed as an IR filter. The demodulated output signal can directly be decoded by a microprocessor.
+K Infrared Receiver Control Receiver Module
+F https://atta.szlcsc.com/upload/public/pdf/source/20161219/1482143954829.pdf
+$ENDCMP
+#
 $CMP LED
 D LED
 K LED
