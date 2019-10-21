@@ -101,4 +101,22 @@ X 2 2 300 0 100 L 40 40 1 1 B
 ENDDRAW
 ENDDEF
 #
+# Antenna_Handsoldering_DNP
+#
+DEF Antenna_Handsoldering_DNP ANT 0 40 Y N 1 F N
+F0 "ANT" -200 75 50 H V L BNN
+F1 "Antenna_Handsoldering_DNP" -200 150 50 H V L BNN
+F2 "Antenna_Handsoldering_SMD" 0 250 50 H I C CNN
+F3 "" 1550 250 60 H I C CNN
+DRAW
+C -150 0 25 0 1 0 F
+P 2 1 0 0 -200 -50 200 -50 N
+P 2 1 0 0 -200 50 -200 -50 N
+P 2 1 0 0 200 -50 200 50 N
+P 2 1 0 0 200 50 -200 50 N
+X 1 1 -300 0 100 R 40 40 1 1 B
+X 2 2 300 0 100 L 40 40 1 1 B
+ENDDRAW
+ENDDEF
+#
 #End Library

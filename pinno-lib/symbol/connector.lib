@@ -1882,6 +1882,28 @@ X ~ 9 -350 -350 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# XH-2.5
+#
+DEF XH-2.5 J 0 40 Y Y 1 F N
+F0 "J" -300 -150 60 H V C CNN
+F1 "XH-2.5" 350 -150 60 H V C CNN
+F2 "Connector_XH-2.5_4P_1x4_P2.5mm_Horizontal" -250 500 60 H I C CNN
+F3 "" 150 400 60 H I C CNN
+F4 "None" 0 -150 50 H I C CNN "Manufacturer"
+F5 "XH-2.5" -150 300 50 H I C CNN "PartNumber"
+F6 "https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail" 950 400 50 H I C CNN "Supplier"
+F7 "None" 150 300 50 H I C CNN "Sku"
+DRAW
+S -200 -100 200 100 0 1 0 N
+X ~ 1 -150 150 50 D 20 20 1 1 P
+X ~ 2 -50 150 50 D 20 20 1 1 P
+X ~ 3 50 150 50 D 20 20 1 1 P
+X ~ 4 150 150 50 D 20 20 1 1 P
+X ~ MP -250 -50 50 R 20 20 1 1 P
+X ~ MP 250 -50 50 L 20 20 1 1 P
+ENDDRAW
+ENDDEF
+#
 # XKTF-015-N
 #
 DEF XKTF-015-N J 0 40 Y Y 1 F N

@@ -385,6 +385,12 @@ K 接线端子,5.08mm
 F https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707515117.pdf
 $ENDCMP
 #
+$CMP XH-2.5
+D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,4pins,Side entry
+K 2.5mm,4p
+F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
+$ENDCMP
+#
 $CMP XKTF-015-N
 D MicroSD Jack
 K Micro SD;TF

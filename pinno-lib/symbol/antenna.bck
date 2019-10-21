@@ -24,4 +24,10 @@ K 手动焊接天线
 F None
 $ENDCMP
 #
+$CMP DNP
+D 手动焊接，同轴线焊接点
+K 手动焊接天线
+F None
+$ENDCMP
+#
 #End Doc Library

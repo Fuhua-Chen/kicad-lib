@@ -93,8 +93,8 @@ ENDDEF
 DEF HP203B U 0 8 Y Y 1 F N
 F0 "U" -200 -300 50 H V C CNN
 F1 "HP203B" 100 -300 50 H V C CNN
-F2 "Sensor_ HP203B_HOPERF_QFN-8_3.8 X3.6 X1.2mm" -50 -450 50 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20171027/C138665_15090986235441065044.pdf" -200 -550 50 H I C CNN
+F2 "footprint:Sensor_HP203B_HOPERF_QFN-8_3.8x3.6x1.2mm" -50 -450 50 H I C CNN
+F3 "" -200 -550 50 H I C CNN
 F4 "HOPERF" 0 -800 50 H I C CNN "Manufacturer"
 F5 "HP203B" 0 -900 50 H I C CNN "PartNumber"
 F6 "https://so.szlcsc.com/global.html?k=HP203B" 50 -700 50 H I C CNN "Supplier"
