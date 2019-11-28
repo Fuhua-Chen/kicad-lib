@@ -6,6 +6,12 @@ K OLED Screen,1.3 Inch, 128x64 pixels
 F https://atta.szlcsc.com/upload/public/pdf/source/20170608/1496894127844.pdf
 $ENDCMP
 #
+$CMP OLED_WhiteFont_1.3Inch_128x64Pixels_35.8x17.1mm
+D OLED Screen,white font,1.3 Inch, 128x64 pixels, SH1107
+K OLED Screen,1.3 Inch, 128x64 pixels
+F https://item.taobao.com/item.htm?id=599216709241&_u=s2070nj8jfc7f6
+$ENDCMP
+#
 $CMP SSD1963QL9
 D SSD1963 is a display controller of 1215K byte frame buffer to support up to 864 x 480 x 24bit graphics content.  It also equips parallel MCU interfaces in different bus width to receive graphics data and command from MCU.  Its display interface supports common RAM-less LCD driver of color depth up to 24 bit-perpixel.
 K LCD Driver，RGB
