@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP KAN0741-0601M1
+D Tact Switch,5 directions,五向按键
+K switch,tack,五向按键
+F https://atta.szlcsc.com/upload/public/pdf/source/20180622/C231736_C40E8A7F0DFD9513CCEA13BFEB749FF8.pdf
+$ENDCMP
+#
 $CMP MT9700
 F https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492481333031.pdf
 $ENDCMP
