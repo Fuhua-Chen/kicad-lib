@@ -18,6 +18,12 @@ K NBIot,Quectel,BC20,GNSS
 F https://www.quectel.com/cn/product/bc20.htm
 $ENDCMP
 #
+$CMP CORE52
+D NRF52832蓝牙模块，邮票孔，BLE模块
+K BLE,蓝牙,NRF
+F https://item.taobao.com/item.htm?id=601376388739&_u=t2bq4ml8f2f
+$ENDCMP
+#
 $CMP EC20-CE
 D Quectel LTE EC20;EC20 是移远通信最近推出的 LTE Cat.3 模块；采用 LTE 3GPP Rel.9 技术；支持最大下行速率 100Mbps 和最大上行速率 50Mbps。EC20 在封装上兼容移远通信 UMTS/HSPA+ UC20 模块，实现了 3G 与 4G 网络之间的无缝切换。EC20 系列模块包含 EC20-A、EC20-C、EC20-CE 和 EC20-E 四个版本，使其能够向后兼容现存的 EDGE 和 GSM/GPRS 网 络，以确保在缺乏 3G 和 4G 网络的偏远地区也能正常工作。  EC20 支持多输入多输出技术（MIMO），即在发射端和接收端分别使用多个发射天线和接收天线，使信号通过发射端 与接收端的多个天线传送和接收，从而降低误码率，改善通信质量。同时，它结合了高速无线连接与内置多星座高精 度定位 GPS+GLONASS 接收器。 EC20 内置丰富的网络协议，集成多个工业标准接口，并支持多种驱动和软件功能（如 Windows XP，Windows Vista， Windows 7/8/8.1/10，Linux，Android 等操作系统下的 USB 驱动，eCall*等），极大地拓展了其在 M2M 领域的应用范 围，如 CPE、路由器、数据卡、平板电脑、车载、安防以及工业级 PDA 等。
 K 移远;4G;IOT;LTE;CAT.3;Module;
@@ -40,6 +46,12 @@ $CMP ESP32-PICO-D4
 D Espressif;ESP32-PICO-D4;ESP32-PICO-D4 是一款基于 ESP32 的系统级封装 (SIP) 模组，可提供完整的 Wi-Fi 和蓝牙功能。该模组的外观 尺寸仅为 (7.0±0.1) mm × (7.0±0.1) mm × (0.94±0.1) mm，整体占用的 PCB 面积最小，已集成 1 个 4 MB 串行 外围设备接口 (SPI) flash。ESP32-PICO-D4 的核心是 ESP32 芯片 *。ESP32 是集成 2.4 GHz Wi-Fi 和蓝牙双模的单芯片方案，采用台积电 (TSMC) 超低功耗的 40 纳米工艺。ESP32-PICO-D4 模组已将晶振、flash、滤波电容、RF 匹配链路等所有外围 器件无缝集成进封装内，不再需要外围元器件即可工作。此时，由于无需外围器件，模组焊接和测试过程也可 以避免，因此 ESP32-PICO-D4 可以大大降低供应链的复杂程度并提升管控效率。ESP32-PICO-D4 具备体积紧凑、性能强劲及功耗低等特点，适用于任何空间有限或电池供电的设备，比如可穿 戴设备、医疗设备、传感器及其他 IoT 设备。
 K 乐鑫;ESP32;WIFI;Bluetooth;BLE;SIP;Module;
 F https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_cn.pdf
+$ENDCMP
+#
+$CMP H7PI_Exp
+D H7PI_Exp,扩展板
+K 扩展板,H7PI
+F https://item.taobao.com/item.htm?ft=t&id=606908438435
 $ENDCMP
 #
 $CMP MDBT50Q-1M

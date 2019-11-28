@@ -48,6 +48,12 @@ K 乐鑫;ESP32;WIFI;Bluetooth;BLE;SIP;Module;
 F https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_cn.pdf
 $ENDCMP
 #
+$CMP H7PI_Exp
+D H7PI_Exp,扩展板
+K 扩展板,H7PI
+F https://item.taobao.com/item.htm?ft=t&id=606908438435
+$ENDCMP
+#
 $CMP MDBT50Q-1M
 D Raytac;MDBT50Q;MDBT50Q-P;Raytac’s MDBT50Q & MDBT50Q-P is a BT 5.0 stack (Bluetooth low energy or BLE) module designed based on Nordic nRF52840 SoC solution, which incorporates: GPIO, SPI, UART, I2C, I2S, PMD, PWM, ADC, NFC and USB interfaces for connecting peripherals and sensors.
 K Raytac;MDBT50Q;MDBT50Q-P;NRF52840;NORDIC;NFC;BLUETOOTH
