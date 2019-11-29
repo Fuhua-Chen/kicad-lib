@@ -11,6 +11,12 @@ D BH1730FVC is a digital Ambient Light Sensor IC with I 2C bus interface. This I
 K Digital 16bit Serial Output Type
 $ENDCMP
 #
+$CMP BH1750FVI-TR
+D BH1750FVI is an digital Ambient Light Sensor IC for I2C bus interface. This IC is the most suitable to obtain the ambient light data for adjusting LCD and Keypad backlight power of Mobile phone. It is possible to detect wide range at High resolution. ( 1 - 65535 lx ). 
+K Digital 16bit Serial Output Type
+F https://atta.szlcsc.com/upload/public/pdf/source/20160723/1469258984787.pdf
+$ENDCMP
+#
 $CMP F1012
 D F1012微流量传感器是利用热力学原理对流道中的气体介质进行流量检测，具有很好的精度与重复性。内置有温度传感器，每只都进行专有的温度补偿校准；同时具有线性模拟电压输出，方便使用。
 K 流量传感器
