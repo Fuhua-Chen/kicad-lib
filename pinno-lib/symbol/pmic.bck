@@ -36,6 +36,36 @@ K 单节锂电池电量指示芯片
 F C:/kicad-lib/datasheet/HX70A.pdf
 $ENDCMP
 #
+$CMP IP5206
+D IP5206 是一款集成升压转换器、锂电池充电管理、电池电量指示的多功能电源管理 SOC，为移动电源提供完整的电源解决方案。IP5206 的高集成度与丰富功能，使其在应用时仅需极少的外围器件，并有效减小整体方案的尺寸，降低 BOM 成本。IP5206 只需一个电感实现降压与升压功能。DC-DC 转换器工作在 650KHz，可以支持低成本电感和电容。IP5206 的同步升压系统提供最大 2A 输出电流，转换效率高至 95%。空载时，自动进入休眠状态，静态电流降至 50uA。IP5206 采用开关充电技术，提供最大 1.5A 电流，充电效率高至 96%。内置 IC 温度和输入电压智能调节充电电流。IP5206 内置 14bit ADC，精确测量电池电压和电流. 支持 3/4/5 颗 LED 电量显示和照明功能。IP5206 采用 ESOP16L 封装。
+K 1.5A 充电 2 A(max)放电高集成度移动电源 SOC
+F https://atta.szlcsc.com/upload/public/pdf/source/20181019/C181697_2BADA2B65DCBEFB6B403323C637C9370.pdf
+$ENDCMP
+#
+$CMP IP5206_copy
+D IP5206 是一款集成升压转换器、锂电池充电管理、电池电量指示的多功能电源管理 SOC，为移动电源提供完整的电源解决方案。IP5206 的高集成度与丰富功能，使其在应用时仅需极少的外围器件，并有效减小整体方案的尺寸，降低 BOM 成本。IP5206 只需一个电感实现降压与升压功能。DC-DC 转换器工作在 650KHz，可以支持低成本电感和电容。IP5206 的同步升压系统提供最大 2A 输出电流，转换效率高至 95%。空载时，自动进入休眠状态，静态电流降至 50uA。IP5206 采用开关充电技术，提供最大 1.5A 电流，充电效率高至 96%。内置 IC 温度和输入电压智能调节充电电流。IP5206 内置 14bit ADC，精确测量电池电压和电流. 支持 3/4/5 颗 LED 电量显示和照明功能。IP5206 采用 ESOP16L 封装。
+K 1.5A 充电 2 A(max)放电高集成度移动电源 SOC
+F https://atta.szlcsc.com/upload/public/pdf/source/20181019/C181697_2BADA2B65DCBEFB6B403323C637C9370.pdf
+$ENDCMP
+#
+$CMP IP5306
+D IP5306 是一款集成升压转换器、锂电池充电管 理、电池电量指示的多功能电源管理 SOC，为移动 电源提供完整的电源解决方案。 IP5306 的高集成度与丰富功能，使其在应用时 仅需极少的外围器件，并有效减小整体方案的尺寸， 降低 BOM 成本。 IP5306 只需一个电感实现降压与升压功能。可 以支持低成本电感和电容。 IP5306 的同步升压系统提供最大 2.4A 输出电 流，转换效率高至 92%。空载时，自动进入休眠状 态，静态电流降至 100uA。 IP5306 采用开关充电技术，提供最大 2.1A 电 流，充电效率高至 91%。内置 IC 温度和输入电压 智能调节充电电流。 IP5306 支持 1、2、3、4 颗 LED 电量显示。 IP5306 采用 ESOP8 封装。
+K 2.1A 充电 2.4 A 放电高集成度移动电源 SOC
+F https://atta.szlcsc.com/upload/public/pdf/source/20181019/C181697_2BADA2B65DCBEFB6B403323C637C9370.pdf
+$ENDCMP
+#
+$CMP IP5506_BZ_188
+D IP5206 是一款集成升压转换器、锂电池充电管理、电池电量指示的多功能电源管理 SOC，为移动电源提供完整的电源解决方案。IP5206 的高集成度与丰富功能，使其在应用时仅需极少的外围器件，并有效减小整体方案的尺寸，降低 BOM 成本。IP5206 只需一个电感实现降压与升压功能。DC-DC 转换器工作在 650KHz，可以支持低成本电感和电容。IP5206 的同步升压系统提供最大 2A 输出电流，转换效率高至 95%。空载时，自动进入休眠状态，静态电流降至 50uA。IP5206 采用开关充电技术，提供最大 1.5A 电流，充电效率高至 96%。内置 IC 温度和输入电压智能调节充电电流。IP5206 内置 14bit ADC，精确测量电池电压和电流. 支持 3/4/5 颗 LED 电量显示和照明功能。IP5206 采用 ESOP16L 封装。
+K 1.5A 充电 2 A(max)放电高集成度移动电源 SOC
+F https://atta.szlcsc.com/upload/public/pdf/source/20190628/C282578_FD9B9DDCAAF6CED948FA24894DAB9393.pdf
+$ENDCMP
+#
+$CMP IP6503S-3.1A
+D IP5306 是一款集成升压转换器、锂电池充电管 理、电池电量指示的多功能电源管理 SOC，为移动 电源提供完整的电源解决方案。 IP5306 的高集成度与丰富功能，使其在应用时 仅需极少的外围器件，并有效减小整体方案的尺寸， 降低 BOM 成本。 IP5306 只需一个电感实现降压与升压功能。可 以支持低成本电感和电容。 IP5306 的同步升压系统提供最大 2.4A 输出电 流，转换效率高至 92%。空载时，自动进入休眠状 态，静态电流降至 100uA。 IP5306 采用开关充电技术，提供最大 2.1A 电 流，充电效率高至 91%。内置 IC 温度和输入电压 智能调节充电电流。 IP5306 支持 1、2、3、4 颗 LED 电量显示。 IP5306 采用 ESOP8 封装。
+K 2.1A 充电 2.4 A 放电高集成度移动电源 SOC
+F https://atta.szlcsc.com/upload/public/pdf/source/20190927/C432571_992CF7565B8B71F89F86ABD992950142.pdf
+$ENDCMP
+#
 $CMP LM2576
 D TI;LM2576/LM2576HV Series SIMPLE SWITCHER® 3A Step-Down Voltage Regulator
 K TI;LM2576/LM2576HV;7V to 40V;3 A;32 kHz.
@@ -135,7 +165,7 @@ $ENDCMP
 $CMP SP6205
 D SIPEX;SP6205/SP6203;Low Noise, 300mA and 500mA CMOS LDO Regulators
 K LDO;Low-Dropout Linear Regulator;300mA,500mA;ultra-quiet operation.
-F http://www.szlcsc.com/member/downloadFile-44641A41D07D01EC-new_pdf_doc-pdf_see.html
+F https://atta.szlcsc.com/upload/public/pdf/source/20190715/C13480_801BC7B7DCCFFE480A75433B3F249019.pdf
 $ENDCMP
 #
 $CMP SY8088

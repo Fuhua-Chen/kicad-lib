@@ -75,6 +75,12 @@ K Ceramic Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707280994.pdf
 $ENDCMP
 #
+$CMP YSPI0420-1R0M
+D YJYCOIN(益嘉源) Inductor,精度：±20% 额定电流：8A 直流电阻（内阻）：11.2mΩ 电感:1uH
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181218/C351087_A5D14E9C3BE9C1309F241EC6997F4E78.pdf
+$ENDCMP
+#
 $CMP YSPI0530-3R3M
 D YJYCOIN(益嘉源) Inductor, High Current, Power Inductor,3.3uH,±20%,0.042DCR,4A,5.2x4.7x3mm
 K Inductor

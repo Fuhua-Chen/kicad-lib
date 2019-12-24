@@ -12,7 +12,7 @@ K Digital 16bit Serial Output Type
 $ENDCMP
 #
 $CMP BH1750FVI-TR
-D BH1750FVI is an digital Ambient Light Sensor IC for I2C bus interface. This IC is the most suitable to obtain the ambient light data for adjusting LCD and Keypad backlight power of Mobile phone. It is possible to detect wide range at High resolution. ( 1 - 65535 lx ). 
+D BH1750FVI is an digital Ambient Light Sensor IC for I2C bus interface. This IC is the most suitable to obtain the ambient light data for adjusting LCD and Keypad backlight power of Mobile phone. It is possible to detect wide range at High resolution. ( 1 - 65535 lx ).
 K Digital 16bit Serial Output Type
 F https://atta.szlcsc.com/upload/public/pdf/source/20160723/1469258984787.pdf
 $ENDCMP

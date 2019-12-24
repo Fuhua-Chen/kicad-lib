@@ -373,6 +373,12 @@ K USB Type B
 F https://atta.szlcsc.com/upload/public/pdf/source/20151208/1457707613905.pdf
 $ENDCMP
 #
+$CMP USBA_F90°内扣
+D USB连接器/ USB A/F 90° 普通内扣 铁壳弯脚 不耐高温
+K USB Type A
+F https://atta.szlcsc.com/upload/public/pdf/source/20190514/C2345_2E66130D8C4FA9ACA2ADF96F461652A5.pdf
+$ENDCMP
+#
 $CMP VH-2A
 D VH-2A,3.96mm,2pins,立插
 K VH,3.96mm,2p,立插

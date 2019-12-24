@@ -42,7 +42,7 @@ $ENDCMP
 #
 $CMP TS-1186D-C-A
 D 轻触开关,Side Actuated,1.65mm,50mA @ 12VDC,Rectangular Button,不带灯,260gf,4.70mm x 3.50mm,SPST
-K Button,4P,260gf,侧按轻触开关TS-1186D-C-A 中乌龟开关
+K Button,4P,260gf
 F https://atta.szlcsc.com/upload/public/pdf/source/20190612/C397351_7243CDA68AB2CD72B02BCC063477B3D6.pdf
 $ENDCMP
 #

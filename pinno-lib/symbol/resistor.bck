@@ -186,6 +186,12 @@ K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25890_1505895100658980896.pdf
 $ENDCMP
 #
+$CMP 0805W8F500LT5E
+D UniOhm Chip Resistor,0.5Ω,1%,0805
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C28319_1505895239483981196.pdf
+$ENDCMP
+#
 $CMP 1206W4F1200T5E
 D UniOhm Chip Resistor,120Ω,1%,1206
 K Resistor
