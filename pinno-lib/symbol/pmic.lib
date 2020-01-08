@@ -299,7 +299,7 @@ DEF LM2576S-ADJ_TR U 0 40 Y Y 1 F N
 F0 "U" -200 375 60 H V C CNN
 F1 "LM2576S-ADJ_TR" -75 300 60 H V C CNN
 F2 "TO-263-5_TabPin3" 0 600 60 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20180627/C194474_19FB16BEFD9D57E85171135392C08A87.pdf" 1000 500 60 H I C CNN
+F3 "" 1000 500 60 H I C CNN
 F4 "HGSEMI(华冠)" 200 400 50 H I C CNN "Manufacturer"
 F5 "LM2576S-ADJ/TR" 0 750 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/236278.html" 100 675 50 H I C CNN "Supplier"

@@ -43,9 +43,15 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225113_9679200C5360
 $ENDCMP
 #
 $CMP A2001WR-S-2P
-D CJT,PH,2.0mm,2pins,Side entry
+D CJT,PH,2.0mm,2pins,卧贴
 K CJT,PH,2.0,2p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225233_C656E3DBD5D93AB75B97D984929AF7CC.pdf
+$ENDCMP
+#
+$CMP A2001WR-S-4P
+D CJT,PH,2.0mm,4pins,卧贴
+K CJT,PH,2.0,4p
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf
 $ENDCMP
 #
 $CMP A2001WV-10P
@@ -70,6 +76,12 @@ $CMP A2001WV-4P
 D CJT,PH,2.0mm,4pins,立插
 K PH,2.0,4p,立插
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225190_98701D02E29CB512B7E549B6CD24114D.pdf
+$ENDCMP
+#
+$CMP A2008WV-S-4P
+D CJT,PH,2.0mm,4pins,竖贴
+K CJT,PH,2.0,4p
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C273125_F086204BBE8A3691441292B10DB35699.pdf
 $ENDCMP
 #
 $CMP A3961WV-2P
@@ -395,6 +407,12 @@ $CMP XH-2.5
 D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,4pins,Side entry
 K 2.5mm,4p
 F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
+$ENDCMP
+#
+$CMP XKSIM-304
+D XKB(星坤);Nano Connector;XKSIM-304;12.3x10.05x1.35mm
+K Nano SIM Connector;XKSIM-304
+F https://atta.szlcsc.com/upload/public/pdf/source/20190506/C388792_DFFCECDA8AF54F06DB841A5C55BEF220.pdf
 $ENDCMP
 #
 $CMP XKTF-015-N

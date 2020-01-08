@@ -24,6 +24,12 @@ K BLE,蓝牙,NRF
 F https://item.taobao.com/item.htm?id=601376388739&_u=t2bq4ml8f2f
 $ENDCMP
 #
+$CMP Core_Module
+D HTCTEK Core Module,扩展板
+K 扩展板,Core
+F None
+$ENDCMP
+#
 $CMP EC20-CE
 D Quectel LTE EC20;EC20 是移远通信最近推出的 LTE Cat.3 模块；采用 LTE 3GPP Rel.9 技术；支持最大下行速率 100Mbps 和最大上行速率 50Mbps。EC20 在封装上兼容移远通信 UMTS/HSPA+ UC20 模块，实现了 3G 与 4G 网络之间的无缝切换。EC20 系列模块包含 EC20-A、EC20-C、EC20-CE 和 EC20-E 四个版本，使其能够向后兼容现存的 EDGE 和 GSM/GPRS 网 络，以确保在缺乏 3G 和 4G 网络的偏远地区也能正常工作。  EC20 支持多输入多输出技术（MIMO），即在发射端和接收端分别使用多个发射天线和接收天线，使信号通过发射端 与接收端的多个天线传送和接收，从而降低误码率，改善通信质量。同时，它结合了高速无线连接与内置多星座高精 度定位 GPS+GLONASS 接收器。 EC20 内置丰富的网络协议，集成多个工业标准接口，并支持多种驱动和软件功能（如 Windows XP，Windows Vista， Windows 7/8/8.1/10，Linux，Android 等操作系统下的 USB 驱动，eCall*等），极大地拓展了其在 M2M 领域的应用范 围，如 CPE、路由器、数据卡、平板电脑、车载、安防以及工业级 PDA 等。
 K 移远;4G;IOT;LTE;CAT.3;Module;
