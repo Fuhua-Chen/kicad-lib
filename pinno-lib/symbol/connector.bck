@@ -24,6 +24,18 @@ K JST,SR,1.0,10p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180724/C239528_E75F761DA428CB7C6E1C3A537EFBF572.pdf
 $ENDCMP
 #
+$CMP A1002WR-S-3P
+D CJT,JST,SR,SH,1.0mm,3pins,Side entry
+K CJT,JST,SR,1.0,3p
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C239521_19DE1B428A7F1E3979375D9C369EC94B.pdf
+$ENDCMP
+#
+$CMP A1002WR-S-4P
+D CJT,JST,SR,SH,1.0mm,4pins,Side entry
+K CJT,JST,SR,1.0,4p
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C239522_DFBB42DA64CF154E5F71B84596D7891C.pdf
+$ENDCMP
+#
 $CMP A1002WR-S-6P
 D CJT,SR,SH,1.0mm,6pins,Side entry,替代SM06B-SRSS-TB
 K CJT,SR,1.0,6p
@@ -79,7 +91,7 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225190_98701D02E29C
 $ENDCMP
 #
 $CMP A2008WV-S-4P
-D CJT,PH,2.0mm,4pins,卧贴
+D CJT,PH,2.0mm,4pins,竖贴
 K CJT,PH,2.0,4p
 F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C273125_F086204BBE8A3691441292B10DB35699.pdf
 $ENDCMP
@@ -224,6 +236,11 @@ $ENDCMP
 $CMP Header_2x10
 D Pin Header 2x10
 K Header;2 row;10 pins
+$ENDCMP
+#
+$CMP Header_2x11
+D Pin Header 2x11
+K Header;2 row;11 pins
 $ENDCMP
 #
 $CMP Header_2x12

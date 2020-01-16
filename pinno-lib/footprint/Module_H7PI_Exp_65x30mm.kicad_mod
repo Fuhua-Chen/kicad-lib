@@ -1,4 +1,4 @@
-(module Module_H7PI_Exp_65x30mm (layer F.Cu) (tedit 5E15CE42)
+(module Module_H7PI_Exp_65x30mm (layer F.Cu) (tedit 5E1FD29C)
   (attr virtual)
   (fp_text reference REF** (at -0.07 -3.81) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
@@ -193,6 +193,6 @@
   (pad "" np_thru_hole circle (at 11.5 -29) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 11.5 29) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -11.5 29) (size 2.75 2.75) (drill 2.75) (layers *.Cu *.Mask))
-  (pad USBP thru_hole circle (at -10.23 1.27) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (pad USBN thru_hole circle (at -12.77 1.27) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 22 thru_hole circle (at -10.23 1.27) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
+  (pad 21 thru_hole circle (at -12.77 1.27) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
 )

@@ -102,6 +102,18 @@ K MicroOne;ME6209;LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20161212/1481539101152.pdf
 $ENDCMP
 #
+$CMP ME6211C28R5G
+D The ME6211 series are highly accurate, low noise, CMOS LDO Voltage Regulators. Offering low output noise, high ripple rejection ratio, low dropout and very fast turn-on times, the ME6211 series is ideal for today’s cutting edge mobile phone. Internally the ME6211 includes a reference voltage source, error amplifiers, driver transistors, current limiters and phase compensators. The ME6211’s current limiters' foldback circuit also operates as a short protect for the output current limiter and. the output pin. The ME6211 series is also fully compatible with low ESR ceramic capacitors, reducing cost and improving output stability. This high level of output stability is maintained even during frequent load fluctuations, due to the excellent transient response performance and high PSRR achieved across a broad range of frequencies.The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption.
+K MicroOne,ME6211,LDO,2.8V
+F https://atta.szlcsc.com/upload/public/pdf/source/20190910/C427595_023F46DA1F09D7D05E7E2E01B7B7206C.pdf
+$ENDCMP
+#
+$CMP ME6211C33R5G
+D The ME6211 series are highly accurate, low noise, CMOS LDO Voltage Regulators. Offering low output noise, high ripple rejection ratio, low dropout and very fast turn-on times, the ME6211 series is ideal for today’s cutting edge mobile phone. Internally the ME6211 includes a reference voltage source, error amplifiers, driver transistors, current limiters and phase compensators. The ME6211’s current limiters' foldback circuit also operates as a short protect for the output current limiter and. the output pin. The ME6211 series is also fully compatible with low ESR ceramic capacitors, reducing cost and improving output stability. This high level of output stability is maintained even during frequent load fluctuations, due to the excellent transient response performance and high PSRR achieved across a broad range of frequencies.The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption.
+K MicroOne,ME6211,LDO,3.3V
+F https://atta.szlcsc.com/upload/public/pdf/source/20180719/C235316_A35490DF9B0686070E5536ED6E1BEA47.pdf
+$ENDCMP
+#
 $CMP ME6215C33M5G
 D ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input.
 K MicroOne,ME6215,LDO,3.3V
