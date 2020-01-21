@@ -152,7 +152,7 @@ $ENDCMP
 $CMP CAD-209B220
 D MicroSD Jack
 K Micro SD;TF
-F None
+F https://gitee.com/Pinno/kicad-lib/blob/master/datasheet/CAD-209B220.pdf
 $ENDCMP
 #
 $CMP CR2032-BS-6-1
@@ -286,6 +286,18 @@ $CMP MQ_Sensor_Connector_7P
 D MQ Sensor Connector for MQ-2 MQ-3 MQ-4 MQ-5 MQ-7 MQ-9 MQ135 MQ136 MQ137 MQ138 and so on.
 K MQ,7 pins
 F https://www.china.cn/chuanganqi/3688053017.html
+$ENDCMP
+#
+$CMP MicroUSB-5P-0.8mm
+D Micro USB Connector, 四直插固定引脚,沉板
+K USB;5P;沉板
+F https://atta.szlcsc.com/upload/public/pdf/source/20160520/1463712347376.pdf
+$ENDCMP
+#
+$CMP MicroUSB-5P-0.8mm-Sink
+D Micro USB Connector, 四直插固定引脚,沉板
+K USB;5P;沉板
+F https://atta.szlcsc.com/upload/public/pdf/source/20160520/1463712347376.pdf
 $ENDCMP
 #
 $CMP OK-03M010-04
@@ -439,12 +451,6 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20190506/C388792_DFFCECDA8AF5
 $ENDCMP
 #
 $CMP XKTF-015-N
-D MicroSD Jack
-K Micro SD;TF
-F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf
-$ENDCMP
-#
-$CMP XKTF-015-N_copy
 D MicroSD Jack
 K Micro SD;TF
 F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf

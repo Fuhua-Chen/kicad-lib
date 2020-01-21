@@ -288,6 +288,12 @@ K MQ,7 pins
 F https://www.china.cn/chuanganqi/3688053017.html
 $ENDCMP
 #
+$CMP MicroUSB-5P-0.8mm-Sink
+D Micro USB Connector, 四直插固定引脚,沉板
+K USB;5P;沉板
+F https://atta.szlcsc.com/upload/public/pdf/source/20160520/1463712347376.pdf
+$ENDCMP
+#
 $CMP OK-03M010-04
 D OCN,BTB,2x5,Pitch 0.4mm
 K OCN Conector
@@ -439,12 +445,6 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20190506/C388792_DFFCECDA8AF5
 $ENDCMP
 #
 $CMP XKTF-015-N
-D MicroSD Jack
-K Micro SD;TF
-F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf
-$ENDCMP
-#
-$CMP XKTF-015-N_copy
 D MicroSD Jack
 K Micro SD;TF
 F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf
