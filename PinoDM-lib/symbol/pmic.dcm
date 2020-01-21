@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4056
+D 4056是一款用于单节锂离子电池充电的恒定电流/恒定电压线性充电器。底部带有散热片的ESOP8封装与较少的外部元件数目使其成为便携式应用的理想选择。4056可以适合USB电源和适配器电源工作。由于采用了内部PMOSFET架构，加上防倒充电路，所以不需要外部隔离二极管。热反馈可对充电电流进行自动调节，以便在大功率操作或高环境温度条件下对芯片温度加以限制。充电电压固定于4.2V，而充电电流可通过一个电阻进行外部设置。当充电电流在达到最终浮充电压之后降至设定值1/10时，4056将自动终止充循环。当输入电压被拿掉时，4056自动进入一个低电流状态。4056在有电源时也可置于停机模式，从而将供电电流降至55uA。4056的其他特点包括电池温度检测、欠压闭锁、自动再充电和两个用于指示充电、结束的LED状态引脚。
+K 4056,线性充电,1A
+F https://atta.szlcsc.com/upload/public/pdf/source/20190520/C392766_ECAE8391916172120684EBCC74E84E6A.pdf
+$ENDCMP
+#
 $CMP APW7090KAI-TRG
 D The APW7090 is a 5A, asynchronous, step-down converter with integrated 50mΩ P-channel MOSFET. The device, with current-mode control scheme, can convert 8~32V input voltage to the output voltage adjustable from 0.8V to 90% VIN to provide excellent output voltage regulation. The APW7090 regulates the output voltage in automatic PSM/PWM mode operation, depending on the output current, for high efficiency operation over light to full load current. The APW7090 is also equipped with power-onreset, soft-start, and whole protections (under-voltage, over- temperature, and current-limit) into a single package. In shutdown mode, the supply current drops below 5µA. This device, available in a 8-pin SOP-8P package, provides a very compact system solution with minimal external components
 K 32V5A，DCDC降压，380KHZ，耐压40V，有过压，过流，过热保护

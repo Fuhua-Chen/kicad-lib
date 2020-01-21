@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4056
+D 4056是一款用于单节锂离子电池充电的恒定电流/恒定电压线性充电器。底部带有散热片的ESOP8封装与较少的外部元件数目使其成为便携式应用的理想选择。4056可以适合USB电源和适配器电源工作。由于采用了内部PMOSFET架构，加上防倒充电路，所以不需要外部隔离二极管。热反馈可对充电电流进行自动调节，以便在大功率操作或高环境温度条件下对芯片温度加以限制。充电电压固定于4.2V，而充电电流可通过一个电阻进行外部设置。当充电电流在达到最终浮充电压之后降至设定值1/10时，4056将自动终止充循环。当输入电压被拿掉时，4056自动进入一个低电流状态。4056在有电源时也可置于停机模式，从而将供电电流降至55uA。4056的其他特点包括电池温度检测、欠压闭锁、自动再充电和两个用于指示充电、结束的LED状态引脚。
+K 4056,线性充电,1A
+F https://atta.szlcsc.com/upload/public/pdf/source/20190520/C392766_ECAE8391916172120684EBCC74E84E6A.pdf
+$ENDCMP
+#
 $CMP APW7090KAI-TRG
 D The APW7090 is a 5A, asynchronous, step-down converter with integrated 50mΩ P-channel MOSFET. The device, with current-mode control scheme, can convert 8~32V input voltage to the output voltage adjustable from 0.8V to 90% VIN to provide excellent output voltage regulation. The APW7090 regulates the output voltage in automatic PSM/PWM mode operation, depending on the output current, for high efficiency operation over light to full load current. The APW7090 is also equipped with power-onreset, soft-start, and whole protections (under-voltage, over- temperature, and current-limit) into a single package. In shutdown mode, the supply current drops below 5µA. This device, available in a 8-pin SOP-8P package, provides a very compact system solution with minimal external components
 K 32V5A，DCDC降压，380KHZ，耐压40V，有过压，过流，过热保护
@@ -104,7 +110,7 @@ $ENDCMP
 #
 $CMP ME6211C28R5G
 D The ME6211 series are highly accurate, low noise, CMOS LDO Voltage Regulators. Offering low output noise, high ripple rejection ratio, low dropout and very fast turn-on times, the ME6211 series is ideal for today’s cutting edge mobile phone. Internally the ME6211 includes a reference voltage source, error amplifiers, driver transistors, current limiters and phase compensators. The ME6211’s current limiters' foldback circuit also operates as a short protect for the output current limiter and. the output pin. The ME6211 series is also fully compatible with low ESR ceramic capacitors, reducing cost and improving output stability. This high level of output stability is maintained even during frequent load fluctuations, due to the excellent transient response performance and high PSRR achieved across a broad range of frequencies.The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption.
-K MicroOne,ME6211,LDO,3.3V
+K MicroOne,ME6211,LDO,2.8V
 F https://atta.szlcsc.com/upload/public/pdf/source/20190910/C427595_023F46DA1F09D7D05E7E2E01B7B7206C.pdf
 $ENDCMP
 #
@@ -162,6 +168,12 @@ K High Efficiency White LED Driver
 F https://atta.szlcsc.com/upload/public/pdf/source/20180612/C93793_52B5879773DE2F9670CBD8DCC8495868.pdf
 $ENDCMP
 #
+$CMP RONGHE(融和)
+D 4056是一款用于单节锂离子电池充电的恒定电流/恒定电压线性充电器。底部带有散热片的ESOP8封装与较少的外部元件数目使其成为便携式应用的理想选择。4056可以适合USB电源和适配器电源工作。由于采用了内部PMOSFET架构，加上防倒充电路，所以不需要外部隔离二极管。热反馈可对充电电流进行自动调节，以便在大功率操作或高环境温度条件下对芯片温度加以限制。充电电压固定于4.2V，而充电电流可通过一个电阻进行外部设置。当充电电流在达到最终浮充电压之后降至设定值1/10时，4056将自动终止充循环。当输入电压被拿掉时，4056自动进入一个低电流状态。4056在有电源时也可置于停机模式，从而将供电电流降至55uA。4056的其他特点包括电池温度检测、欠压闭锁、自动再充电和两个用于指示充电、结束的LED状态引脚。
+K 4056,线性充电,1A
+F https://atta.szlcsc.com/upload/public/pdf/source/20190520/C392766_ECAE8391916172120684EBCC74E84E6A.pdf
+$ENDCMP
+#
 $CMP SD45230
 D 士兰微电子;SD45230;40V,2.1A/2.4A,120KHz降压型DC-DC
 K DC-DC,Buck
@@ -193,6 +205,12 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180424/C191323_1370BE5C4DD7
 $ENDCMP
 #
 $CMP TP4056X
+D TP4056X 是一款完整的单节锂离子电池采用恒定电流/恒定电压线性充电器，带电 池正负极反接保护、输入电源正负极反接保护。其底部带有散热片的 ESOP8/EMSOP8 封装与较少的外部元件数目使得 TP4056X 成为便携式应用的理想选择。TP4056X 可以 适合 USB 电源和适配器电源工作。 由于采用了内部 PMOSFET 架构，加上防倒充电路，所以不需要外部隔离二极管。 热反馈可对充电电流进行自动调节，以便在大功率操作或高环境温度条件下对芯片温度 加以限制。充电电压固定于 4.2V，而充电电流可通过一个电阻器进行外部设置。当充电 电流在达到最终浮充电压之后降至设定值 1/10 时，TP4056X 将自动终止充电循环。 当输入电压（交流适配器或 USB 电源）被拿掉时，TP4056X 自动进入一个低电流 状态，将电池漏电流降至 1uA 以下。TP4056X 在有电源时也可置于停机模式，以而将 供电电流降至 70uA。TP4056X 的其他特点包括电源自适应、电池温度检测、欠压闭锁、 自动再充电和两个用于指示充电、结束的 LED 状态引脚。
+K TP4056,线性充电,1A
+F https://atta.szlcsc.com/upload/public/pdf/source/20160713/1468379850451.pdf
+$ENDCMP
+#
+$CMP TP4056X_copy
 D TP4056X 是一款完整的单节锂离子电池采用恒定电流/恒定电压线性充电器，带电 池正负极反接保护、输入电源正负极反接保护。其底部带有散热片的 ESOP8/EMSOP8 封装与较少的外部元件数目使得 TP4056X 成为便携式应用的理想选择。TP4056X 可以 适合 USB 电源和适配器电源工作。 由于采用了内部 PMOSFET 架构，加上防倒充电路，所以不需要外部隔离二极管。 热反馈可对充电电流进行自动调节，以便在大功率操作或高环境温度条件下对芯片温度 加以限制。充电电压固定于 4.2V，而充电电流可通过一个电阻器进行外部设置。当充电 电流在达到最终浮充电压之后降至设定值 1/10 时，TP4056X 将自动终止充电循环。 当输入电压（交流适配器或 USB 电源）被拿掉时，TP4056X 自动进入一个低电流 状态，将电池漏电流降至 1uA 以下。TP4056X 在有电源时也可置于停机模式，以而将 供电电流降至 70uA。TP4056X 的其他特点包括电源自适应、电池温度检测、欠压闭锁、 自动再充电和两个用于指示充电、结束的 LED 状态引脚。
 K TP4056,线性充电,1A
 F https://atta.szlcsc.com/upload/public/pdf/source/20160713/1468379850451.pdf

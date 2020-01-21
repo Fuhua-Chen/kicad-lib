@@ -149,6 +149,12 @@ K NV,5.0mm,2p,立插
 F https://atta.szlcsc.com/upload/public/pdf/source/20180420/C160287_B9C96403F23414A5922E8D5EAAC3D302.pdf
 $ENDCMP
 #
+$CMP CAD-209B220
+D MicroSD Jack
+K Micro SD;TF
+F None
+$ENDCMP
+#
 $CMP CR2032-BS-6-1
 D 电池盒,电池座,钮扣电池座 CR2032 托盘
 K CR2032
@@ -433,6 +439,12 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20190506/C388792_DFFCECDA8AF5
 $ENDCMP
 #
 $CMP XKTF-015-N
+D MicroSD Jack
+K Micro SD;TF
+F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf
+$ENDCMP
+#
+$CMP XKTF-015-N_copy
 D MicroSD Jack
 K Micro SD;TF
 F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381082_924E8811B1E2EE661CF9E2AB8D88149B.pdf
