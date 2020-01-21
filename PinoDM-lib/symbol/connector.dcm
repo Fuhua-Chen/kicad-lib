@@ -152,7 +152,7 @@ $ENDCMP
 $CMP CAD-209B220
 D MicroSD Jack
 K Micro SD;TF
-F None
+F https://gitee.com/Pinno/kicad-lib/blob/master/datasheet/CAD-209B220.pdf
 $ENDCMP
 #
 $CMP CR2032-BS-6-1
