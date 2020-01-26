@@ -11,7 +11,7 @@
     Generate a Tab delimited list (csv file type).
     Components are sorted by ref and grouped by value with same footprint
     Fields are (if exist)
-    'Ref', 'Qnty', 'Value', 'Cmp name', 'Footprint', 'Manufacturer', 'PartNumber', 'Supplier', 'Sku', 'Description', 'Datasheet'
+    'Reference', 'Quantity', 'Value', 'Cmp name', 'Footprint', 'Manufacturer', 'PartNumber', 'Supplier', 'Sku','Price', 'Description', 'Datasheet'
 
     Command line:
     python "pathToFile/pinno_script_bom_csv_grouped_by_value_with_footprint.py" "%I" "%O.csv"
@@ -46,7 +46,7 @@ out = csv.writer(f, lineterminator='\n', delimiter=',', quotechar='\"', quoting=
 #out.writerow(['Tool:', net.getTool()])
 #out.writerow( ['Generator:', sys.argv[0]] )
 #out.writerow(['Component Count:', len(net.components)])
-out.writerow(['Ref', 'Qnty', 'Value', 'Footprint', 'Manufacturer', 'PartNumber', 'Supplier', 'Sku', 'Description', 'Datasheet'])
+out.writerow(['Reference', 'Quantity', 'Value', 'Footprint', 'Manufacturer', 'PartNumber', 'Supplier', 'Sku', 'Price', 'Description', 'Datasheet'])
 
 # Get all of the components in groups of matching parts + values
 # (see ky_generic_netlist_reader.py)
@@ -66,4 +66,4 @@ for group in grouped:
     strValue = c.getValue()
     if strValue.find('DNP')<0:
         out.writerow([refs, len(group), c.getValue(), c.getFootprint(),
-        c.getField("Manufacturer"), c.getField("PartNumber"), c.getField("Supplier"), c.getField("Sku"), c.getDescription(), c.getDatasheet()])
+        c.getField("Manufacturer"), c.getField("PartNumber"), c.getField("Supplier"), c.getField("Sku"),c.getField("Price"), c.getDescription(), c.getDatasheet()])

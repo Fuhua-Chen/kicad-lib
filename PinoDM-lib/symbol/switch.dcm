@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BL1551
+D The BL1551 is a Single Wide-Bandwidth, fast singlepole double-throw (SPDT) CMOS switch featuring an On-Resistance of 2.7 ohm at VCC=5.0V and wide power supply range from 1.8V to 5.5V. It can be used as an analog switch or as a low-delay bus switch. The 300MHz high bandwidth performance supports the high frequency application. Break-before-make function for both parts eliminates signal disruption during switching from preventing both switches being enabled simultaneously.
+F https://atta.szlcsc.com/upload/public/pdf/source/20160910/1473490325889.pdf
+$ENDCMP
+#
 $CMP KAN0741-0601M1
 D Tact Switch,5 directions,五向按键
 K switch,tack,五向按键

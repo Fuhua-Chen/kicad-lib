@@ -74,6 +74,12 @@ K Diode;ESD
 F https://atta.szlcsc.com/upload/public/pdf/source/20181108/C330095_E8DDC9FC0522283065CE8FE4437C26EE.pdf
 $ENDCMP
 #
+$CMP SESD9D3V3C
+D The SESD9DXXC is designed to protect voltage sensitive components from ESD and transient voltage events. Excellent clamping capability, low leakage, and fast response time, make these parts ideal for ESD protection on designs where board space is at a premium. Because of its small size, it is suited for use in cellular phones, MP3 players, digital cameras and many other portable applications where board space is at a premium.
+K 20pF,Level 4 15 kV (air discharge) 8 kV(contact discharge) MIL STD 883E - Method 3015-7 Class 3 25 kV HBM (Human Body Model)
+F https://atta.szlcsc.com/upload/public/pdf/source/20190731/C355231_CD4876AA75947A7179BDE0F7DA14ADF8.pdf
+$ENDCMP
+#
 $CMP SMF24A
 D Vrmv=24V, Vbr:26.7-29.5V, 单向, Ipp=5.1A,TVS
 K Diode,TVS

@@ -89,6 +89,12 @@ K 平面数码管
 F https://atta.szlcsc.com/upload/public/pdf/source/20180608/C225982_0879ABFF01EACE96DFA42CF1E20B2E06.pdf
 $ENDCMP
 #
+$CMP SZYY0603W
+D Everlight(台湾亿光) LED,白色,207mcd@5mA,0603
+K Chip white LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20191204/C434422_3833D28DE2FD2E316FACA2CBA245D589.pdf
+$ENDCMP
+#
 $CMP WS2812B
 D LED COLOR;WS2812B;WS2812B is a intelligent control LED light source that the control circuit and RGB chip are integrated in a package of 5050 components
 K RGB;WS2812

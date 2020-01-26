@@ -1375,12 +1375,12 @@ ENDDEF
 DEF MicroUSB-5P-0.8mm-Sink J 0 40 Y Y 1 F N
 F0 "J" -200 300 60 H V C CNN
 F1 "MicroUSB-5P-0.8mm-Sink" -150 400 60 H V C CNN
-F2 "USB_Micro-B_JTJ_MicroUSB-5P-0.8-Sink_9.7x5.8x2.2mm" 50 500 60 H I C CNN
+F2 "Connector_USB_Micro-B_JTJ_MicroUSB-5P-0.8-Sink_9.7x5.8x2.2mm" 50 500 60 H I C CNN
 F3 "" 100 50 60 H I C CNN
-F4 "JTJ(精拓金)" 0 0 50 H I C CNN "Manufacturer"
-F5 "MicroUSB-5P沉板式0.8四脚全插无导位有孔" 0 0 50 H I C CNN "PartNumber"
-F6 "https://item.szlcsc.com/41942.html" 0 0 50 H I C CNN "Supplier"
-F7 "C40958" 0 0 50 H I C CNN "Sku"
+F4 "JTJ(精拓金)" 250 800 50 H I C CNN "Manufacturer"
+F5 "MicroUSB-5P沉板式0.8四脚全插无导位有孔" -200 700 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/41942.html" -100 600 50 H I C CNN "Supplier"
+F7 "C40958" -650 800 50 H I C CNN "Sku"
 DRAW
 S 0 250 300 -250 0 1 0 N
 X VCC 1 -200 200 200 R 50 50 1 1 P
