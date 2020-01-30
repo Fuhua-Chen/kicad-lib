@@ -288,12 +288,6 @@ K MQ,7 pins
 F https://www.china.cn/chuanganqi/3688053017.html
 $ENDCMP
 #
-$CMP MicroUSB-5P-0.8mm
-D Micro USB Connector, 四直插固定引脚,沉板
-K USB;5P;沉板
-F https://atta.szlcsc.com/upload/public/pdf/source/20160520/1463712347376.pdf
-$ENDCMP
-#
 $CMP MicroUSB-5P-0.8mm-Sink
 D Micro USB Connector, 四直插固定引脚,沉板
 K USB;5P;沉板
@@ -441,6 +435,24 @@ $ENDCMP
 $CMP XH-2.5
 D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,4pins,Side entry
 K 2.5mm,4p
+F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
+$ENDCMP
+#
+$CMP XH-2.5-2P-SMD-90D
+D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,2pins,Side entry
+K XH,2.5mm,2p
+F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
+$ENDCMP
+#
+$CMP XH-2.5-4P-SMD-90D
+D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,4pins,Side entry
+K 2.5mm,4p
+F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
+$ENDCMP
+#
+$CMP XH-2.5-5P-SMD-90D
+D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,5pins,Side entry
+K XH,2.5mm,5p
 F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
 $ENDCMP
 #

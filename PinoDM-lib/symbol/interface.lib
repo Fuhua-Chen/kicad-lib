@@ -1,13 +1,18 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# AW9523B
+# AW9523BTQR
 #
-DEF AW9523B U 0 40 Y Y 1 F N
+DEF AW9523BTQR U 0 40 Y Y 1 F N
 F0 "U" -300 800 60 H V C CNN
-F1 "AW9523B" -150 700 60 H V C CNN
+F1 "AW9523BTQR" -150 700 60 H V C CNN
 F2 "QFN-24-1EP_4x4mm_Pitch0.5mm" 400 1000 60 H I C CNN
-F3 "http://www.awinic.com.cn/product_nei.php?id=60" 750 900 60 H I C CNN
+F3 "" 750 900 60 H I C CNN
+F4 "AWINIC(艾为) " 0 0 50 H I C CNN "Manufacturer"
+F5 "AW9523BTQR" 0 0 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/159410.html" 0 0 50 H I C CNN "Supplier"
+F7 "C148077" 0 0 50 H I C CNN "Sku"
+F8 "￥1" 0 0 50 H I C CNN "Price"
 DRAW
 S -350 650 300 -650 0 1 0 N
 X P1_0 1 -550 550 200 R 50 50 1 1 B

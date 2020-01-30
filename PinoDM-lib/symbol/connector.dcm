@@ -432,9 +432,21 @@ K 接线端子,5.08mm
 F https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707515117.pdf
 $ENDCMP
 #
-$CMP XH-2.5
+$CMP XH-2.5-2P-SMD-90D
+D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,2pins,Side entry
+K XH,2.5mm,2p
+F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
+$ENDCMP
+#
+$CMP XH-2.5-4P-SMD-90D
 D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,4pins,Side entry
 K 2.5mm,4p
+F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
+$ENDCMP
+#
+$CMP XH-2.5-5P-SMD-90D
+D 兼容JST XH系列2.5mm间距的卧式贴片插座,2.5mm,5pins,Side entry
+K XH,2.5mm,5p
 F https://item.taobao.com/item.htm?spm=a230r.1.14.11.13771d38SPFAlw&id=596152472763&ns=1&abbucket=5#detail
 $ENDCMP
 #

@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AW9523B
+D AWINIC;AW9523B;AW9523B是一款I2C接口、16路呼吸灯， 每路可作扩展 GPIO 控制器。
+K AWINIC;AW9523B;IO扩展;I2C;IIC
+F http://www.awinic.com.cn/product_nei.php?id=60
+$ENDCMP
+#
 $CMP AW9523BTQR
 D AW9523B是一款I2C接口、16路呼吸灯， 每路可作扩展 GPIO 控制器。上电后，16 路 GPIO 口默认为输出模式， 其输出默认值可通过 2 位器件地址进行配置。 每一路 GPIO 口可单独配置为输入或输出。 可通过指令可将每一路分别配置为 LED 驱动 模式或 GPIO 模式。在 LED 模式下，16 路 LED 为共阳极低 压降恒流型驱动，每路具备 256 步线性调光 功能。通过指令可将调光范围设定在四个不 同的调光区间内。AW9523B 对低 6 路 LED 驱动的 Dropout 性能做了强化，仅需 60mV 的电流源压降就可提供 20mA 的 LED 电流， 使其更适合驱动 LCD 背光。AW9523B 包 含 一 位 中 断 输 出 引 脚 （INTN）。当 GPIO 应用在输入模式下，且 其输入状态发生改变时，可引起中断输出 （INTN）的改变，从而向处理器提交中断请 求。通过 I2C 接口读取 GPIO 输入状态时，可 以清除中断。AW9523B 支持硬件复位（RSTN）及软 复位功能，其中硬件复位引脚内置了 10 µs 防抖动处理。AW9523B 通过快速 I2C 接口与 处理器进行通信。
 K AWINIC;AW9523B;IO扩展;I2C;IIC

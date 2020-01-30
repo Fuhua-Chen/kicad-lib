@@ -12,4 +12,8 @@ K 电机驱动,全桥
 F https://atta.szlcsc.com/upload/public/pdf/source/20180614/C190601_A238805063D6EBAC1656774BFC013F91.pdf
 $ENDCMP
 #
+$CMP ULN2803A
+F https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492506319027.pdf
+$ENDCMP
+#
 #End Doc Library
