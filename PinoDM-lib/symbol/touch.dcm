@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP NS2009
-D The NS2009 is a 4-wire resistive touch screen controller with I2C Interface, includes 12-bit resolution A / D converter. The NS2009 through the implementation of the two A / D conversion has been identified by the location of the screen, in addition to measurable increase in pressure on the touch screen. 2.7V typical work in the state, the closure of the reference voltage, power consumption can be less than 0.75mW.
-K resistive touch screen controller,电阻屏驱动IC
-F https://atta.szlcsc.com/upload/public/pdf/source/20180621/C219024_19B489E3E2E7317F61938E8C48020F1E.PDF
-$ENDCMP
-#
-#End Doc Library

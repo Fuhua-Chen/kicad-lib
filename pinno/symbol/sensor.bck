@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AHT10
+D AHT10，新一代温湿度传感器在尺寸与智能 方面建立了新的标准：它嵌入了适于回流焊 的双列扁平无引脚SMD 封装，底面 4 x 5mm ， 高度1.6mm。传感器输出经过标定的数字信 2号 ，标准 I C 格式。 AHT10 配有一个全新设计的 ASIC专用芯片、 一个经过改进的MEMS半导体电容式湿度传感 元件和一个标准的片上温度传感元件，其性 能已经大大提升甚至超出了前一代传感器的 可靠性水平，新一代温湿度传感器，经过改 进使其在恶劣环境下的性能更稳定。
+K 温湿度传感器,humidity,temperature
+F https://atta.szlcsc.com/upload/public/pdf/source/20190129/C368909_B294364A5189322D50DF5028F78C32FD.pdf
+$ENDCMP
+#
+$CMP BH1730FVC-TR
+D BH1730FVC is a digital Ambient Light Sensor IC with I 2C bus interface. This IC is most suitable for obtaining ambient light data for adjusting LCD and backlight power of TV and mobile phone. It is capable of detecting a very wide range of illuminance.
+K Digital 16bit Serial Output Type
+$ENDCMP
+#
+$CMP BH1750FVI-TR
+D BH1750FVI is an digital Ambient Light Sensor IC for I2C bus interface. This IC is the most suitable to obtain the ambient light data for adjusting LCD and Keypad backlight power of Mobile phone. It is possible to detect wide range at High resolution. ( 1 - 65535 lx ). 
+K Digital 16bit Serial Output Type
+F https://atta.szlcsc.com/upload/public/pdf/source/20160723/1469258984787.pdf
+$ENDCMP
+#
+$CMP F1012
+D F1012微流量传感器是利用热力学原理对流道中的气体介质进行流量检测，具有很好的精度与重复性。内置有温度传感器，每只都进行专有的温度补偿校准；同时具有线性模拟电压输出，方便使用。
+K 流量传感器
+F http://style.winsensor.com/pro_pdf/F1012.pdf
+$ENDCMP
+#
+$CMP ICM-20648
+D IMU-惯性测量单元 DMP-Enabled 6-Axis Integrated Solution for Wrist-Worn Wearable
+K IMU,DMP,9 axis,motion
+F https://www.mouser.cn/datasheet/2/400/DS-000179-ICM-20648-v1.1-TYP-1112733.pdf
+$ENDCMP
+#
+$CMP MSA300
+D MSA300 is a triaxial, low-g accelerometer with I2C/SPI digital output for
+K accelerometer,加速度计
+F https://atta.szlcsc.com/upload/public/pdf/source/20170413/1492062749091.pdf
+$ENDCMP
+#
+#End Doc Library

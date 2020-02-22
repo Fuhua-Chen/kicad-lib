@@ -1,0 +1,110 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 19-213-Y2C-CQ2R2L-3T(CY)
+D Everlight(台湾亿光) LED,黄色,585.5~591.5nm,90~180mcd@20mA,0603
+K Chip Yellow LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20160507/1462613613586.pdf
+$ENDCMP
+#
+$CMP 19-217-BHC-ZL1M2RY-3T
+D Everlight(台湾亿光) LED,蓝色,465~475nm,11.5~28.5mcd@5mA,0603
+K Chip Blue LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20170116/1484561237273.pdf
+$ENDCMP
+#
+$CMP 19-217-R6C-AL1M2VY-3T
+D Everlight(台湾亿光) LED,红色,617.5~633.5nm,11.5~28.5mcd@5mA,0603
+K Chip Red LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20160507/1462613613821.pdf
+$ENDCMP
+#
+$CMP 19-217_GHC-YR1S2_3T
+D Everlight(台湾亿光) LED,翠绿色,520~535nm,112~258mcd@20mA,0603
+K Chip Green LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20160507/1462613613780.pdf
+$ENDCMP
+#
+$CMP 204-10SDRD_S530-A3-L
+D Everlight(台湾亿光) LED,红色,639nm,80mcd@20mA,Through hole,3mm
+K Through hole Red LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20170717/C84774_1500286941158822251.pdf
+$ENDCMP
+#
+$CMP 204-10SYGD-S530-E3
+D Everlight(台湾亿光) LED,黄绿色,573nm,100mcd@20mA,Through hole,3mm
+K Through hole Red LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20181205/C85161_54D2881904BBFDED7AAB4D08F0D96F46.pdf
+$ENDCMP
+#
+$CMP BL-HBH36D-TRC
+D BrtLed(佰鸿)  LED,红色50mcd@20mA,0603
+K Chip Red LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20180423/C138543_3EE69EEEC10934534863527BCACD0D21.pdf
+$ENDCMP
+#
+$CMP EC20-SK9822-2020
+D EC20-SK9822-2020 is a 20x20mm RGB LED with SPI interface
+K RGB LED,APA102-2020 replaceable,SK9822
+F https://item.taobao.com/item.htm?spm=a230r.1.14.17.233e1ce6J5YRQp&id=583626419469&ns=1&abbucket=20#detail
+$ENDCMP
+#
+$CMP IR333C-A-R档
+D EVERLIGHT(台湾亿光) LED,红外,940nm,60mW/sr,5mm,100mA,150mW,20deg
+K Through Hole IR LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20171215/C139041_15133106878901182323.pdf
+$ENDCMP
+#
+$CMP IRM-H600JW_TR2
+D The IRM-H600JW devices are miniature type infrared receivers which have been developed and designed by using the latest IC technology.
+K Infrared Receiver Control Receiver Module
+F https://atta.szlcsc.com/upload/public/pdf/source/20180911/C72046_5D8800E4DDE4A68306FFE93C149F10F7.pdf
+$ENDCMP
+#
+$CMP IRM-H638T_TR2
+D The device is a miniature SMD type infrared remote control system receiver that has been developed and designed by utilizing the most updated IC technology. The PIN diode and preamplifier are assembled on lead frame, the epoxy package is designed as an IR filter. The demodulated output signal can directly be decoded by a microprocessor.
+K Infrared Receiver Control Receiver Module
+F https://atta.szlcsc.com/upload/public/pdf/source/20161219/1482143954829.pdf
+$ENDCMP
+#
+$CMP LED
+D LED
+K LED
+$ENDCMP
+#
+$CMP MIR60363T
+D EVERLIGHT(台湾亿光) LED,红外,940nm,1.16mW/sr,0603
+K Chip IR LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20161026/1477463507027.pdf
+$ENDCMP
+#
+$CMP ORH-G36G
+D Orient(奥伦德) LED,翠绿色,520~535nm,150mcd@5mA,0603
+K Chip Green LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20180403/C205443_FC3A450D702BEC6084FEB8CF87A0695F.pdf
+$ENDCMP
+#
+$CMP SLL1515CR1WD
+D SUNLIGHT(光华) LED,红色,625nm,105mcd@5mA,15*15*10.8mm,平面数码管
+K 平面数码管
+F https://atta.szlcsc.com/upload/public/pdf/source/20180608/C225982_0879ABFF01EACE96DFA42CF1E20B2E06.pdf
+$ENDCMP
+#
+$CMP SZYY0603W
+D yongyu(永裕光电) LED,白色,207mcd@5mA,0603
+K Chip white LED
+F https://atta.szlcsc.com/upload/public/pdf/source/20191204/C434422_3833D28DE2FD2E316FACA2CBA245D589.pdf
+$ENDCMP
+#
+$CMP WS2812B
+D LED COLOR;WS2812B;WS2812B is a intelligent control LED light source that the control circuit and RGB chip are integrated in a package of 5050 components
+K RGB;WS2812
+F http://www.led-color.com/index.php/Product/view/id/763/lang/cn.html
+$ENDCMP
+#
+$CMP WS2812B-2020
+D LED COLOR;WS2812B;WS2812B is a intelligent control LED light source that the control circuit and RGB chip are integrated in a package of 2020 components
+K RGB;WS2812-2020
+F http://www.normandled.com/upload/201901/WS2812B-2020%20Led%20Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

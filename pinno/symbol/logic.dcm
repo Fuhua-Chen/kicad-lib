@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC00
+D NXP;74HC00;Quad 2-input NAND gate
+K Logic,NAND,NXP,74HC00
+F http://www.mouser.com/ds/2/302/74HC_HCT00-839309.pdf
+$ENDCMP
+#
+$CMP 74HC1G08GW,125
+D The 74HC1G/HCT1G08 is a high-speed Si-gate CMOS device.The 74HC1G/HCT1G08 provides the 2-input AND function. The standard output currents are 1⁄2 the 74HC/HCT08.
+K 2-input AND gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20130521/1457706602929.pdf
+$ENDCMP
+#
+$CMP 74LVC1G32GW,125
+D The 74LVC1G32 is a high-performance, low-power, low-voltage, Si-gate CMOS device, superior to most advanced CMOS compatible TTL families. Input can be driven from either 3.3 V or 5 V devices. This feature allow the use of these devices in a mixed 3.3 V and 5 V environment. Schmitt-trigger action at all inputs makes the circuit tolerant for slower input rise and fall time. This device is fully specified for partial power-down applications using Ioff. The Ioff circuitry disables the output, preventing the damaging backflow current through the device when it is powered down. The 74LVC1G32 provides the single 2-input OR function.
+K Single 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20130521/1457706602542.pdf
+$ENDCMP
+#
+$CMP 74LVC1T45DW-7
+D The  74LVC1T45  is  a  single  bit,  dual  supply  transceiver  with  3-state outputs  suitable  for  transmitting  a  single  logic  bit  across  different voltage  domains.  The  A  input/output  pin  is  designed  to  track  VCCA while  the  B  input/output  tracks  VCCB.  This  arrangement  allows  for universal low-voltage translation between any voltages from 1.65V to 5.5V. The Direction pin (DIR) controls the direction of the transceiver and  in  a  logic  voltage  related  to  VCCA.  When  a  high  logic  level  is applied to DIR the A pin becomes an input and the B pin becomes the output.  Conversely,  the  roles  of  A  and  B  are  reversed  when  DIR  is asserted low. The  3-state  feature  occurs  when  either  of  the  power  supply  voltages are  zero.  This  is  also  an  Ioff  feature  and  allows  for  the  output  to remain  in  a  high  impedance  state  with  both  power  supplies  at  0V,preventing  and  damaging  backflow  currents  and  providing  power down  electrical  isolation  up to  5.5V as  not  to  interfere  with  any  logic activity on pin A or B.
+K transceiver,level switch
+F https://atta.szlcsc.com/upload/public/pdf/source/20180111/C168855_15156657589781259227.pdf
+$ENDCMP
+#
+$CMP 74LVC1T45W6-7
+D The  74LVC1T45  is  a  single  bit,  dual  supply  transceiver  with  3-state outputs  suitable  for  transmitting  a  single  logic  bit  across  different voltage  domains.  The  A  input/output  pin  is  designed  to  track  VCCA while  the  B  input/output  tracks  VCCB.  This  arrangement  allows  for universal low-voltage translation between any voltages from 1.65V to 5.5V. The Direction pin (DIR) controls the direction of the transceiver and  in  a  logic  voltage  related  to  VCCA.  When  a  high  logic  level  is applied to DIR the A pin becomes an input and the B pin becomes the output.  Conversely,  the  roles  of  A  and  B  are  reversed  when  DIR  is asserted low. The  3-state  feature  occurs  when  either  of  the  power  supply  voltages are  zero.  This  is  also  an  Ioff  feature  and  allows  for  the  output  to remain  in  a  high  impedance  state  with  both  power  supplies  at  0V,preventing  and  damaging  backflow  currents  and  providing  power down  electrical  isolation  up to  5.5V as  not  to  interfere  with  any  logic activity on pin A or B.
+K transceiver,level switch
+F https://atta.szlcsc.com/upload/public/pdf/source/20180109/C168856_15154706151821250215.pdf
+$ENDCMP
+#
+$CMP 74LVC244APW,118
+D The 74LVC244A; 74LVCH244A is an octal non-inverting buffer/line driver with 3-state outputs. The 3-state outputs are controlled by the output enable inputs 1OE and 2OE. A HIGH on nOE causes the outputs to assume a high-impedance OFF-state. Schmitt-trigger action at all inputs makes the circuit highly tolerant for slower input rise and fall times. Inputs can be driven from either 3.3 V or 5.0 V devices. In 3-state operation, outputs can handle 5 V. These features allow the use of these devices as translators in a mixed 3.3 V and 5 V environment. The 74LVCH244A bus hold on data inputs eliminates the need for external pull-up resistors to hold unused inputs.
+K Octal buffer/line driver; 3-state
+F https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477279262397.pdf
+$ENDCMP
+#
+$CMP M74VHC1GT08DFT2G
+D The MC74VHC1GT08 is an advanced high speed CMOS 2−input AND gate fabricated with silicon gate CMOS technology. It achieves high speed operation similar to equivalent Bipolar Schottky TTL while maintaining CMOS low power dissipation. The internal circuit is composed of three stages, including a buffer output which provides high noise immunity and stable output. The device input is compatible with TTL−type input thresholds and the output has a full 5 V CMOS level output swing. The input protection circuitry on this device allows overvoltage tolerance on the input, allowing the device to be used as a logic−level translator from 3 V CMOS logic to 5 V CMOS Logic or from 1.8 V CMOS logic to 3 V CMOS Logic while operating at the high−voltage power supply. The MC74VHC1GT08 input structure provides protection when voltages up to 7 V are applied, regardless of the supply voltage. This allows the MC74VHC1GT08 to be used to interface 5 V circuits to 3 V circuits. The output structures also provide protection when VCC = 0 V. These input and output structures help prevent device destruction caused by supply voltage − input/output voltage mismatch, battery backup, hot insertion, etc.
+K 2-input AND gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20170325/1490427947146.PDF
+$ENDCMP
+#
+$CMP MC74HC573ADTG
+D The MC74HC573A is identical in pinout to the LS573. The devices are compatible with standard CMOS outputs; with pullup resistors, they are compatible with LSTTL outputs. These latches appear transparent to data (i.e., the outputs change asynchronously) when Latch Enable is high. When Latch Enable goes low, data meeting the setup and hold time becomes latched. The HC573A is identical in function to the HC373A but has the data inputs on the opposite side of the package from the outputs to facilitate PC board layout.
+K Octal 3-State Noninverting Transparent Latch,锁存器
+F https://atta.szlcsc.com/upload/public/pdf/source/20190115/C233617_F198839F85F1E695352FA89826F3004E.pdf
+$ENDCMP
+#
+$CMP MC74VHC1G32DFT2G
+D The MC74VHC1G32 is an advanced high speed CMOS 2−input OR gate fabricated with silicon gate CMOS technology. The internal circuit is composed of multiple stages, including a buffer output which provides high noise immunity and stable output. The MC74VHC1G32 input structure provides protection when voltages up to 7 V are applied, regardless of the supply voltage. This allows the MC74VHC1G32 to be used to interface 5 V circuits to 3 V circuits.
+K Single 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184692_2A4B27801ECE5CCAAB16339ADEDBF0C3.PDF
+$ENDCMP
+#
+$CMP NL17SZ14DFT2G
+D The NL17SZ14 is a single inverter with Schmitt trigger in three tiny
+K logic,inverter,反相器
+F https://atta.szlcsc.com/upload/public/pdf/source/20170522/1495448318625.PDF
+$ENDCMP
+#
+$CMP NL17SZ32XV5T2G
+D The NL17SZ32 is a single 2−input OR Gate in three tiny footprint packages. The device performs much as LCX multi−gate products in speed and drive. They should be used wherever the need for higher speed and drive are needed.
+K Single 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20170310/1489116322835.PDF
+$ENDCMP
+#
+$CMP NL27WZ32USG
+D The NL27WZ32 is a high performance dual 2−input OR Gate operating from a 1.65 V to 5.5 V supply.
+K Dual 2-Input OR Gate
+F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184880_03D26CC743483A7DE8F281E033115CAA.PDF
+$ENDCMP
+#
+#End Doc Library

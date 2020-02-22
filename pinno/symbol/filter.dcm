@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACP3225-501-2P-T000
+D TDK Inductor,500Ω@100MHz,2A电流共模滤波器
+K Common Mode Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20161229/1482979307382.pdf
+$ENDCMP
+#
+$CMP MCZ0806AH900L2TA0G
+D 高速差分信号线用小型叠层共模滤波器(USB2.0,LVDS等)
+K Common Mode Filter for USB,LVDS or so on high speed different signal line,Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20161125/1480068347523.pdf
+$ENDCMP
+#
+$CMP SMW2012B371BTE
+D Wire-wound Common Mode Filter,370Ω@100MHz,300mA,2012
+K Common Mode Filter,Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180730/C254903_44A22E2BE65001D3A8E9652DD889E5BE.pdf
+$ENDCMP
+#
+$CMP WCM2012F2SF-181T04
+D Wire Wound Type Common Mode Filter,180Ω @ 100MHz,400mA,2012
+K Common Mode Filter,Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20190313/C369547_1F001847F8E6F63D40299DCE980467D2.pdf
+$ENDCMP
+#
+#End Doc Library

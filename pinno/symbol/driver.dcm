@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8835DSSR
+D The DRV8835 provides an integrated motor driver solution for cameras, consumer products, toys, and other low-voltage or battery-powered motion control applications. The device has two H-bridge drivers, and drives two DC motors or one stepper motor, as well as other devices like solenoids. The output driver block for each consists of N-channel power MOSFETs configured as an H-bridge to drive the motor winding. An internal charge pump generates gate drive voltages.The DRV8835 supplies up to 1.5-A of output current per H-bridge and operates on a motor power supply voltage from 0 V to 11 V, and a device power supply voltage of 2 V to 7 V.PHASE/ENABLE and IN/IN interfaces are compatible with industry-standard devices.Internal shutdown functions are provided for overcurrent protection, short circuit protection, undervoltage lockout, and overtemperature.The DRV8835 is packaged in a tiny 12-pin WSON package (Eco-friendly: RoHS and no Sb/Br).
+K H-Bridge,11V,1.5A,3A,PWM
+F https://atta.szlcsc.com/upload/public/pdf/source/20170914/C129328_1505359962536968168.pdf
+$ENDCMP
+#
+$CMP FM116B
+D SOT23-6封装全桥电机驱动，待机1uA功耗，4V,550mA
+K 电机驱动,全桥
+F https://atta.szlcsc.com/upload/public/pdf/source/20180614/C190601_A238805063D6EBAC1656774BFC013F91.pdf
+$ENDCMP
+#
+$CMP ULN2803A
+F https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492506319027.pdf
+$ENDCMP
+#
+#End Doc Library

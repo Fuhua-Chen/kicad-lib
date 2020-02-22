@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP O3224576153350
+D 3.3V,24.576MHz,-40~+85℃
+K Oscillator,24.576MHz
+F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C437128_1EE360FF0A7FC05D9973CDB05FC4CA82.pdf
+$ENDCMP
+#
+$CMP OP322510MEDA4SI-u
+D 3.3V,10MHz,-40~+	85℃,
+K Oscillator,10M
+F https://atta.szlcsc.com/upload/public/pdf/source/20190322/C382486_2A3737848178F91AC1F79B0FE62A568B.pdf
+$ENDCMP
+#
+$CMP Oscillator-4P
+D Oscillator-4P
+K Oscillator;4P
+$ENDCMP
+#
+#End Doc Library

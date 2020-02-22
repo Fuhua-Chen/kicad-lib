@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP FS9721_LP3
-D Fortune;FS9721_LP3;FS9721_LP3 is a high performance, low power consumption and 33/4 digits (4000 Counts) Analog to Digital Converter that built-in a microprocessor (ADC+MCU). It contains 8-bits microprocessor, low noise OPAMP, high regulated bandgap, regulator, auto measurement switch, function control circuit, buzzer driver, oscillation circuit, backlight display control/driver circuit, LCD display driver and so on.Due to FS9721_LP3 has an embedded microprocessor so that can control the logic function, assemble various measurement functions. Through the setting to the code can build a fully auto measurement meter.
-K Fortune;FS9721_LP3;Multimeter;万用表;
-F http://www.ic-fortune.com/upload/Download/FS9721_LP3-DS-21_EN.pdf
-$ENDCMP
-#
-#End Doc Library

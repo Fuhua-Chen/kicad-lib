@@ -1,0 +1,102 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CBC3225T102KR
+D TaiYo Inductor,1mH,1.6MHz,16Ω,100mA,1210
+K SMD Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181206/C223235_CC487224E89CCDC31FDEE4E4F24060B9.pdf
+$ENDCMP
+#
+$CMP CIGT201610LH2R2MNE
+D SAMSUNG Inductor,Metal Composite Power Inductor (Thin Film),2.2uH,±20%,0.139DCR,1.8A,0806
+K Power Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181022/C307626_05B07B29189CEA75F2CB79BF1CAF77CF.pdf
+$ENDCMP
+#
+$CMP FXL0630-100-M
+D Cjiang Inductor, High Current, Power Inductor,10uH,±20%，0.062DCR,4.5A,5MHz,7.3x6.8x 3.0mm
+K Inductor
+$ENDCMP
+#
+$CMP IND
+D Inductors
+K Inductor
+$ENDCMP
+#
+$CMP IND_C
+D Inductors
+K Common Mode Inductor
+$ENDCMP
+#
+$CMP MCL1608S2R2MT
+D Sunlord Inductor,Multilayer Chip Power Inductor – MCL Series,2.2uH,±20%,0.52DCR,140mA,0603
+K Power Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180326/C95966_2987616B4C7077C875F3CAA13DBA9134.pdf
+$ENDCMP
+#
+$CMP MPH201214S100MT
+D Sunlord(顺络) Inductor,1A,375毫欧,0805,10uH,20%
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C192450_D367E2F3A262E86E340600F0454A5E72.pdf
+$ENDCMP
+#
+$CMP MPL2016S2R2MHT
+D Sunlord Inductor,Multilayer Chip Power Inductor – MPL Series,2.2uH,±20%,0.11DCR,1.2A,0806
+K Power Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170728/C42215_1501225881941849054.pdf
+$ENDCMP
+#
+$CMP PRS6045-4R7MT
+D FH Inductor, High Current, Power Inductor,4.7uH,±20%，0.031DCR,4A,6x6x4.5mm
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170505/1493957831537.pdf
+$ENDCMP
+#
+$CMP SDCL1005C47NJTDF
+D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,47nH,±5%,1.1DCR,150mA,0402
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20140618/1457707093245.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR10JTDF
+D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,100nH,±5%,2.6DCR,150mA,0402
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20160713/1468379850827.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR10JTDF
+D Sunlord Inductor,Multilayer Chip Ceramic Inductor – D Series ,100nH,±5%,1.2DCR,300mA,Q8,0603
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180327/C74310_2B316E4A1F9FC6DB4F5046316DF66CED.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR33JTDF
+D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series  ,330nH,±5%,2.8DCR,150mA,Q8,0603
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707280994.pdf
+$ENDCMP
+#
+$CMP WPN4020H100MT
+D Wire Wound SMD Power Inductors – WPN Series,10uH,±20%,216mΩDCR,2A,4020
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170311/1489227685846.pdf
+$ENDCMP
+#
+$CMP YSPI0420-1R0M
+D YJYCOIN(益嘉源) Inductor,精度：±20% 额定电流：8A 直流电阻（内阻）：11.2mΩ 电感:1uH
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181218/C351087_A5D14E9C3BE9C1309F241EC6997F4E78.pdf
+$ENDCMP
+#
+$CMP YSPI0530-3R3M
+D YJYCOIN(益嘉源) Inductor, High Current, Power Inductor,3.3uH,±20%,0.042DCR,4A,5.2x4.7x3mm
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181218/C351097_213915331424B92557D9F3D56E115792.pdf
+$ENDCMP
+#
+$CMP YXMAC1265-101M-ITF
+D 功率电感 100uH ±20% 3A 160 mOhm Max
+K Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180822/C241450_BB079187F3F6D253C2B48C47FC6F7F15.pdf
+$ENDCMP
+#
+#End Doc Library

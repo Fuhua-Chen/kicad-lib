@@ -1,0 +1,61 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Button-2P
+D Button;2 Pins
+K Button;2P
+$ENDCMP
+#
+$CMP Button-4P
+D Button;4 Pins
+K Button;4P
+$ENDCMP
+#
+$CMP K2-1102SP-M4SC-04
+D Button,4 Pins,6*6*10mm 轻触按键,30万次寿命
+K SMD Button 4P
+F https://atta.szlcsc.com/upload/public/pdf/source/20170914/C127506_1505359411058967683.pdf
+$ENDCMP
+#
+$CMP K2-1103DT-A4CW-04
+D Button,4 Pins,12*12*7.3mm 轻触按键,90-350gf
+K SMD Button 4P,90-350gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20170922/C83918_1506073657755987361.pdf
+$ENDCMP
+#
+$CMP TC-1102-C-B-B
+D Button,4 Pins,6*6*4.5mm 轻触按键,260gf
+K Through Hole Button 4P,260gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381024_26F7D7270B84AEB4D5B091766603AF53.pdf
+$ENDCMP
+#
+$CMP TL6120DF160QG
+D Button,4 Pins,7.4*7.4*10mm
+K SMD Button 4P
+F https://atta.szlcsc.com/upload/public/pdf/source/20181030/C273507_2EE484BB84AB69DC7DF4B8E47CB971AF.pdf
+$ENDCMP
+#
+$CMP TS-1102S-C-B-B
+D Button,4 Pins,6*6*4.5mm 轻触按键,260gf
+K SMD Button 4P,260gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C381041_E4D76EE62DF722F3850739D4E966CA5C.pdf
+$ENDCMP
+#
+$CMP TS-1186D-C-A
+D 轻触开关,Side Actuated,1.65mm,50mA @ 12VDC,Rectangular Button,不带灯,260gf,4.70mm x 3.50mm,SPST
+K Button,4P,260gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20190612/C397351_7243CDA68AB2CD72B02BCC063477B3D6.pdf
+$ENDCMP
+#
+$CMP TS-1187-B-A-B
+D XKB(星坤) Button,4 Pins,160gf,5.1x5.1x1.5mm
+K Button,4P,160gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20190311/C318884_6B340AB968804BF7B7BBAF2C4E272889.pdf
+$ENDCMP
+#
+$CMP TSA123G100-250
+D Button,4 Pins,12*12*10mm 轻触按键,250gf
+K SMD Button 4P,250gf
+F https://atta.szlcsc.com/upload/public/pdf/source/20181031/C294591_6207010FFC0C74520F06C75813DD947B.pdf
+$ENDCMP
+#
+#End Doc Library

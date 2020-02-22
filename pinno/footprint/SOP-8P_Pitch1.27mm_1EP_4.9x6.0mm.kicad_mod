@@ -1,0 +1,8 @@
+(module SOP-8P_Pitch1.27mm_1EP_4.9x6.0mm (layer F.Cu) (tedit 5CD39F15)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SOP-8P_Pitch1.27mm_1EP_4.9x6.0mm (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

@@ -1,0 +1,176 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0402B102K500NT
+D Fenghua Ceramic Capacitor,1nF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1523_1506149254821988331.pdf
+$ENDCMP
+#
+$CMP 0402B104K500NT
+D Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf
+$ENDCMP
+#
+$CMP 0402B105K100NT
+D Fenghua Ceramic Capacitor,1uF,10%,10V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1526_1506149256027988333.pdf
+$ENDCMP
+#
+$CMP 0402B201K500NT
+D Fenghua Ceramic Capacitor,200pF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1529_1506149257478988336.pdf
+$ENDCMP
+#
+$CMP 0402B222K500NT
+D Fenghua Ceramic Capacitor,2.2nF,±10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1531_1506149258433988338.pdf
+$ENDCMP
+#
+$CMP 0402B331K500NT
+D Fenghua Ceramic Capacitor,330pF,±10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1535_1506149260191988342.pdf
+$ENDCMP
+#
+$CMP 0402CG100K500NT
+D Fenghua Ceramic Capacitor,10pF,10%,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180917/C286508_843E2753D9ACAD7C1893F0BB0BC9A265.pdf
+$ENDCMP
+#
+$CMP 0402CG101J500NT
+D Fenghua Ceramic Capacitor,100pF,5%,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1546_1506149265265988353.pdf
+$ENDCMP
+#
+$CMP 0402CG120J500NT
+D Fenghua Ceramic Capacitor,12pF,5%,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1547_1506149265711988354.pdf
+$ENDCMP
+#
+$CMP 0402CG150J500NT
+D Fenghua Ceramic Capacitor,15pF,5%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1548_1506149266133988355.pdf
+$ENDCMP
+#
+$CMP 0402CG1R0C500NT
+D Fenghua Ceramic Capacitor,1pF,±0.25pF,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1550_1506149267010988357.pdf
+$ENDCMP
+#
+$CMP 0402CG1R5C500NT
+D Fenghua Ceramic Capacitor,1.5pF,±0.25pF,50V,C0G,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1552_1506149267851988359.pdf
+$ENDCMP
+#
+$CMP 0402CG330J500NT
+D Fenghua Ceramic Capacitor,33pF,±5%,50V,C0G,NP0,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1562_1506149272462988369.pdf
+$ENDCMP
+#
+$CMP 0402CG4R7C500NT
+D Fenghua Ceramic Capacitor,4.7pF,±0.25pF,50V,NP0,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180403/C189469_64662B4C0C1C4BECD5C204028AE63279.pdf
+$ENDCMP
+#
+$CMP 0402X106M6R3NT
+D Fenghua Ceramic Capacitor,10uF,±20%,6.3V,X5R, 0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20171228/C163694_15144475977061215040.pdf
+$ENDCMP
+#
+$CMP 0603B105K500NT
+D Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf
+$ENDCMP
+#
+$CMP 0805B106K250NT
+D Fenghua Ceramic Capacitor,10uF,±10%,25V,X7R,0805
+K Ceramic Capacitor
+F https://so.szlcsc.com/global.html?os=0&sb=1&pn=1&c=&k=10uF%252025v%2520x7r&tc=0&pds=0&pa=0&gp=0&queryProductDiscount=&st=&sk=10uF+25v+x7r&bp=&ep=&pageNumber=1
+$ENDCMP
+#
+$CMP 1206B106K250NT
+D Fenghua Ceramic Capacitor,10uF,±10%,50V,X7R,1206
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90538_1506149559527988965.pdf
+$ENDCMP
+#
+$CMP 1210B106K500NT
+D Fenghua Ceramic Capacitor,10uF,±10%,50V,X7R,1210
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20171106/C116808_15099531532101092443.pdf
+$ENDCMP
+#
+$CMP CAP_Electrolytic
+D Electrolytic Capacitors
+K Capacitor
+$ENDCMP
+#
+$CMP CC0402KRX7R9BB333
+D YAGEO Ceramic Capacitor,33nF,10%,50V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170728/C106862_1501225699852848738.pdf
+$ENDCMP
+#
+$CMP CL10A226MQ8NRNC
+D SAMSUNG Ceramic Capacitor,22uF,±20%,6.3V,X5R,0805
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707740762.pdf
+$ENDCMP
+#
+$CMP CL21A226MAQNNNE
+D SAMSUNG Ceramic Capacitor,22uF,±20%,25V,X5R,0805
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707727161.pdf
+$ENDCMP
+#
+$CMP CL31B106KBHNNNE
+D SAMSUNG Ceramic Capacitor,10uF,±10%,50V,X7R,1206
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf
+$ENDCMP
+#
+$CMP CL32A107MPVNNNE
+D SAMSUNG Ceramic Capacitor,100uF,±20%,10V,X5R,1210
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707710659.pdf
+$ENDCMP
+#
+$CMP RT1H101M0810
+D Electrolytic Capacitors,100uF,-40℃~+105℃,50V,±20%,8x10.2mm,2000Hrs@105℃
+K Electrolytic Capacitors
+F https://atta.szlcsc.com/upload/public/pdf/source/20180906/C280404_1A84FE675B9BAED2FB38F0960F374EFD.pdf
+$ENDCMP
+#
+$CMP RT1H470M0607
+D Electrolytic Capacitors,47uF,-40℃~+105℃,50V,±20%,6.3x7.7mm,2000Hrs@105℃
+K Electrolytic Capacitors
+F https://atta.szlcsc.com/upload/public/pdf/source/20180813/C267471_4D4550B5852E9AC2CB37E8AE11263E0F.pdf
+$ENDCMP
+#
+$CMP SE-5R5-D105VYH
+D 超级电容器,-25℃~+70℃,5.5V,-20%~+80%,1F
+K Super Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170717/C118887_1500269960558820748.pdf
+$ENDCMP
+#
+$CMP VT1H102M1616
+D Electrolytic Capacitors,1000uF,-40℃~+105℃,50V,±20%,16x16.5mm,2000Hrs@105℃
+K Electrolytic Capacitors
+F https://atta.szlcsc.com/upload/public/pdf/source/20180703/C239251_3A0764FDC0C179558E579B4B57B5CF6F.pdf
+$ENDCMP
+#
+#End Doc Library

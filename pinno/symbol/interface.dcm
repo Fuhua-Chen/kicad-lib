@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AW9523BTQR
+D AW9523B是一款I2C接口、16路呼吸灯， 每路可作扩展 GPIO 控制器。上电后，16 路 GPIO 口默认为输出模式， 其输出默认值可通过 2 位器件地址进行配置。 每一路 GPIO 口可单独配置为输入或输出。 可通过指令可将每一路分别配置为 LED 驱动 模式或 GPIO 模式。在 LED 模式下，16 路 LED 为共阳极低 压降恒流型驱动，每路具备 256 步线性调光 功能。通过指令可将调光范围设定在四个不 同的调光区间内。AW9523B 对低 6 路 LED 驱动的 Dropout 性能做了强化，仅需 60mV 的电流源压降就可提供 20mA 的 LED 电流， 使其更适合驱动 LCD 背光。AW9523B 包 含 一 位 中 断 输 出 引 脚 （INTN）。当 GPIO 应用在输入模式下，且 其输入状态发生改变时，可引起中断输出 （INTN）的改变，从而向处理器提交中断请 求。通过 I2C 接口读取 GPIO 输入状态时，可 以清除中断。AW9523B 支持硬件复位（RSTN）及软 复位功能，其中硬件复位引脚内置了 10 µs 防抖动处理。AW9523B 通过快速 I2C 接口与 处理器进行通信。
+K AWINIC;AW9523B;IO扩展;I2C;IIC
+F https://atta.szlcsc.com/upload/public/pdf/source/20180202/C148077_15175644676151336003.pdf
+$ENDCMP
+#
+$CMP BL3085
+D BL3085是一款5V供电、半双工的RS-485收发器，芯片内部包含一路驱动器和一路接收器。 BL3085使用限摆率驱动器，能显著减小EMI和由于不恰当的终端匹配电缆所引起的反射，并实现 高达500kbps的无差错数据传输。BL3085内置失效保护电路，保证接收器输入端在开路或短路时，接 收器的输出端处于逻辑高电平状态。 BL3085接收器输入阻抗为1/8单位负载，允许多达256个收发器挂接在总线上，实现半双工通信。 BL3085 I/O引脚具有±18kV IEC 61000-4-2接触放电保护能力。
+K RS485,半双工,Half Duplex
+F https://atta.szlcsc.com/upload/public/pdf/source/20170914/C128803_1505359873178968047.pdf
+$ENDCMP
+#
+$CMP CH340C
+D CH340 是一个 USB 总线的转接芯片，实现 USB 转串口或者 USB 转打印口。 在串口方式下，CH340 提供常用的 MODEM 联络信号，用于为计算机扩展异步串口，或者将普通的 串口设备直接升级到 USB 总线。有关 USB 转打印口的说明请参考手册（二）CH340DS2。
+K WCH;CH340;USB to UART;
+F https://atta.szlcsc.com/upload/public/pdf/source/20171107/C84681_15100186735851094113.PDF
+$ENDCMP
+#
+$CMP CH340E
+D WCH;CH340E;CH340 是一个 USB 总线的转接芯片，实现 USB 转串口或者 USB 转打印口。 在串口方式下，CH340 提供常用的 MODEM 联络信号，用于为计算机扩展异步串口，或者将普通的 串口设备直接升级到 USB 总线
+K WCH;CH340E;USB to UART;
+F http://wch.cn/downloads/CH340DS1_PDF.html
+$ENDCMP
+#
+$CMP CP2102
+D Silicon Labs;CP2102;SINGLE-CHIP USB TO UART BRIDGE
+K Silicon Labs;CP2102;USB to UART;RS232
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf
+$ENDCMP
+#
+$CMP CP2102N
+D These highly-integrated USB-to-UART bridge controllers provide a simple solution for updating RS-232 designs to USB using a minimum of components and PCB space. CP2102N includes a USB 2.0 full-speed function controller, USB transceiver, oscillator, and Universal Asynchronous Receiver/Transmitter (UART) in packages as small as 3 mm x 3 mm. No other external USB components are required for development. All customization and configuration options can be selected using a simple GUI-based configurator. By eliminating the need for complex firmware and driver development, the CP2102N devices enable quick USB connectivity with minimal development effort.
+K Silicon Labs;CP2102N;USB to UART;RS232
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/cp2102n-datasheet.pdf
+$ENDCMP
+#
+$CMP SL2.1A
+D CoreChips;SL2.1A;USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER
+K CoreChips;SL2.1A;USB 2.0;HUB
+F http://www.szlcsc.com/product/pdf/A_A6D0EF895473624719CCF6439954C4D3296C67311B688FC3.PDF
+$ENDCMP
+#
+$CMP UT3232G-P16-R
+D The UTC UT3232 has two receivers and two drivers, and a dual charge-pump circuit. The device meets the requirements of TIA/EIA-232-F and provides the electrical interface between an asynchronous communication controller and the serial-port connector. The charge pump and four small external capacitors allow operation from a single 3.0V to 5.5V supply. The device operates at data signaling rates up to 250kbit/s and a maximum of 35V/μs driver output slew rate.
+K RS232
+F https://atta.szlcsc.com/upload/public/pdf/source/20161105/1478330903034.pdf
+$ENDCMP
+#
+$CMP YD3082E
+D 用于 RS-485/RS-422 通信的 YD3082E 是一款半双工通信的高速收发器，其包含一路驱动器和一路接 收器。具有±15kV 人体模式 ESD 保护以及失效保护电路，当接收器输入开路或短路时，确保接收器输出 逻辑高电平。如果挂接在终端匹配总线上的所有发送器都禁用（高阻） ，接收器将输出逻辑高电平。YD3082E 具有低摆率驱动器，能够减小 EMI 和由于不恰当的终端匹配电缆所引起的反射，并实现高达 1Mbps 的无 差错数据传输。此外，YD3082E 其接收器具有 1/8 单位负载输入阻抗，总线上可以挂接多达 256 个收发 器。
+K RS485,半双工,Half Duplex
+F https://atta.szlcsc.com/upload/public/pdf/source/20180912/C269866_D747821E929F946C980352EF331DA1D4.pdf
+$ENDCMP
+#
+#End Doc Library

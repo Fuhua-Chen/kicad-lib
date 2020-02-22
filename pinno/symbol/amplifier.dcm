@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM8002A
+D FM8002A 是适用于便携电子产品的音频功率放大器。5V 电压时，最大驱动功率为 1.5W（8Ω负载）和 2.0W（4Ω负载）。FM8002A 的应用电路简单，只需要极少数外围器件。FM8002A 输出不需要外接耦合电容 或上举电容，采用 SOP8封装，非常适合低电压、低功耗音频应用方案上使用。FM8002A 可以通过控制 进入休眠模式，从而降低功耗。FM8002A 通过创新的“开关/切换噪声”抑制技术，杜绝了上电、掉电出现 的噪声。FM8002A 工作稳定，增益带宽积高达 2.5MHz，并且单位增益稳定。通过配置外围电阻可以调整 放大器的电压增益，方便应用。
+K Amplifier,Audio
+F https://atta.szlcsc.com/upload/public/pdf/source/20170211/1486785664274.pdf
+$ENDCMP
+#
+$CMP LM321-TR
+D LM321/358/324 types consist of single/dual/quad channel independent, high gain, internally frequency compensated operational amplifiers which are designed specifically to operate from a single power supply over a wide range of voltages. They may also be operated from split power supplies. The supply current is basically independent of the supply voltage over the recommended voltage range. These devices are particularly useful in interface circuits with digital systems and can be operated from the single common 5VDC power supply. They are also intended for transducer amplifiers, DC gain blocks and many other conventional op amp circuits which can benefit from the single power supply capability. In the linear mode, the input common-mode voltage range includes ground and the output voltage can also swing to both ground and power rail, even though operated from a single power supply. The LM321 is single channel version available in 5-pin SOT23 packages. The LM358 is dual channel version available in 8-pin SOP and MSOP packages. The LM324 is quad channel version available in 14-pin SOP and TSSOP packages.
+K Operational Amplifier
+F https://atta.szlcsc.com/upload/public/pdf/source/20170322/1490151696478.pdf
+$ENDCMP
+#
+$CMP LM321M5X_TR
+D The LM321 brings performance and economy to low power systems. With a high unity gain frequency and a specified 0.4V/µs slew rate, the quiescent current is only 430µA/amplifier (5V). The input common mode range includes ground and therefore the device is able to operate in single supply applications as well as in dual supply applications. It is also capable of comfortably driving large capacitive loads.The LM321 is available in the SOT-23 package.Overall the LM321 is a low power, wide supply range performance op amp that can be designed into a wide range of applications at an economical price without sacrificing valuable board space.
+K Operational Amplifier
+F https://atta.szlcsc.com/upload/public/pdf/source/20190611/C398143_B749FFEC530EEEAFF39846C0F5F4DB9E.pdf
+$ENDCMP
+#
+$CMP LMV321TP-CR
+D 3PEAK;LMV321TP;LMV321TP/358TP/324TP are CMOS single, dual, and quad op-amps with low offset, stable high frequency response, low power, low supply voltage, and rail-to-rail inputs and outputs. They incorporate 3PEAK’s proprietary and patented design techniques to achieve best in-class performance among all micro-power CMOS amplifiers.  The LMV321TP/358TP/324TP are unity gain stable with Any Capacitive Load with a Constant 1.27MHz gain-bandwidth product, 0.9V/μs slew rate while consuming only 40μA of supply current per amplifier. Analog trim and calibration routine reduces input offset voltage to below 3.5mV. Adaptive biasing and dynamic compensation enables the LMV321TP /358TP/324TP to achieve ‘THD+NOISE’ for 1kHz and 10kHz 2VPP signal at -105dB and -90dB, respectively. Beyond the rails input and rail-to-rail output characteristics allow the full power-supply voltage to be used for signal range. This combination of features makes the LMV321TP /358TP/324TP superior among rail-to-rail input /output CMOS op amps in its power class. The LMV321TP/358TP/324TP are ideal choices for battery-powered applications because they minimize errors due to power supply voltage variations over the lifetime of the battery and maintain high CMRR even for a rail-to-rail input op-amp. The LMV321TP/358TP/324TP can be used as cost-effective plug-in replacements for many commercially available op amps to reduce power and improve input/output range and performance.
+K Operational Amplifier;3PEAK;LMV321TP;40μA
+F http://www.3peakic.com.cn/resources/download/LMV321TP-358TP-324TP.pdf
+$ENDCMP
+#
+$CMP LMV321TP-TR
+D 3PEAK;LMV321TP;LMV321TP/358TP/324TP are CMOS single, dual, and quad op-amps with low offset, stable high frequency response, low power, low supply voltage, and rail-to-rail inputs and outputs. They incorporate 3PEAK’s proprietary and patented design techniques to achieve best in-class performance among all micro-power CMOS amplifiers.  The LMV321TP/358TP/324TP are unity gain stable with Any Capacitive Load with a Constant 1.27MHz gain-bandwidth product, 0.9V/μs slew rate while consuming only 40μA of supply current per amplifier. Analog trim and calibration routine reduces input offset voltage to below 3.5mV. Adaptive biasing and dynamic compensation enables the LMV321TP /358TP/324TP to achieve ‘THD+NOISE’ for 1kHz and 10kHz 2VPP signal at -105dB and -90dB, respectively. Beyond the rails input and rail-to-rail output characteristics allow the full power-supply voltage to be used for signal range. This combination of features makes the LMV321TP /358TP/324TP superior among rail-to-rail input /output CMOS op amps in its power class. The LMV321TP/358TP/324TP are ideal choices for battery-powered applications because they minimize errors due to power supply voltage variations over the lifetime of the battery and maintain high CMRR even for a rail-to-rail input op-amp. The LMV321TP/358TP/324TP can be used as cost-effective plug-in replacements for many commercially available op amps to reduce power and improve input/output range and performance.
+K Operational Amplifier;3PEAK;LMV321TP;40μA
+F https://atta.szlcsc.com/upload/public/pdf/source/20180820/C248567_FB6117AA9E4C198A2BB2FC87F5D06DC7.pdf
+$ENDCMP
+#
+$CMP RC4580IDR
+D TI;RC4580;Dual Audio Operational Amplifier
+K Operational Amplifier;TI;TI;RC4580;Audio
+F http://www.ti.com.cn/cn/lit/ds/symlink/rc4580.pdf
+$ENDCMP
+#
+$CMP SC8002B
+D SC8002B 是一颗带关断模式的音频功放 IC。在 5V 输入电压下工作时，负载（4Ω）上的最大输出功率为 2.5W。而对于手提设备而言，当 VDD 作用于关断端时，SC8002B 将会进入关断模式，此时的功耗极低，IQ 仅 为 0.6uA。 SC8002B 是专为大功率、高保真的应用场合所设计的音频功放 IC。所需外围元件少且在 2.0V～5.0V 的输入 电压下即可工作。
+K Amplifier,Audio
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C82124_042C5B357FB4884B7F6D6ED8AE046F0F.pdf
+$ENDCMP
+#
+$CMP TLV521DCKR
+D TI;TLV521;NanoPower, 350nA, RRIO, CMOS Input, Operational Amplifier
+K Operational Amplifier;TI;TLV521;350nA;
+F http://www.ti.com/lit/ds/symlink/tlv521.pdf
+$ENDCMP
+#
+$CMP TLV522DGKT
+D TI;TLV522 Dual Nanopower, 500nA, RRIO CMOS Operational Amplifier
+K Operational Amplifier;TI;TLV522;500nA
+F http://www.ti.com/lit/ds/symlink/tlv522.pdf
+$ENDCMP
+#
+$CMP TP1511
+D 3PEAK;TP1511;TP151x series are CMOS single/dual/quad op-amps with low offset, stable high frequency response, low power, low supply voltage, and rail-to-rail inputs and outputs. They incorporate 3PEAK’s proprietary and patented design techniques to achieve best in-class performance among all micro-power CMOS amplifiers in its power class. The TP151x family can be used as plug-in replacements for many commercially available op-amps to reduce power and improve input/output range and performance. TP151x are unity gain stable with Any Capacitive load with a constant 150kHz GBWP, 0.09V/μs slew rate while consuming only 4μA of quiescent current per amplifier. Analog trim and calibration routine reduce input offset voltage to below 3.0mV, and proprietary precision temperature compensation technique makes offset voltage temperature drift at 0.6μV/°C. Beyond the rails input and rail-to-rail output characteristics allow the full power-supply voltage to be used for signal range. This combination of features makes the TP151x OPA ideal choices for battery-powered applications because they minimize errors due to power supply voltage variations over the lifetime of the battery and maintain high CMRR even for a rail-to-rail input op-amp. Battery Current Monitor, consumer devices, handheld instrumentation, Remote battery-powered sensors, hazard detection (for example, smoke, fire, and gas), and patient monitors can benefit from the features of the TP151x op-amps. For applications that require power-down, the TP1511N in popular type packages has a low-power shutdown mode that reduces supply current to less than 0.1μA, and forces the output into a high-impedance state.
+K Operational Amplifier;3PEAK;TP1511;4uA
+F http://www.3peakic.com.cn/resources/download/TP1511-151N-1512-1514.pdf
+$ENDCMP
+#
+#End Doc Library
