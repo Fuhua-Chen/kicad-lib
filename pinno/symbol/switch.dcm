@@ -5,6 +5,12 @@ D The BL1551 is a Single Wide-Bandwidth, fast singlepole double-throw (SPDT) CMO
 F https://atta.szlcsc.com/upload/public/pdf/source/20160910/1473490325889.pdf
 $ENDCMP
 #
+$CMP Joystick_2Axis_1Enter_10k_25.25x19.05x19.6mm
+D PS3手柄3D操纵杆 绿色PS2游戏摇杆 大孔XBOX360通用Joystick
+K Joystic
+F https://detail.1688.com/offer/573678862668.html?spm=a2615.7691456.autotrace-offerGeneral.31.38294ee3Z7L1wc
+$ENDCMP
+#
 $CMP KAN0741-0601M1
 D Tact Switch,5 directions,五向按键
 K switch,tack,五向按键

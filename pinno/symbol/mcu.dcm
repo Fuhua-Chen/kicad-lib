@@ -1,5 +1,26 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CC2540F128RHAR
+D The CC2540 is a cost-effective, low-power, true system-on-chip (SoC) for Bluetooth low energy applications. It enables robust BLE master or slave nodes to be built with very low total bill-of-material costs. The CC2540 combines an excellent RF transceiver with an industry-standard enhanced 8051 MCU, in-system programmable flash memory, 8-KB RAM, and many other powerful supporting features and peripherals. The CC2540 is suitable for systems where very low power consumption is required. Very low-power sleep modes are available. Short transition times between operating modes further enable low power consumption. The CC2540 comes in two different versions: CC2540F128/F256, with 128 and 256 KB of flash memory, respectively. Combined with the Bluetooth low energy protocol stack from Texas Instruments, the CC2540F128/F256 forms the market’s most flexible and cost-effective single-mode Bluetooth low energy solution.
+K BLE,Bluetooth,CC2540
+F https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706999095.pdf
+$ENDCMP
+#
+$CMP CC2540F256RHAR
+D The CC2540 is a cost-effective, low-power, true system-on-chip (SoC) for Bluetooth low energy applications. It enables robust BLE master or slave nodes to be built with very low total bill-of-material costs. The CC2540 combines an excellent RF transceiver with an industry-standard enhanced 8051 MCU, in-system programmable flash memory, 8-KB RAM, and many other powerful supporting features and peripherals. The CC2540 is suitable for systems where very low power consumption is required. Very low-power sleep modes are available. Short transition times between operating modes further enable low power consumption. The CC2540 comes in two different versions: CC2540F128/F256, with 128 and 256 KB of flash memory, respectively. Combined with the Bluetooth low energy protocol stack from Texas Instruments, the CC2540F128/F256 forms the market’s most flexible and cost-effective single-mode Bluetooth low energy solution.
+K BLE,Bluetooth,CC2540
+F https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706999095.pdf
+$ENDCMP
+#
+$CMP CC2541F128RHAR
+D CC2541 是一款针对 Bluetooth 低能耗以及私有 2.4-GHz 应用的功率优化的真正片载系统 (SoC) 解决方案。 它使得使用低总体物料清单成本建立强健网络节点成为可能。 CC2541 将领先 RF 收发器的出色性能和一个业界标准的增强型 8051 MCU、系统内可编程闪存存储器、8-KB RAM 和很多其它功能强大的特性和外设组合在一起。 CC2541 非常适合应用于需要超低能耗的系统。 这由多种不同的运行模式指定。 运行模式间较短的转换时间进一步使低能耗变为可能。如果 CC2540 上的 USB 未启用并且 CC2541 上的I
+F https://atta.szlcsc.com/upload/public/pdf/source/20191018/C22206_4F95A32F13DCE95BEEEBEBB91704024F.pdf
+$ENDCMP
+#
+$CMP CC2541F256RHAR
+D CC2541 是一款针对 Bluetooth 低能耗以及私有 2.4-GHz 应用的功率优化的真正片载系统 (SoC) 解决方案。 它使得使用低总体物料清单成本建立强健网络节点成为可能。 CC2541 将领先 RF 收发器的出色性能和一个业界标准的增强型 8051 MCU、系统内可编程闪存存储器、8-KB RAM 和很多其它功能强大的特性和外设组合在一起。 CC2541 非常适合应用于需要超低能耗的系统。 这由多种不同的运行模式指定。 运行模式间较短的转换时间进一步使低能耗变为可能。如果 CC2540 上的 USB 未启用并且 CC2541 上的I
+$ENDCMP
+#
 $CMP GD32F103RCT6
 D GigaDevice;GD32F103RC;High-density performance line ARM®-based 32-bit MCU with 256 to 512KB Flash, USB, CAN, 11 timers, 3 ADCs, 13 communication interfaces
 K GD32;F103RC
