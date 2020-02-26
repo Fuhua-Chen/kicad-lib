@@ -60,6 +60,12 @@ K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1548_1506149266133988355.pdf
 $ENDCMP
 #
+$CMP 0402CG180J500NT
+D Fenghua Ceramic Capacitor,18pF,5%,50V,C0G,NP0,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1549_1506149266585988356.pdf
+$ENDCMP
+#
 $CMP 0402CG1R0C500NT
 D Fenghua Ceramic Capacitor,1pF,±0.25pF,50V,C0G,0402
 K Ceramic Capacitor

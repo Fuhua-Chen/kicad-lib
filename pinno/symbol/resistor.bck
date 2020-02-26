@@ -14,6 +14,7 @@ $ENDCMP
 $CMP 0402WGF1002TCE
 D UniOhm Chip Resistor,10k,1%,0402
 K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25744_1505901522148983320.pdf
 $ENDCMP
 #
 $CMP 0402WGF1003TCE

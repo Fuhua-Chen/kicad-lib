@@ -75,7 +75,7 @@ ENDDEF
 DEF Joystick_2Axis_1Enter_10k_25.25x19.05x19.6mm K 0 40 Y Y 1 F N
 F0 "K" 0 750 60 H V C CNN
 F1 "Joystick_2Axis_1Enter_10k_25.25x19.05x19.6mm" 250 700 60 H V C CNN
-F2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" 350 550 60 H I C CNN
+F2 "Joystick_2Axis_1Enter_25.25x19.05x19.6mm" 350 550 60 H I C CNN
 F3 "" 350 550 60 H I C CNN
 F4 "深圳市拓普瑞泰电子" 350 550 50 H I C CNN "Manufacturer"
 F5 "None" 350 550 50 H I C CNN "PartNumber"

@@ -51,6 +51,24 @@ K Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170505/1493957831537.pdf
 $ENDCMP
 #
+$CMP SDCL1005C1N0STDF
+D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,1nH,±0.3nH,100mDCR,400mA,0402
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20181106/C57117_98CF1AB115C4FE0D62F3AC67A8C9D52E.pdf
+$ENDCMP
+#
+$CMP SDCL1005C2N0STDF
+D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,2nH,±0.3nH,200mDCR,300mA,0402
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20190403/C370206_FBCDA5812E063D09C22E768D982E879C.pdf
+$ENDCMP
+#
+$CMP SDCL1005C3N0STDF
+D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,3nH,±0.3nH,200mDCR,300mA,0402
+K Ceramic Inductor
+F https://atta.szlcsc.com/upload/public/pdf/source/20190403/C370206_FBCDA5812E063D09C22E768D982E879C.pdf
+$ENDCMP
+#
 $CMP SDCL1005C47NJTDF
 D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,47nH,±5%,1.1DCR,150mA,0402
 K Ceramic Inductor
