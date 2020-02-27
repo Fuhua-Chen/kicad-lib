@@ -30,10 +30,10 @@ F0 "X" -100 150 20 H V C CNN
 F1 "32.768kHz,12.5pF,20ppm,1610" 200 150 20 H V C CNN
 F2 "Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm" 1000 350 60 H I C CNN
 F3 "" -50 250 60 H I C CNN
-F4 "EPSON(爱普生)" 0 0 50 H I C CNN "Manufacturer"
-F5 "X1A0001210005" 0 0 50 H I C CNN "PartNumber"
-F6 "https://item.szlcsc.com/176446.html" 0 0 50 H I C CNN "Supplier"
-F7 "C165064" 0 0 50 H I C CNN "Sku"
+F4 "EPSON(爱普生)" 0 -300 50 H I C CNN "Manufacturer"
+F5 "X1A0001210005" 0 -200 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/176446.html" 0 -250 50 H I C CNN "Supplier"
+F7 "C165064" 0 -350 50 H I C CNN "Sku"
 DRAW
 S -50 100 50 -100 0 1 0 N
 P 2 0 1 0 -100 100 -100 -100 N
@@ -202,6 +202,27 @@ F4 "TAE(雅晶鑫)" 0 600 50 H I C CNN "Manufacturer"
 F5 "SMD-3215-32.768kHz" 0 700 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/175444.html" 0 800 50 H I C CNN "Supplier"
 F7 "C164062" 0 900 50 H I C CNN "Sku"
+DRAW
+S -50 100 50 -100 0 1 0 N
+P 2 0 1 0 -100 100 -100 -100 N
+P 2 0 1 0 100 100 100 -100 N
+X ~ 1 -200 0 100 R 50 50 1 1 P
+X ~ 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SMD31327681252090
+#
+DEF SMD31327681252090 X 0 1 Y Y 1 F N
+F0 "X" -50 250 60 H V C CNN
+F1 "SMD31327681252090" 150 150 60 H V C CNN
+F2 "Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm" 0 500 60 H I C CNN
+F3 "" 0 400 60 H I C CNN
+F4 "JGHC(晶光华) " 0 600 50 H I C CNN "Manufacturer"
+F5 "SMD31327681252090" 0 700 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/366942.html" 0 800 50 H I C CNN "Supplier"
+F7 "C390740" 0 900 50 H I C CNN "Sku"
+F8 "￥0.57 " 0 0 50 H I C CNN "Price"
 DRAW
 S -50 100 50 -100 0 1 0 N
 P 2 0 1 0 -100 100 -100 -100 N

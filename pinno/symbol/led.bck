@@ -90,7 +90,7 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180608/C225982_0879ABFF01EA
 $ENDCMP
 #
 $CMP SZYY0603W
-D Everlight(台湾亿光) LED,白色,207mcd@5mA,0603
+D yongyu(永裕光电) LED,白色,207mcd@5mA,0603
 K Chip white LED
 F https://atta.szlcsc.com/upload/public/pdf/source/20191204/C434422_3833D28DE2FD2E316FACA2CBA245D589.pdf
 $ENDCMP

@@ -45,14 +45,8 @@ D Crystal-4P
 K Crystal;4P
 $ENDCMP
 #
-$CMP S3232000081040
-D Crystal-4P,32MHz,CL 8pF,60Ω,±10ppm,-40~85℃
-K Crystal,4P,24MHz,3225
-F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C426985_748AE017335A66D4C902856AAD6AD4BE.pdf
-$ENDCMP
-#
 $CMP S3232000121040
-D Crystal-4P,32MHz,CL 8pF,60Ω,±10ppm,-40~85℃
+D Crystal-4P,32MHz,CL 12pF,60Ω,±10ppm,-40~85℃
 K Crystal,4P,24MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C426984_6B4A04D0E0088A3A8775E8E197BD0A6F.pdf
 $ENDCMP
@@ -61,6 +55,12 @@ $CMP SMD-3215-32.768KHz
 D Crystal-2P,32.768kHz,CL 12.5pF,-40~80℃,±20ppm
 K Crystal,2P,32.768kHz,3215
 F https://atta.szlcsc.com/upload/public/pdf/source/20180207/C164062_15179949936741359198.pdf
+$ENDCMP
+#
+$CMP SMD31327681252090
+D Crystal-2P,32.768kHz,CL 12.5pF,-40~80℃,±20ppm
+K Crystal,2P,32.768kHz,3215
+F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C390740_8887BC72518AA101EA233501276751C5.pdf
 $ENDCMP
 #
 $CMP TAXM8M4RDBCCT2T

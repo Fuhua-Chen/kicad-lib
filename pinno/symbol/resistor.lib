@@ -80,11 +80,12 @@ DEF 0402WGF1004TCE R 0 40 Y Y 1 F N
 F0 "R" -100 100 60 H V C CNN
 F1 "0402WGF1004TCE" 400 100 60 H V C CNN
 F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C26083_1505895182773981069.pdf" 250 650 60 H I C CNN
+F3 "" 250 650 60 H I C CNN
 F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
 F5 "0402WGF1004TCE" 100 300 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/26826.html" 200 400 50 H I C CNN "Supplier"
 F7 "C26083" -350 500 50 H I C CNN "Sku"
+F8 "￥0.002753" 0 0 50 H I C CNN "Price"
 DRAW
 S -50 25 100 -25 0 1 10 N
 X ~ 1 -150 0 100 R 0 50 1 1 P
@@ -224,11 +225,12 @@ DEF 0402WGF2001TCE R 0 40 Y Y 1 F N
 F0 "R" -100 100 60 H V C CNN
 F1 "0402WGF2001TCE" 450 100 60 H V C CNN
 F2 "R_0402_1005Metric" 1000 300 60 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170920/C4109_1505887492137980645.pdf" 250 650 60 H I C CNN
+F3 "" 250 650 60 H I C CNN
 F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
 F5 "0402WGF2001TCE" 100 300 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/4516.html" 200 400 50 H I C CNN "Supplier"
 F7 "C4109" -350 500 50 H I C CNN "Sku"
+F8 "￥0.002819" 0 0 50 H I C CNN "Price"
 DRAW
 S -50 25 100 -25 0 1 10 N
 X ~ 1 -150 0 100 R 0 50 1 1 P
@@ -626,6 +628,7 @@ F4 "UniOhm" 0 200 50 H I C CNN "Manufacturer"
 F5 "0805W8F500LT5E" 100 300 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/29070.html" 200 400 50 H I C CNN "Supplier"
 F7 "C28319" -350 500 50 H I C CNN "Sku"
+F8 "￥0.017735" 0 450 50 H I C CNN "Price"
 DRAW
 S -50 25 100 -25 0 1 10 N
 X ~ 1 -150 0 100 R 0 50 1 1 P
