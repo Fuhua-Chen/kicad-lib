@@ -12,7 +12,7 @@ F4 "TI" -450 1450 50 H I C CNN "Manufacturer"
 F5 "CC2541F128RHAR" -450 1450 50 H I C CNN "PartNumber"
 F6 "None" -450 1450 50 H I C CNN "Supplier"
 F7 "None" -450 1450 50 H I C CNN "Sku"
-F8 "None" -450 1450 50 H I C CNN "Price"
+F8 "￥0" -450 1450 50 H I C CNN "Price"
 DRAW
 S -550 1050 550 -1050 0 1 0 N
 X GND 1 -650 950 100 R 50 50 1 1 W
@@ -708,11 +708,16 @@ ENDDEF
 DEF STM32F103C8T6 U 0 40 Y Y 1 F N
 F0 "U" -600 1200 60 H V C CNN
 F1 "STM32F103C8T6" 300 1200 60 H V C CNN
-F2 "LQFP-48_7x7mm_Pitch0.5mm" 0 1300 60 H I C CNN
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/33/d4/6f/1d/df/0b/4c/6d/CD00161566.pdf/files/CD00161566.pdf/jcr:content/translations/en.CD00161566.pdf" 3650 1400 60 H I C CNN
+F2 "LQFP-48_7x7mm_P0.5mm" 0 1300 60 H I C CNN
+F3 "" 3650 1400 60 H I C CNN
+F4 "ST" 0 0 50 H I C CNN "Manufacturer"
+F5 "STM32F103C8T6" 0 0 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/9243.html" 0 0 50 H I C CNN "Supplier"
+F7 "C8734" 0 0 50 H I C CNN "Sku"
+F8 "￥6.83" 0 0 50 H I C CNN "Price"
 DRAW
 S -650 1150 650 -1350 0 1 10 N
-X VBTA 1 -850 1050 200 R 50 50 1 1 W
+X VBAT 1 -850 1050 200 R 50 50 1 1 W
 X PA0/WKUP 10 -850 150 200 R 50 50 1 1 B
 X PA1 11 -850 50 200 R 50 50 1 1 B
 X PA2 12 -850 -50 200 R 50 50 1 1 B

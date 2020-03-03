@@ -92,7 +92,7 @@ F4 "EVERSON" 0 150 50 H I C CNN "Manufacturer"
 F5 "RP12S103BA" 0 150 50 H I C CNN "PartNumber"
 F6 "None" 0 150 50 H I C CNN "Supplier"
 F7 "None" 0 150 50 H I C CNN "Sku"
-F8 "None" 0 150 50 H I C CNN "Price"
+F8 "￥0" 0 150 50 H I C CNN "Price"
 DRAW
 T 0 -175 -25 10 0 0 0 CCW Normal 0 C C
 T 0 175 -25 10 0 0 0 CW Normal 0 C C

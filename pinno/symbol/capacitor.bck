@@ -13,6 +13,12 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_150614924616
 $ENDCMP
 #
 $CMP 0402B105K100NT
+D 停产-Fenghua Ceramic Capacitor,1uF,10%,10V,X7R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1526_1506149256027988333.pdf
+$ENDCMP
+#
+$CMP 0402B105K100NT-停产
 D Fenghua Ceramic Capacitor,1uF,10%,10V,X7R,0402
 K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1526_1506149256027988333.pdf
@@ -132,7 +138,7 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20170728/C106862_150122569985
 $ENDCMP
 #
 $CMP CL10A226MQ8NRNC
-D SAMSUNG Ceramic Capacitor,22uF,±20%,6.3V,X5R,0805
+D SAMSUNG Ceramic Capacitor,22uF,±20%,6.3V,X5R,0603
 K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707740762.pdf
 $ENDCMP
@@ -153,6 +159,12 @@ $CMP CL32A107MPVNNNE
 D SAMSUNG Ceramic Capacitor,100uF,±20%,10V,X5R,1210
 K Ceramic Capacitor
 F https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707710659.pdf
+$ENDCMP
+#
+$CMP GRM155R61A105KE01D
+D muRata(村田) Ceramic Capacitor,1uF,10%,10V,X5R,0402
+K Ceramic Capacitor
+F https://atta.szlcsc.com/upload/public/pdf/source/20190418/C389008_D81D5E1015C6780A686515DA0BA16233.pdf
 $ENDCMP
 #
 $CMP RT1H101M0810

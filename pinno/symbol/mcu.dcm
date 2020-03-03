@@ -7,6 +7,7 @@ $ENDCMP
 #
 $CMP CC2541F256RHAR
 D CC2541 是一款针对 Bluetooth 低能耗以及私有 2.4-GHz 应用的功率优化的真正片载系统 (SoC) 解决方案。 它使得使用低总体物料清单成本建立强健网络节点成为可能。 CC2541 将领先 RF 收发器的出色性能和一个业界标准的增强型 8051 MCU、系统内可编程闪存存储器、8-KB RAM 和很多其它功能强大的特性和外设组合在一起。 CC2541 非常适合应用于需要超低能耗的系统。 这由多种不同的运行模式指定。 运行模式间较短的转换时间进一步使低能耗变为可能。如果 CC2540 上的 USB 未启用并且 CC2541 上的I
+F https://atta.szlcsc.com/upload/public/pdf/source/20191018/C22206_4F95A32F13DCE95BEEEBEBB91704024F.pdf
 $ENDCMP
 #
 $CMP GD32F103RCT6
@@ -72,7 +73,7 @@ $ENDCMP
 $CMP STM32F103C8T6
 D ST;STM32F103C8;Medium-density performance line ARM®-based 32-bit MCU with 64 or 128 KB Flash, USB, CAN, 7 timers, 2 ADCs, 9 com. interfaces
 K STM32;F103C8
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/33/d4/6f/1d/df/0b/4c/6d/CD00161566.pdf/files/CD00161566.pdf/jcr:content/translations/en.CD00161566.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20140724/1457707174202.pdf
 $ENDCMP
 #
 $CMP STM32F103CBT6

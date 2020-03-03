@@ -1,6 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP ES8388S
+D Low Power Audio CODEC
+K audio,codec
 F https://atta.szlcsc.com/upload/public/pdf/source/20190124/C365737_71747A42546E5EB8D3555129B4AA4E73.pdf
 $ENDCMP
 #

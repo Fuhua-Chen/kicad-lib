@@ -20,6 +20,7 @@ $ENDCMP
 $CMP 0402WGF1003TCE
 D UniOhm Chip Resistor,100k,1%,0402
 K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20180314/0E2614623E0414D50D3004040B0D85FE.pdf
 $ENDCMP
 #
 $CMP 0402WGF1004TCE
@@ -116,6 +117,12 @@ K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25104_1505901212369982735.pdf
 $ENDCMP
 #
+$CMP 0402WGF3301TCE
+D UniOhm Chip Resistor,3.3kΩ,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25890_1505895100658980896.pdf
+$ENDCMP
+#
 $CMP 0402WGF3302TCE
 D UniOhm Chip Resistor,33k,1%,0402
 K Resistor
@@ -191,12 +198,6 @@ $CMP 0402WGJ0000TCE
 D UniOhm Chip Resistor,0Ω,5%,0402
 K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C21376_1505887444166980543.pdf
-$ENDCMP
-#
-$CMP 0402WGJ0332TCE
-D UniOhm Chip Resistor,3.3kΩ,1%,0402
-K Resistor
-F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25890_1505895100658980896.pdf
 $ENDCMP
 #
 $CMP 0805W8F500LT5E

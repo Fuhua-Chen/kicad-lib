@@ -106,6 +106,7 @@ F4 "Lyontek(台湾来扬)" 400 450 50 H I C CNN "Manufacturer"
 F5 "LY68L6400SLIT" -150 450 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/253393.html" -50 550 50 H I C CNN "Supplier"
 F7 "C261881" 50 650 50 H I C CNN "Sku"
+F8 "￥3.123" 0 0 50 H I C CNN "Price"
 DRAW
 S -450 250 450 -250 0 1 0 N
 X ~CE 1 -550 150 100 R 50 50 1 1 I
@@ -154,6 +155,7 @@ F4 "WINBOND(华邦)" 400 450 50 H I C CNN "Manufacturer"
 F5 "W25Q64JVSSIQ" -150 450 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/84304.html" -50 550 50 H I C CNN "Supplier"
 F7 "C83140" 50 650 50 H I C CNN "Sku"
+F8 "￥2" 0 0 50 H I C CNN "Price"
 DRAW
 S -450 250 450 -250 0 1 0 N
 X ~CS 1 -550 150 100 R 50 50 1 1 I

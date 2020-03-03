@@ -22,6 +22,12 @@ D Inductors
 K Inductor
 $ENDCMP
 #
+$CMP IND_3Pins_22uH_720uH_6x8mm
+D Inductors
+K Boost usage Inductor
+F https://item.taobao.com/item.htm?spm=a230r.1.14.89.5d656eb45i94Sa&id=575177782034&ns=1&abbucket=9#detail
+$ENDCMP
+#
 $CMP IND_C
 D Inductors
 K Common Mode Inductor

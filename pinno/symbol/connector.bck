@@ -396,6 +396,12 @@ K PH,2.0,2p,侧插
 F https://atta.szlcsc.com/upload/public/pdf/source/20151118/1457707578512.pdf
 $ENDCMP
 #
+$CMP PH-4AW
+D BOOMELE(博穆精密),PH,2.0mm,4pins,侧插
+K PH,2.0,4p,侧插
+F https://atta.szlcsc.com/upload/public/pdf/source/20151118/1457707577362.pdf
+$ENDCMP
+#
 $CMP PJ-609-5A
 D 韩国韩荣，防水IPX8音频连接器15x8mm，带耳朵
 K Audio Connector

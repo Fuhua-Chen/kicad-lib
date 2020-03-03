@@ -22,6 +22,18 @@ D Inductors
 K Inductor
 $ENDCMP
 #
+$CMP IND_3Pins_22uH_720uH
+D Inductors
+K Boost usage Inductor
+F https://item.taobao.com/item.htm?spm=a230r.1.14.89.5d656eb45i94Sa&id=575177782034&ns=1&abbucket=9#detail
+$ENDCMP
+#
+$CMP IND_3Pins_22uH_720uH_6x8mm
+D Inductors
+K Boost usage Inductor
+F https://item.taobao.com/item.htm?spm=a230r.1.14.89.5d656eb45i94Sa&id=575177782034&ns=1&abbucket=9#detail
+$ENDCMP
+#
 $CMP IND_C
 D Inductors
 K Common Mode Inductor
@@ -59,12 +71,6 @@ $ENDCMP
 #
 $CMP SDCL1005C2N0STDF
 D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,2nH,±0.3nH,200mDCR,300mA,0402
-K Ceramic Inductor
-F https://atta.szlcsc.com/upload/public/pdf/source/20190403/C370206_FBCDA5812E063D09C22E768D982E879C.pdf
-$ENDCMP
-#
-$CMP SDCL1005C2N0STDFM01
-D Sunlord Inductor,Multilayer Chip Ceramic Inductor – SDCL-D Series ,2nH,±0.3nH,1.200mDCR,300mA,0402
 K Ceramic Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20190403/C370206_FBCDA5812E063D09C22E768D982E879C.pdf
 $ENDCMP

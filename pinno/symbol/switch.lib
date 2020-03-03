@@ -79,7 +79,7 @@ F2 "Joystick_2Axis_1Enter_25.25x19.05x19.6mm" 350 550 60 H I C CNN
 F3 "" 350 550 60 H I C CNN
 F4 "深圳市拓普瑞泰电子" 350 550 50 H I C CNN "Manufacturer"
 F5 "None" 350 550 50 H I C CNN "PartNumber"
-F6 "深圳市拓普瑞泰电子" 350 550 50 H I C CNN "Suppliier"
+F6 "https://detail.1688.com/offer/573678862668.html?spm=a2615.7691456.autotrace-offerGeneral.31.38294ee3Z7L1wc" 350 550 50 H I C CNN "Supplier"
 F7 "None" 350 550 50 H I C CNN "Sku"
 F8 "¥ 0.70" 350 550 50 H I C CNN "Price"
 DRAW

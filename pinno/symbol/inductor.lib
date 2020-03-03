@@ -77,6 +77,31 @@ X ~ 2 250 0 100 L 0 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# IND_3Pins_22uH_720uH_6x8mm
+#
+DEF IND_3Pins_22uH_720uH_6x8mm L 0 40 Y Y 1 F N
+F0 "L" -175 -150 60 H V C CNN
+F1 "IND_3Pins_22uH_720uH_6x8mm" 450 -150 60 H V C CNN
+F2 "Inductor_3Pins_6x8mm" 0 -250 60 H I C CNN
+F3 "" 0 -150 60 H I C CNN
+F4 "东莞市海洋电子科技有限公司" 0 250 50 H I C CNN "Manufacturer"
+F5 "None" -200 350 50 H I C CNN "PartNumber"
+F6 "https://item.taobao.com/item.htm?spm=a230r.1.14.89.5d656eb45i94Sa&id=575177782034&ns=1&abbucket=9#detail" 0 150 50 H I C CNN "Supplier"
+F7 "None" 0 350 50 H I C CNN "Sku"
+F8 "￥0.23" 250 350 50 H I C CNN "Price"
+DRAW
+A 0 50 50 -1799 -1 0 1 10 N -50 50 50 50
+A 100 50 50 -1799 -1 0 1 10 N 50 50 150 50
+A -100 50 50 -1799 -1 1 1 10 N -150 50 -50 50
+C -175 25 0 0 1 20 N
+P 2 0 1 0 0 -100 0 0 N
+P 2 0 1 0 150 -100 0 -100 N
+X ~ 1 -250 50 100 R 0 50 1 1 P
+X ~ 2 250 50 100 L 0 50 1 1 P
+X ~ 3 250 -100 100 L 0 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # IND_C
 #
 DEF IND_C L 0 40 Y Y 1 F N

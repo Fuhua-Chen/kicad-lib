@@ -353,6 +353,7 @@ F4 "CJT" -100 -250 50 H I C CNN "Manufacturer"
 F5 "A2001WV-4P" -350 400 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/225473.html" 100 350 50 H I C CNN "Supplier"
 F7 "C225190" 200 400 50 H I C CNN "Sku"
+F8 "￥0.085466" 0 0 50 H I C CNN "Price"
 DRAW
 S -200 -100 200 100 0 1 0 N
 X ~ 1 -150 150 50 D 20 20 1 1 P
@@ -441,8 +442,9 @@ F2 "Connector_CJT_A2008WV-S-4P_1x04-1MP_P2.00mm_Vertical" -250 500 60 H I C CNN
 F3 "" 150 400 60 H I C CNN
 F4 "CJT" -100 -250 50 H I C CNN "Manufacturer"
 F5 "A2008WV-S-4P" -700 300 50 H I C CNN "PartNumber"
-F6 "https://list.szlcsc.com/catalog/11068.html" 200 250 50 H I C CNN "Supplier"
+F6 "https://item.szlcsc.com/261496.html" 200 250 50 H I C CNN "Supplier"
 F7 "C273125" 100 300 50 H I C CNN "Sku"
+F8 "￥0.6" 0 0 50 H I C CNN "Price"
 DRAW
 S -200 -100 200 100 0 1 0 N
 X ~ 1 -150 150 50 D 20 20 1 1 P
@@ -565,6 +567,7 @@ F4 "JS(钜硕电子)" 0 -250 50 H I C CNN "Manufacturer"
 F5 "AFC07-S24FCA-00" -700 300 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/253876.html" 1050 300 50 H I C CNN "Supplier"
 F7 "C262567" 100 300 50 H I C CNN "Sku"
+F8 "￥0.391971" 0 0 50 H I C CNN "Price"
 DRAW
 S -1200 -100 1200 100 0 1 0 N
 X ~ 1 -1150 150 50 D 20 20 1 1 P
@@ -834,6 +837,7 @@ F4 "DAWEI(大为精密)" 0 0 50 H I C CNN "Manufacturer"
 F5 "CAD-209B220" 0 0 50 H I C CNN "PartNumber"
 F6 "None" 0 0 50 H I C CNN "Supplier"
 F7 "None" 0 0 50 H I C CNN "Sku"
+F8 "￥0" 0 0 50 H I C CNN "Price"
 DRAW
 P 6 0 1 0 -200 450 -450 450 -450 250 -450 -450 -100 -450 0 -450 N
 P 11 0 1 0 -200 450 0 450 150 550 200 550 200 500 250 500 300 550 450 550 500 550 500 -450 0 -450 N
@@ -864,7 +868,7 @@ F4 "CviLux" 100 250 50 H I C CNN "Manufacturer"
 F5 "CI0605M1HR0" 250 350 50 H I C CNN "PartNumber"
 F6 "None" -150 250 50 H I C CNN "Supplier"
 F7 "None" -150 300 50 H I C CNN "Sku"
-F8 "￥0.0" -150 400 50 H I C CNN "Price"
+F8 "￥0" -150 400 50 H I C CNN "Price"
 DRAW
 S -250 -100 250 100 0 1 0 N
 X ~ 1 -200 150 50 D 20 20 1 1 P
@@ -888,7 +892,7 @@ F4 "CviLux" 100 250 50 H I C CNN "Manufacturer"
 F5 "CI1504M1VR0" 250 350 50 H I C CNN "PartNumber"
 F6 "None" -150 250 50 H I C CNN "Supplier"
 F7 "None" -150 300 50 H I C CNN "Sku"
-F8 "￥0.0" -150 400 50 H I C CNN "Price"
+F8 "￥0" -150 400 50 H I C CNN "Price"
 DRAW
 S -250 -100 150 100 0 1 0 N
 X ~ 1 -200 150 50 D 20 20 1 1 P
@@ -911,7 +915,7 @@ F4 "CviLux" 100 250 50 H I C CNN "Manufacturer"
 F5 "CI1505M1HR0" 250 350 50 H I C CNN "PartNumber"
 F6 "None" -150 250 50 H I C CNN "Supplier"
 F7 "None" -150 300 50 H I C CNN "Sku"
-F8 "￥0.0" -150 400 50 H I C CNN "Price"
+F8 "￥0" -150 400 50 H I C CNN "Price"
 DRAW
 S -250 -100 250 100 0 1 0 N
 X ~ 1 -200 150 50 D 20 20 1 1 P
@@ -935,7 +939,7 @@ F4 "CviLux" 100 250 50 H I C CNN "Manufacturer"
 F5 "CI1505M1VR0" 250 350 50 H I C CNN "PartNumber"
 F6 "None" -150 250 50 H I C CNN "Supplier"
 F7 "None" -150 300 50 H I C CNN "Sku"
-F8 "￥0.0" -150 400 50 H I C CNN "Price"
+F8 "￥0" -150 400 50 H I C CNN "Price"
 DRAW
 S -250 -100 250 100 0 1 0 N
 X ~ 1 -200 150 50 D 20 20 1 1 P
@@ -959,7 +963,7 @@ F4 "CviLux" 100 250 50 H I C CNN "Manufacturer"
 F5 "CI3303P1H10" 250 350 50 H I C CNN "PartNumber"
 F6 "None" -150 250 50 H I C CNN "Supplier"
 F7 "None" -150 300 50 H I C CNN "Sku"
-F8 "￥0.0" -150 400 50 H I C CNN "Price"
+F8 "￥0" -150 400 50 H I C CNN "Price"
 DRAW
 S -150 -100 150 100 0 1 0 N
 X ~ 1 -100 150 50 D 20 20 1 1 P
@@ -1869,6 +1873,27 @@ DRAW
 S -100 -100 100 100 0 1 0 N
 X ~ 1 -50 150 50 D 20 20 1 1 P
 X ~ 2 50 150 50 D 20 20 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PH-4AW
+#
+DEF PH-4AW J 0 40 Y Y 1 F N
+F0 "J" 250 50 60 H V C CNN
+F1 "PH-4AW" -50 -150 60 H V C CNN
+F2 "JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal" -250 500 60 H I C CNN
+F3 "" 150 400 60 H I C CNN
+F4 " BOOMELE(博穆精密)" -100 -250 50 H I C CNN "Manufacturer"
+F5 "PH-4AW" -350 400 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/10944.html" 100 350 50 H I C CNN "Supplier"
+F7 "C10401" 200 400 50 H I C CNN "Sku"
+F8 "￥0.038065" 0 0 50 H I C CNN "Price"
+DRAW
+S -200 -100 200 100 0 1 0 N
+X ~ 1 -150 150 50 D 20 20 1 1 P
+X ~ 2 -50 150 50 D 20 20 1 1 P
+X ~ 3 50 150 50 D 20 20 1 1 P
+X ~ 4 150 150 50 D 20 20 1 1 P
 ENDDRAW
 ENDDEF
 #
