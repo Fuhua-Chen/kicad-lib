@@ -35,4 +35,10 @@ K accelerometer,加速度计
 F https://atta.szlcsc.com/upload/public/pdf/source/20170413/1492062749091.pdf
 $ENDCMP
 #
+$CMP TS318-1B0814
+D TS318-1B0814热电堆红外温度传感器主要用在非接触式测量，功能是将物体发出的热辐射转化为电压输出.
+K NI-RTD,热电堆红外温度传感器
+F https://www.isweek.cn/Uploads/20180518/d8dce776f8bac44308a2f62adbb2cfd3/%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf
+$ENDCMP
+#
 #End Doc Library

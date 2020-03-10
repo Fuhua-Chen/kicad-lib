@@ -24,16 +24,16 @@ K WCH;CH340E;USB to UART;
 F http://wch.cn/downloads/CH340DS1_PDF.html
 $ENDCMP
 #
-$CMP CP2102
+$CMP CP2102-GMR
 D Silicon Labs;CP2102;SINGLE-CHIP USB TO UART BRIDGE
 K Silicon Labs;CP2102;USB to UART;RS232
-F http://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20170103/1483439882795.pdf
 $ENDCMP
 #
-$CMP CP2102N
+$CMP CP2102N-A01-GQFN28R
 D These highly-integrated USB-to-UART bridge controllers provide a simple solution for updating RS-232 designs to USB using a minimum of components and PCB space. CP2102N includes a USB 2.0 full-speed function controller, USB transceiver, oscillator, and Universal Asynchronous Receiver/Transmitter (UART) in packages as small as 3 mm x 3 mm. No other external USB components are required for development. All customization and configuration options can be selected using a simple GUI-based configurator. By eliminating the need for complex firmware and driver development, the CP2102N devices enable quick USB connectivity with minimal development effort.
 K Silicon Labs;CP2102N;USB to UART;RS232
-F http://www.silabs.com/Support%20Documents/TechnicalDocs/cp2102n-datasheet.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20171026/C105167_15089839018401058720.pdf
 $ENDCMP
 #
 $CMP SL2.1A
