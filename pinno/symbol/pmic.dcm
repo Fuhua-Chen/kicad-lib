@@ -163,7 +163,7 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180719/C235316_A35490DF9B06
 $ENDCMP
 #
 $CMP ME6215C33M5G
-D ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input.
+D ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input, 580mA output.
 K MicroOne,ME6215,LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf
 $ENDCMP

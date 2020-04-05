@@ -15,7 +15,7 @@ $ENDCMP
 $CMP CJ2102
 D The CJ2102 N-Channel MOSFET 20V 2.1A
 K N Channel;MOSFETS;NMOS
-F https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707282836.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20190724/C47937_179D3B249654F4601A75BD0C74674DED.pdf
 $ENDCMP
 #
 $CMP CJ3134K

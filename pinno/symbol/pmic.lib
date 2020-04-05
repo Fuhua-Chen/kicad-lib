@@ -625,7 +625,7 @@ DEF ME6215C33M5G U 0 40 Y Y 1 F N
 F0 "U" -200 250 60 H V C CNN
 F1 "ME6215C33M5G" 300 250 60 H V C CNN
 F2 "SOT-23-5" 0 700 60 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf" 0 400 60 H I C CNN
+F3 "" 0 400 60 H I C CNN
 F4 "MicrOne" -550 850 50 H I C CNN "Manufacturer"
 F5 "ME6215C33M5G" 300 850 50 H I C CNN "PartNumber"
 F6 "https://item.szlcsc.com/85287.html" 0 600 50 H I C CNN "Supplier"

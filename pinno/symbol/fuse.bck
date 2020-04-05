@@ -12,6 +12,12 @@ K Fuse,PTC
 F https://atta.szlcsc.com/upload/public/pdf/source/20180517/C207011_829D49713A24F4C143327F9DDDA04D1D.pdf
 $ENDCMP
 #
+$CMP 12H1200C
+D Fuse,50 Amperes at 63V DC(2A),100 Amperes at 32V DC(5A),1.63 I2t,1206
+K Fuse
+F https://atta.szlcsc.com/upload/public/pdf/source/20180301/C182310_15198945186301384077.pdf
+$ENDCMP
+#
 $CMP FUSE
 D FUSE;2P
 K FUSE

@@ -21,7 +21,7 @@ $ENDCMP
 $CMP TFT_ZJY114IPS_1.14Inch_135x240Pixels_17.6x31.0x1.6mm
 D TFT Screen,1.14 Inch, 135x240 pixels, ST7789V
 K TFT Screen,1.14 Inch, 135x240 pixels
-F https://gitee.com/Pinno/kicad-lib/raw/master/datasheet/1.30%E5%AF%B8%E7%AB%96%E5%B1%8F-SPEC%20UG-6428TSWOG01%20VER%20A(h13p.pdf
+F https://gitee.com/htctek/kicad-lib/raw/master/datasheet/1.30%E5%AF%B8%E7%AB%96%E5%B1%8F-SPEC%20UG-6428TSWOG01%20VER%20A(h13p.pdf
 $ENDCMP
 #
 #End Doc Library

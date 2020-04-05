@@ -503,6 +503,18 @@ K USB Type A
 F https://atta.szlcsc.com/upload/public/pdf/source/20190514/C2345_2E66130D8C4FA9ACA2ADF96F461652A5.pdf
 $ENDCMP
 #
+$CMP USBC_16P_4MP
+D USB连接器/ USB 90° 4固定脚 16P
+K USB Type C
+F http://zeecon.51sole.com/companynewsdetail_137688612.htm
+$ENDCMP
+#
+$CMP USBC_6P_4MP
+D USB连接器/ USB 90° 4固定脚
+K USB Type C
+F http://zeecon.51sole.com/companynewsdetail_137688612.htm
+$ENDCMP
+#
 $CMP VH-2A
 D VH-2A,3.96mm,2pins,立插
 K VH,3.96mm,2p,立插

@@ -1,15 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP CC2540F128RHAR
-D The CC2540 is a cost-effective, low-power, true system-on-chip (SoC) for Bluetooth low energy applications. It enables robust BLE master or slave nodes to be built with very low total bill-of-material costs. The CC2540 combines an excellent RF transceiver with an industry-standard enhanced 8051 MCU, in-system programmable flash memory, 8-KB RAM, and many other powerful supporting features and peripherals. The CC2540 is suitable for systems where very low power consumption is required. Very low-power sleep modes are available. Short transition times between operating modes further enable low power consumption. The CC2540 comes in two different versions: CC2540F128/F256, with 128 and 256 KB of flash memory, respectively. Combined with the Bluetooth low energy protocol stack from Texas Instruments, the CC2540F128/F256 forms the market’s most flexible and cost-effective single-mode Bluetooth low energy solution.
-K BLE,Bluetooth,CC2540
-F https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706999095.pdf
+$CMP BK3266QN40
+D The BK3266 is a low power, highly integrated Bluetooth system on chip(SoC) audio device. It integrates a high performance Bluetooth RF transceiver,feature rich baseband processor, FLASHmemory controller, multiple analog and digital peripherals, and a Bluetooth software stack including the audio, voice, and SPP profiles. The cache based architecture enables full programmability with FLASH memory device and can be used for both control and multimedia hybrid applications. The internal dual stereo ADC converts stereo analog input to digital signals that can be processed with a digital equalizer. Hardware realizations of the equalizer offload the MCU making the chip ideal for low power headset applications.The device incorporates on chip power management with linear and switchmode buck regulators and also includes a 220 mA internal battery charge controller to further reduce external bill of material (BOM) costs.
+K BLE,Bluetooth
+F None
 $ENDCMP
 #
-$CMP CC2540F256RHAR
-D The CC2540 is a cost-effective, low-power, true system-on-chip (SoC) for Bluetooth low energy applications. It enables robust BLE master or slave nodes to be built with very low total bill-of-material costs. The CC2540 combines an excellent RF transceiver with an industry-standard enhanced 8051 MCU, in-system programmable flash memory, 8-KB RAM, and many other powerful supporting features and peripherals. The CC2540 is suitable for systems where very low power consumption is required. Very low-power sleep modes are available. Short transition times between operating modes further enable low power consumption. The CC2540 comes in two different versions: CC2540F128/F256, with 128 and 256 KB of flash memory, respectively. Combined with the Bluetooth low energy protocol stack from Texas Instruments, the CC2540F128/F256 forms the market’s most flexible and cost-effective single-mode Bluetooth low energy solution.
-K BLE,Bluetooth,CC2540
-F https://atta.szlcsc.com/upload/public/pdf/source/20140228/1457706999095.pdf
+$CMP BK3266QN40_copy
+D The BK3266 is a low power, highly integrated Bluetooth system on chip(SoC) audio device. It integrates a high performance Bluetooth RF transceiver,feature rich baseband processor, FLASHmemory controller, multiple analog and digital peripherals, and a Bluetooth software stack including the audio, voice, and SPP profiles. The cache based architecture enables full programmability with FLASH memory device and can be used for both control and multimedia hybrid applications. The internal dual stereo ADC converts stereo analog input to digital signals that can be processed with a digital equalizer. Hardware realizations of the equalizer offload the MCU making the chip ideal for low power headset applications.The device incorporates on chip power management with linear and switchmode buck regulators and also includes a 220 mA internal battery charge controller to further reduce external bill of material (BOM) costs.
+K BLE,Bluetooth
+F None
+$ENDCMP
+#
+$CMP BK3432QN32
+D The BK3432 chip is a highly integrated Bluetooth 5.0 dual mode data SoC with 2 Mbps data rate supported. It integrates a high-performance RF transceiver, baseband, MCU, rich feature peripheral units, programmable protocol and profile to support Bluetooth classic and low energy application. The Flash program memory makes it suitable for customized applications. The BK3432 is designed with advanced technology process and integrated with switch DCDC regulator, that it has ultra-low power consumption and ultra-low leakage power. The embedded high order interference suppression filter and fast automatic gain control logic make it work well in high interference environment.
+K BLE,Bluetooth
+F None
 $ENDCMP
 #
 $CMP CC2541F128RHAR
@@ -19,6 +25,7 @@ $ENDCMP
 #
 $CMP CC2541F256RHAR
 D CC2541 是一款针对 Bluetooth 低能耗以及私有 2.4-GHz 应用的功率优化的真正片载系统 (SoC) 解决方案。 它使得使用低总体物料清单成本建立强健网络节点成为可能。 CC2541 将领先 RF 收发器的出色性能和一个业界标准的增强型 8051 MCU、系统内可编程闪存存储器、8-KB RAM 和很多其它功能强大的特性和外设组合在一起。 CC2541 非常适合应用于需要超低能耗的系统。 这由多种不同的运行模式指定。 运行模式间较短的转换时间进一步使低能耗变为可能。如果 CC2540 上的 USB 未启用并且 CC2541 上的I
+F https://atta.szlcsc.com/upload/public/pdf/source/20191018/C22206_4F95A32F13DCE95BEEEBEBB91704024F.pdf
 $ENDCMP
 #
 $CMP GD32F103RCT6
@@ -40,6 +47,12 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20160806/1470478002121.pdf
 $ENDCMP
 #
 $CMP NRF52840
+D Nordic;nRF52840;nRF52840 is an ultra-low power 2.4 GHz wireless system on chip (SoC) integrating a multiprotocol 2.4 GHz transceiver, an ARM® Cortex®-M4F CPU and flash program memory. It is the ultimate SoC for any short range wireless personal area network or IPv6-enabled automation application. nRF52840 supports Bluetooth low energy, the ANT™, 802.15.4, and user-proprietary 2.4 GHz protocols. Fully qualified Bluetooth low-energy and ANT stacks are available for the SoC. An 802.15.4 protocol library and a certified USB stack are also available. The nRF52840 SoC is part of the nRF52 Series that offers code-compatible devices across the series and simple software migration from the nRF51 Series.
+K Nordic;nRF52840;Bluetooth;NFC;ANT;802.15.4;2.4GHz
+F http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html
+$ENDCMP
+#
+$CMP NRF52840_copy
 D Nordic;nRF52840;nRF52840 is an ultra-low power 2.4 GHz wireless system on chip (SoC) integrating a multiprotocol 2.4 GHz transceiver, an ARM® Cortex®-M4F CPU and flash program memory. It is the ultimate SoC for any short range wireless personal area network or IPv6-enabled automation application. nRF52840 supports Bluetooth low energy, the ANT™, 802.15.4, and user-proprietary 2.4 GHz protocols. Fully qualified Bluetooth low-energy and ANT stacks are available for the SoC. An 802.15.4 protocol library and a certified USB stack are also available. The nRF52840 SoC is part of the nRF52 Series that offers code-compatible devices across the series and simple software migration from the nRF51 Series.
 K Nordic;nRF52840;Bluetooth;NFC;ANT;802.15.4;2.4GHz
 F http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html
@@ -84,7 +97,7 @@ $ENDCMP
 $CMP STM32F103C8T6
 D ST;STM32F103C8;Medium-density performance line ARM®-based 32-bit MCU with 64 or 128 KB Flash, USB, CAN, 7 timers, 2 ADCs, 9 com. interfaces
 K STM32;F103C8
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/33/d4/6f/1d/df/0b/4c/6d/CD00161566.pdf/files/CD00161566.pdf/jcr:content/translations/en.CD00161566.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20140724/1457707174202.pdf
 $ENDCMP
 #
 $CMP STM32F103CBT6
