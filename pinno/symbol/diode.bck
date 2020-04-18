@@ -92,6 +92,12 @@ K Diode;Schottky;SS34
 F https://atta.szlcsc.com/upload/public/pdf/source/20180327/C183891_8A3842A9AB1C34A47BEFE07949B906E2.pdf
 $ENDCMP
 #
+$CMP SS34F
+D The SS34F 40V 3A Schottky Diodes
+K Diode;Schottky;SS34F
+F None
+$ENDCMP
+#
 $CMP SS54BF
 D The SS54BF 40V 5A Schottky Diodes
 K Diode;Schottky;SS54

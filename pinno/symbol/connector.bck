@@ -137,7 +137,25 @@ K FPC,1.0mm,4P
 F https://atta.szlcsc.com/upload/public/pdf/source/20131111/1457706660317.pdf
 $ENDCMP
 #
+$CMP AFC07-S10ECA-00
+D JS,FPC,Pitch0.5mm,10pins,抽屉式,上接
+K FPC,0.5mm,10P
+F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262583_98C1F7DBF4A51C52435A8BF59EF15893.pdf
+$ENDCMP
+#
+$CMP AFC07-S12ECA-00
+D JS,FPC,Pitch0.5mm,12pins,抽屉式,上接
+K FPC,0.5mm,12P
+F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262585_5127D1A837FDDCA8449A8DA5F7ADCBE5.pdf
+$ENDCMP
+#
 $CMP AFC07-S24ECA-00
+D JS,FPC,Pitch0.5mm,24pins,抽屉式,上接
+K FPC,0.5mm,24P
+F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262643_A165FE49097C78A84A50B150AB79460D.pdf
+$ENDCMP
+#
+$CMP AFC07-S24ECA-00_copy
 D JS,FPC,Pitch0.5mm,24pins,抽屉式,上接
 K FPC,0.5mm,24P
 F https://atta.szlcsc.com/upload/public/pdf/source/20180810/C262643_A165FE49097C78A84A50B150AB79460D.pdf
@@ -501,12 +519,6 @@ $CMP USBA_F90°内扣
 D USB连接器/ USB A/F 90° 普通内扣 铁壳弯脚 不耐高温
 K USB Type A
 F https://atta.szlcsc.com/upload/public/pdf/source/20190514/C2345_2E66130D8C4FA9ACA2ADF96F461652A5.pdf
-$ENDCMP
-#
-$CMP USBC_12P_4MP
-D USB连接器/ USB 90° 4固定脚
-K USB Type C
-F http://zeecon.51sole.com/companynewsdetail_137688612.htm
 $ENDCMP
 #
 $CMP USBC_16P_4MP

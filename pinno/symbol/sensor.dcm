@@ -6,6 +6,10 @@ K 温湿度传感器,humidity,temperature
 F https://atta.szlcsc.com/upload/public/pdf/source/20190129/C368909_B294364A5189322D50DF5028F78C32FD.pdf
 $ENDCMP
 #
+$CMP B4013AM423-093
+F https://atta.szlcsc.com/upload/public/pdf/source/20180813/C233790_F5B864A011312A7BF4487DA03A0EE7FB.pdf
+$ENDCMP
+#
 $CMP BH1730FVC-TR
 D BH1730FVC is a digital Ambient Light Sensor IC with I 2C bus interface. This IC is most suitable for obtaining ambient light data for adjusting LCD and backlight power of TV and mobile phone. It is capable of detecting a very wide range of illuminance.
 K Digital 16bit Serial Output Type

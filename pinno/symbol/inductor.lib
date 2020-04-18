@@ -380,7 +380,7 @@ F2 "L_Bourns-SRN4018" 0 -150 60 H I C CNN
 F3 "" 0 -50 60 H I C CNN
 F4 "YJYCOIN(益嘉源)" 0 50 50 H I C CNN "Manufacturer"
 F5 "YSPI0420-1R0M" 100 150 50 H I C CNN "PartNumber"
-F6 "https://item.szlcsc.com/178606.html" 200 250 50 H I C CNN "Supplier"
+F6 "https://item.szlcsc.com/327172.html" 200 250 50 H I C CNN "Supplier"
 F7 "C351087" 300 350 50 H I C CNN "Sku"
 DRAW
 A 0 0 50 1 1799 0 1 10 N 50 0 -50 0
