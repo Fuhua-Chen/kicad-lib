@@ -6,6 +6,12 @@ K Logic,NAND,NXP,74HC00
 F http://www.mouser.com/ds/2/302/74HC_HCT00-839309.pdf
 $ENDCMP
 #
+$CMP 74HC126D,653
+D 74HC126D,653 Quadruple Bus Buffer Gates With 3-State Output
+K buffer/line driver; 3-state
+F https://atta.szlcsc.com/upload/public/pdf/source/20171120/C5600_15111748873601131871.pdf
+$ENDCMP
+#
 $CMP 74HC1G08GW,125
 D The 74HC1G/HCT1G08 is a high-speed Si-gate CMOS device.The 74HC1G/HCT1G08 provides the 2-input AND function. The standard output currents are 1⁄2 the 74HC/HCT08.
 K 2-input AND gate
@@ -28,12 +34,6 @@ $CMP 74LVC1T45W6-7
 D The  74LVC1T45  is  a  single  bit,  dual  supply  transceiver  with  3-state outputs  suitable  for  transmitting  a  single  logic  bit  across  different voltage  domains.  The  A  input/output  pin  is  designed  to  track  VCCA while  the  B  input/output  tracks  VCCB.  This  arrangement  allows  for universal low-voltage translation between any voltages from 1.65V to 5.5V. The Direction pin (DIR) controls the direction of the transceiver and  in  a  logic  voltage  related  to  VCCA.  When  a  high  logic  level  is applied to DIR the A pin becomes an input and the B pin becomes the output.  Conversely,  the  roles  of  A  and  B  are  reversed  when  DIR  is asserted low. The  3-state  feature  occurs  when  either  of  the  power  supply  voltages are  zero.  This  is  also  an  Ioff  feature  and  allows  for  the  output  to remain  in  a  high  impedance  state  with  both  power  supplies  at  0V,preventing  and  damaging  backflow  currents  and  providing  power down  electrical  isolation  up to  5.5V as  not  to  interfere  with  any  logic activity on pin A or B.
 K transceiver,level switch
 F https://atta.szlcsc.com/upload/public/pdf/source/20180109/C168856_15154706151821250215.pdf
-$ENDCMP
-#
-$CMP 74LVC244APW,118
-D The 74LVC244A; 74LVCH244A is an octal non-inverting buffer/line driver with 3-state outputs. The 3-state outputs are controlled by the output enable inputs 1OE and 2OE. A HIGH on nOE causes the outputs to assume a high-impedance OFF-state. Schmitt-trigger action at all inputs makes the circuit highly tolerant for slower input rise and fall times. Inputs can be driven from either 3.3 V or 5.0 V devices. In 3-state operation, outputs can handle 5 V. These features allow the use of these devices as translators in a mixed 3.3 V and 5 V environment. The 74LVCH244A bus hold on data inputs eliminates the need for external pull-up resistors to hold unused inputs.
-K Octal buffer/line driver; 3-state
-F https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477279262397.pdf
 $ENDCMP
 #
 $CMP M74VHC1GT08DFT2G
@@ -70,6 +70,12 @@ $CMP NL27WZ32USG
 D The NL27WZ32 is a high performance dual 2−input OR Gate operating from a 1.65 V to 5.5 V supply.
 K Dual 2-Input OR Gate
 F https://atta.szlcsc.com/upload/public/pdf/source/20180511/C184880_03D26CC743483A7DE8F281E033115CAA.PDF
+$ENDCMP
+#
+$CMP SN74AHCT126DR
+D SNx4AHCT126 Quadruple Bus Buffer Gates With 3-State Output
+K buffer/line driver; 3-state
+F https://atta.szlcsc.com/upload/public/pdf/source/20171219/C163728_15136804440971192734.pdf
 $ENDCMP
 #
 #End Doc Library

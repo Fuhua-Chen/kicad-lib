@@ -220,7 +220,12 @@ DEF SL2.1A U 0 40 Y Y 1 F N
 F0 "U" -200 600 60 H V C CNN
 F1 "SL2.1A" -100 500 60 H V C CNN
 F2 "SOIC-16_3.9x9.9mm_Pitch1.27mm" 250 850 60 H I C CNN
-F3 "http://www.szlcsc.com/product/pdf/A_A6D0EF895473624719CCF6439954C4D3296C67311B688FC3.PDF" 1850 750 60 H I C CNN
+F3 "" 1850 750 60 H I C CNN
+F4 "CoreChips(和芯润德)" 0 0 50 H I C CNN "Manufacturer"
+F5 "SL2.1A" 0 0 50 H I C CNN "PartNumbe"
+F6 "C192893" 0 0 50 H I C CNN "Sku"
+F7 "https://item.szlcsc.com/225853.html" 0 0 50 H I C CNN "Supplier"
+F8 "￥0.93" 0 0 50 H I C CNN "Price"
 DRAW
 S -300 450 300 -450 0 1 0 N
 X DM4 1 -500 350 200 R 50 50 1 1 B

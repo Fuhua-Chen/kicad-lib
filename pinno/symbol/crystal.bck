@@ -51,6 +51,18 @@ K Crystal,4P,32MHz,2520
 F https://atta.szlcsc.com/upload/public/pdf/source/20200102/C479187_D94AAA14F8877AC0B7C204DEF1552113.pdf
 $ENDCMP
 #
+$CMP S3212000121080
+D Crystal-4P,12MHz,CL 12pF,-40~80℃,±10ppm
+K Crystal,4P,12MHz,3225
+F https://atta.szlcsc.com/upload/public/pdf/source/20200102/C479193_3AD9730C4EC4E9A0DF72AF0A39F9CF51.pdf
+$ENDCMP
+#
+$CMP S3216000121060
+D Crystal-4P,16MHz,CL 12pF,-40~80℃,±10ppm
+K Crystal,4P,16MHz,3225
+F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C390768_E46E86316B0C8C704FFB675CE7EACDD8.pdf
+$ENDCMP
+#
 $CMP S3216000201060
 D Crystal-4P,16MHz,CL 20pF,-40~80℃,±10ppm
 K Crystal,4P,16MHz,3225
