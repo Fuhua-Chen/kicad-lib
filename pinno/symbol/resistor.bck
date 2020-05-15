@@ -60,6 +60,12 @@ K Resistor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C43675_1505895330776981400.pdf
 $ENDCMP
 #
+$CMP 0402WGF1242TCE
+D UniOhm Chip Resistor,12.4kΩ,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C11692_1505886998342979653.pdf
+$ENDCMP
+#
 $CMP 0402WGF1302TCE
 D UniOhm Chip Resistor,13k,1%,0402
 K Chip Resistor
@@ -98,6 +104,12 @@ $ENDCMP
 $CMP 0402WGF2202TCE
 D UniOhm Chip Resistor,22k,1%,0402
 K Resistor
+$ENDCMP
+#
+$CMP 0402WGF2491TCE
+D UniOhm Chip Resistor,2.49kΩ,1%,0402
+K Resistor
+F https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25884_1505895097846980890.pdf
 $ENDCMP
 #
 $CMP 0402WGF2701TCE

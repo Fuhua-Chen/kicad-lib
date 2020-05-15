@@ -6,6 +6,12 @@ K Diode;Schottky;1N5819
 F https://atta.szlcsc.com/upload/public/pdf/source/20180614/C191023_3C6A6398B911F3A4C23E7538EE054643.pdf
 $ENDCMP
 #
+$CMP ABS210
+D 2A SURFACE MOUNT GLASS PASSIVATED BRIDGE RECTIFIER
+K BRIDGE RECTIFIER,整流桥,2A
+F https://atta.szlcsc.com/upload/public/pdf/source/20181010/C123897_675868523B72D2889D3AAD5375AC821F.pdf
+$ENDCMP
+#
 $CMP CESD3V3D3
 D CESD3V3D3 Uni-direction ESD Protection Diode,Reverse stand−off voltage 3.3V, ESD Voltage ±25 kV
 K Diode,ESD
@@ -95,7 +101,7 @@ $ENDCMP
 $CMP SS34F
 D The SS34F 40V 3A Schottky Diodes
 K Diode;Schottky;SS34F
-F None
+F https://atta.szlcsc.com/upload/public/pdf/source/20180131/C181208_15173932434081329336.pdf
 $ENDCMP
 #
 $CMP SS54BF

@@ -12,6 +12,12 @@ K 1117,LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20190906/C426566_95BE246DE70C248781207323626ADB09.pdf
 $ENDCMP
 #
+$CMP AMS1117-5.0
+D The AMS1117 is a series of low dropout voltage regulators which can provide up to 1A of output current. The AMS1117 is available in six fixed voltage, 1.2, 1.5, 1.8, 2.5, 3.3 and 5.0V. Additionally it is also available in adjustable version. On chip precision trimming adjusts the reference/ output voltage to within ± 2%. On-chip thermal limiting provides protection against any combination of overload and ambient temperatures that would create excessive junction temperatures. The AMS1117 series is available in SOT-223, TO252, SOT89 packages. A minimum of 10uF tantalum capacitor is required at the output to improve the transient response and stability.
+K 1117,LDO,5.0V
+F https://atta.szlcsc.com/upload/public/pdf/source/20191224/C473812_BC040FEB3240886B16D0A1B097E2F984.pdf
+$ENDCMP
+#
 $CMP AP2004HTCER-ADJ
 D AP2004H 是一个恒定频率峰值电流模式的异步 PWM 升压转换器。需要一个外部肖特基二极管。 在轻负载时，AP2004H 工作在轻负载模式。静态电 流为 100uA，关断电流小于 1uA。内部 NMOS 管导 通电阻为 130mΩ，保证在整个输出负载范围内高效 率。3A 峰值电流使得 AP2004H 可以提供 1.5A 输出 负载电流。非常适应于 MID 和移动电源。输入电 压范围 2.5 ~ 5.5V 。内部工作频率是设定在 1.0MHz。 AP2004H 采用 6 引脚的扁平 SOT-23 封装。
 K DCDC,Synchronous Step up Regulator,BOOST,1MHz,3A
@@ -81,7 +87,7 @@ $ENDCMP
 $CMP IP5306
 D IP5306 是一款集成升压转换器、锂电池充电管 理、电池电量指示的多功能电源管理 SOC，为移动 电源提供完整的电源解决方案。 IP5306 的高集成度与丰富功能，使其在应用时 仅需极少的外围器件，并有效减小整体方案的尺寸， 降低 BOM 成本。 IP5306 只需一个电感实现降压与升压功能。可 以支持低成本电感和电容。 IP5306 的同步升压系统提供最大 2.4A 输出电 流，转换效率高至 92%。空载时，自动进入休眠状 态，静态电流降至 100uA。 IP5306 采用开关充电技术，提供最大 2.1A 电 流，充电效率高至 91%。内置 IC 温度和输入电压 智能调节充电电流。 IP5306 支持 1、2、3、4 颗 LED 电量显示。 IP5306 采用 ESOP8 封装。
 K 2.1A 充电 2.4 A 放电高集成度移动电源 SOC
-F https://atta.szlcsc.com/upload/public/pdf/source/20181019/C181697_2BADA2B65DCBEFB6B403323C637C9370.pdf
+F https://atta.szlcsc.com/upload/public/pdf/source/20180920/C181692_842C9BF636DF123BB66E91FC1AD6F13F.pdf
 $ENDCMP
 #
 $CMP IP5506_BZ_188
@@ -163,7 +169,7 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20180719/C235316_A35490DF9B06
 $ENDCMP
 #
 $CMP ME6215C33M5G
-D ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input.
+D ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input, 580mA output.
 K MicroOne,ME6215,LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf
 $ENDCMP

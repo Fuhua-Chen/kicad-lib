@@ -42,10 +42,22 @@ K CoreChips;SL2.1A;USB 2.0;HUB
 F https://atta.szlcsc.com/upload/public/pdf/source/20180522/C192893_624110D24898D57AAC785E3DF98EA862.pdf
 $ENDCMP
 #
+$CMP SR8201F
+D The SR8201F-VB-CG, SR8201FL-VB-CG, and SR8201FN-VB-CG are single-chip/single-port 10/100Mbps Ethernet PHYceivers that support: l MII (Media Independent Interface) l RMII (Reduced Media Independent Interface) The SR8201F/FL/FN implement all 10/100M Ethernet Physical-layer functions including the Physical Coding Sublayer (PCS), Physical Medium Attachment (PMA), Twisted Pair Physical Medium Dependent Sublayer (TP-PMD), 10Base-TX Encoder/Decoder, and Twisted-Pair Media Access Unit (TPMAU). The SR8201F/FL/FN support auto MDIX. A PECL (Pseudo Emitter Coupled Logic) interface is supported to connect with an external 100Base-FX fiber optical transceiver. The chip utilizes an advanced CMOS process to meet low voltage and low power requirements. With on-chip DSP (Digital Signal Processing) technology, the chip provides excellent performance under all operating conditions.
+K RMII,MII,100M Ethernet PHY,以太网
+F https://atta.szlcsc.com/upload/public/pdf/source/20190314/C378491_8BB4C40478B79EAE49395644A3B6AE05.pdf
+$ENDCMP
+#
 $CMP UT3232G-P16-R
 D The UTC UT3232 has two receivers and two drivers, and a dual charge-pump circuit. The device meets the requirements of TIA/EIA-232-F and provides the electrical interface between an asynchronous communication controller and the serial-port connector. The charge pump and four small external capacitors allow operation from a single 3.0V to 5.5V supply. The device operates at data signaling rates up to 250kbit/s and a maximum of 35V/μs driver output slew rate.
 K RS232
 F https://atta.szlcsc.com/upload/public/pdf/source/20161105/1478330903034.pdf
+$ENDCMP
+#
+$CMP W5500
+D The W5500 chip is a Hardwired TCP/IP embedded Ethernet controller that provides easier Internet connection to embedded systems. W5500 enables users to have the Internet connectivity in their applications just by using the single chip in which TCP/IP stack, 10/100 Ethernet MAC and PHY embedded. WIZnet„s Hardwired TCP/IP is the market-proven technology that supports TCP, UDP, IPv4, ICMP, ARP, IGMP, and PPPoE protocols. W5500 embeds the 32Kbyte internal memory buffer for the Ethernet packet processing. If you use W5500, you can implement the Ethernet application just by adding the simple socket program. It‟s faster and easier way rather than using any other Embedded Ethernet solution. Users can use 8 independent hardware sockets simultaneously. SPI (Serial Peripheral Interface) is provided for easy integration with the external MCU. The W5500‟s SPI supports 80 MHz speed and new efficient SPI protocol for the high speed network communication. In order to reduce power consumption of the system, W5500 provides WOL (Wake on LAN) and power down mode.
+K Ethernet,以太网,SPI,10/100 Base-T/TX PHY
+F https://atta.szlcsc.com/upload/public/pdf/source/20140704/1457707126739.pdf
 $ENDCMP
 #
 $CMP YD3082E

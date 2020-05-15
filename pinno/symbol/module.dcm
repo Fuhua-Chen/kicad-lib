@@ -60,6 +60,12 @@ K 安信可,ESP32-S,WIFI,BT/BLE,ESP32
 F https://docs.ai-thinker.com/_media/esp32/docs/esp32-s_product_specification_zh.pdf
 $ENDCMP
 #
+$CMP H7PIV10_Exp
+D H7PI_Exp,扩展板,V1.0
+K 扩展板,H7PI,V1.0
+F https://item.taobao.com/item.htm?ft=t&id=606908438435
+$ENDCMP
+#
 $CMP H7PI_Exp
 D H7PI_Exp,扩展板
 K 扩展板,H7PI

@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP O3216000153350
+D 3.3V,16MHz,-40~+85℃,25ppm
+K Oscillator,16MHz
+F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C437125_1DDE1F4A418D0A001D0CF3D6C0E6116B.pdf
+$ENDCMP
+#
 $CMP O3224576153350
 D 3.3V,24.576MHz,-40~+85℃
 K Oscillator,24.576MHz

@@ -24,6 +24,12 @@ K Crystal,4P,24MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20180207/C164058_15179949928181359196.pdf
 $ENDCMP
 #
+$CMP 7U50000E12UCG
+D SJK(晶科鑫),Crystal-4P,50MHz,CL 12pF,40Ω,±10ppm,-40~85℃
+K Crystal,4P,24MHz,3225
+F https://atta.szlcsc.com/upload/public/pdf/source/20200428/C524774_6186D13BBA55E0E37977BEB46C3E6F15.pdf
+$ENDCMP
+#
 $CMP CSTCE8M00G15C99-R0
 D TAE Crystal,8MHZ,33pF inside,±0.1%,40R,3213
 K Crystal 2520
@@ -67,6 +73,12 @@ $CMP S3216000201060
 D Crystal-4P,16MHz,CL 20pF,-40~80℃,±10ppm
 K Crystal,4P,16MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C426974_0A1DBD384518BB0910862B5BF1EFFE6E.pdf
+$ENDCMP
+#
+$CMP S3225000121060
+D Crystal-4P,25MHz,CL 12pF,-40~80℃,±10ppm,60Ω
+K Crystal,4P,25MHz,3225
+F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C390773_06AF113595233219FED0FFAF8E70EAA7.pdf
 $ENDCMP
 #
 $CMP S3232000121040

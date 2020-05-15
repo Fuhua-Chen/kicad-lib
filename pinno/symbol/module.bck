@@ -55,9 +55,15 @@ F https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_data
 $ENDCMP
 #
 $CMP ESP32-S
-D ESP32-S 是一款通用型 WiFi-BT-BLE MCU 模组，功能强大，用途广泛，可以用于低功耗传感器网 络和要求极高的任务，例如语音编码、音频流和 MP3 解码等。此款模组的核心是 ESP32 芯片，具有可扩展、自适应的特点。两个 CPU 核可以被单独控制或上 电。用户可以切断 CPU 的电源，利用低功耗协处理器来不断地监测外设的状态变化或某些模拟量是 否超出阈值。ESP32 还集成了丰富的外设，包括电容式触摸传感器、霍尔传感器、低噪声传感放大器， SD 卡接口、以太网接口、高速 SDIO／SPI、UART、I2S 和 I2C 等。ESP32-S 模组是由安信可科技开 发的，该模块核心处理器 ESP32 内置两个低功耗 Xtensa®32-bit LX6 MCU，主频支持 80 MHz、160 MHz 和 240MHz。  
+D ESP32-S 是一款通用型 WiFi-BT-BLE MCU 模组，功能强大，用途广泛，可以用于低功耗传感器网 络和要求极高的任务，例如语音编码、音频流和 MP3 解码等。此款模组的核心是 ESP32 芯片，具有可扩展、自适应的特点。两个 CPU 核可以被单独控制或上 电。用户可以切断 CPU 的电源，利用低功耗协处理器来不断地监测外设的状态变化或某些模拟量是 否超出阈值。ESP32 还集成了丰富的外设，包括电容式触摸传感器、霍尔传感器、低噪声传感放大器， SD 卡接口、以太网接口、高速 SDIO／SPI、UART、I2S 和 I2C 等。ESP32-S 模组是由安信可科技开 发的，该模块核心处理器 ESP32 内置两个低功耗 Xtensa®32-bit LX6 MCU，主频支持 80 MHz、160 MHz 和 240MHz。
 K 安信可,ESP32-S,WIFI,BT/BLE,ESP32
 F https://docs.ai-thinker.com/_media/esp32/docs/esp32-s_product_specification_zh.pdf
+$ENDCMP
+#
+$CMP H7PIV10_Exp
+D H7PI_Exp,扩展板,V1.0
+K 扩展板,H7PI,V1.0
+F https://item.taobao.com/item.htm?ft=t&id=606908438435
 $ENDCMP
 #
 $CMP H7PI_Exp

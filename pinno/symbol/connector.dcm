@@ -54,6 +54,36 @@ K 1.25mm,4p
 F https://atta.szlcsc.com/upload/public/pdf/source/20180509/C225113_9679200C5360759A419D6BFAEEDD059A.pdf
 $ENDCMP
 #
+$CMP A1501WR-S-5P
+D CJT(长江连接器) ,ZH,1.5mm,5pins,卧贴
+K ZH,1.5mm,5p,卧贴
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225170_ACC6887CF2529F4C8C3B528B7C5628C2.pdf
+$ENDCMP
+#
+$CMP A1501WV-4P
+D CJT(长江连接器),ZH,1.5mm,4pins,立插
+K ZH,1.5mm,4pins,立插
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225134_D1797F41D8EAB69F75A09F4A6480E4A4.pdf
+$ENDCMP
+#
+$CMP A1501WV-6P
+D CJT(长江连接器) ,ZH,1.5mm,6pins,立插
+K ZH,1.5mm,6pins,立插
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225136_55FF6C9A1DF65ABFD1DAC14797827350.pdf
+$ENDCMP
+#
+$CMP A1501WV-S-4P
+D  CJT(长江连接器)  ,ZH,1.5mm,4pins,立贴
+K ZH,1.5mm,4p,立贴
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225162_ED0C828D731A7C9374F62FBB1D45DAD6.pdf
+$ENDCMP
+#
+$CMP A1501WV-S-5P
+D CJT(长江连接器) ,ZH,1.5mm,5pins,立贴
+K ZH,1.5mm,5p,竖贴
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225163_C2C5F1ADDD4A3F08DF091C8A00C14650.pdf
+$ENDCMP
+#
 $CMP A2001WR-S-2P
 D CJT,PH,2.0mm,2pins,卧贴
 K CJT,PH,2.0,2p
@@ -118,6 +148,12 @@ $CMP A2008WV-S-4P
 D CJT,PH,2.0mm,4pins,立贴
 K CJT,PH,2.0,4p
 F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C273125_F086204BBE8A3691441292B10DB35699.pdf
+$ENDCMP
+#
+$CMP A2505WV-3P
+D CJT,2.5mm,3pins,防反插,立插
+K 2.5mm,3p,防反插,立插
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225432_138B54898AFACF998648E2AEC1D24003.pdf
 $ENDCMP
 #
 $CMP A3961WV-2P
@@ -204,20 +240,20 @@ F None
 $ENDCMP
 #
 $CMP CI1504M1VR0
-D CviLux,1.5mm,4pins,竖贴
-K 1.5mm,4p,竖贴
+D CviLux,ZH,1.5mm,4pins,竖贴
+K ZH,1.5mm,4p,竖贴
 F None
 $ENDCMP
 #
 $CMP CI1505M1HR0
-D CviLux,1.5mm,5pins,卧贴
-K 1.5mm,5p,卧贴
+D CviLux,ZH,1.5mm,5pins,卧贴
+K ZH,1.5mm,5p,卧贴
 F None
 $ENDCMP
 #
 $CMP CI1505M1VR0
-D CviLux,1.5mm,5pins,竖贴
-K 1.5mm,5p,竖贴
+D CviLux,ZH,1.5mm,5pins,竖贴
+K ZH,1.5mm,5p,竖贴
 F None
 $ENDCMP
 #
@@ -233,6 +269,18 @@ K CR2032
 F https://atta.szlcsc.com/upload/public/pdf/source/20160427/1461725216549.pdf
 $ENDCMP
 #
+$CMP DB2ERC-5.08-2P
+D DIBO(地博电子),5.08mm间距,绿色端子,2pins
+K 5.08mm,端子,2pins
+F https://atta.szlcsc.com/upload/public/pdf/source/20190611/C395737_01C638D4AD08B87FBD9C3B4424C7CB7B.pdf
+$ENDCMP
+#
+$CMP DB2ERC-5.08-4P
+D DIBO(地博电子),5.08mm间距,绿色端子,4pins
+K 5.08mm,端子,4pins
+F https://atta.szlcsc.com/upload/public/pdf/source/20190611/C395753_0BA9FF596C601FA7C321B2A4DE6E255F.pdf
+$ENDCMP
+#
 $CMP DB9公头直针带固定螺丝柱
 D DB9公头直针，黑色，带固定螺丝柱，焊接固定
 K DB9
@@ -243,6 +291,12 @@ $CMP DC-005-5.5-2.0MM
 D 电源连接器（AC电源插座，DC连接器）,DC-005
 K DC-005
 F https://atta.szlcsc.com/upload/public/pdf/source/20180802/C16214_761D11F0E9B48746DC2F3A44D46ECB1F.pdf
+$ENDCMP
+#
+$CMP DMR-9S
+D DB9母头孔，黑色，带固定柱
+K DB9
+F https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141882_15114109686951137625.pdf
 $ENDCMP
 #
 $CMP DS1093-01-PN60
@@ -537,6 +591,24 @@ $CMP WJ2EDGVC-5.08-12P
 D 插拔式接线端子,12P,间距5.08mm,立插,配套端子型号：WJ2EDGKB-5.08-12P
 K 接线端子,5.08mm
 F https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707515117.pdf
+$ENDCMP
+#
+$CMP X1502WVS-04-9TSN
+D XKB(星坤) ,ZH,1.5mm,4pins,立贴
+K ZH,1.5mm,4p,立贴
+F https://atta.szlcsc.com/upload/public/pdf/source/20200227/C406143_1EEE747BA13E87F9B0729C6EA1B4555A.pdf
+$ENDCMP
+#
+$CMP X1502WVS-05-9TSN
+D XKB(星坤) ,ZH,1.5mm,5pins,竖贴
+K ZH,1.5mm,5p,竖贴
+F https://atta.szlcsc.com/upload/public/pdf/source/20200227/C406144_9BCBAF033D266CFC1C7E41C511310873.pdf
+$ENDCMP
+#
+$CMP X2564WV-03-N0SN
+D XKB(星坤),2.5mm,3pins,防反插,立插
+K 2.5mm,3p,防反插,立插
+F https://atta.szlcsc.com/upload/public/pdf/source/20200227/C397419_02C12A4628BF415705ECCD47CCC5D1A0.pdf
 $ENDCMP
 #
 $CMP XH-2.5-2P-SMD-90D

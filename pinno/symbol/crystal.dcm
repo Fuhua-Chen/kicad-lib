@@ -7,21 +7,27 @@ F https://atta.szlcsc.com/upload/public/pdf/source/20170728/C116546_150122572858
 $ENDCMP
 #
 $CMP 32.768kHz,12.5pF,20ppm,1610
-D Crystal-2P,32.768kHz,12.5pF,20ppm
+D EPSON(爱普生),Crystal-2P,32.768kHz,12.5pF,20ppm
 K Crystal
 F https://atta.szlcsc.com/upload/public/pdf/source/20181223/C165064_89E145695707DA426F5051ABEBF35627.pdf
 $ENDCMP
 #
 $CMP 32.768kHz,7pF,2012
-D Crystal-2P,32.768kHz,7pF,20ppm,2012
+D Seiko(精工),Crystal-2P,32.768kHz,7pF,20ppm,2012
 K Crystal
 F https://atta.szlcsc.com/upload/public/pdf/source/20170329/1490752666646.pdf
 $ENDCMP
 #
 $CMP 3225-SMD24.000M12PF
-D Crystal-4P,24MHz,CL 12pF,30Ω,±10ppm,-40~85℃ ±30ppm
+D TAE(雅晶鑫),Crystal-4P,24MHz,CL 12pF,30Ω,±10ppm,-40~85℃ ±30ppm
 K Crystal,4P,24MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20180207/C164058_15179949928181359196.pdf
+$ENDCMP
+#
+$CMP 7U50000E12UCG
+D SJK(晶科鑫),Crystal-4P,50MHz,CL 12pF,40Ω,±10ppm,-40~85℃
+K Crystal,4P,24MHz,3225
+F https://atta.szlcsc.com/upload/public/pdf/source/20200428/C524774_6186D13BBA55E0E37977BEB46C3E6F15.pdf
 $ENDCMP
 #
 $CMP CSTCE8M00G15C99-R0
@@ -46,55 +52,61 @@ K Crystal;4P
 $ENDCMP
 #
 $CMP S2232000082060
-D Crystal-4P,32MHz,CL 8pF,60Ω,±20ppm,-40~85℃
+D JGHC(晶光华),Crystal-4P,32MHz,CL 8pF,60Ω,±20ppm,-40~85℃
 K Crystal,4P,32MHz,2520
 F https://atta.szlcsc.com/upload/public/pdf/source/20200102/C479187_D94AAA14F8877AC0B7C204DEF1552113.pdf
 $ENDCMP
 #
 $CMP S3212000121080
-D Crystal-4P,12MHz,CL 12pF,-40~80℃,±10ppm
+D JGHC(晶光华),Crystal-4P,12MHz,CL 12pF,-40~80℃,±10ppm
 K Crystal,4P,12MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20200102/C479193_3AD9730C4EC4E9A0DF72AF0A39F9CF51.pdf
 $ENDCMP
 #
 $CMP S3216000121060
-D Crystal-4P,16MHz,CL 12pF,-40~80℃,±10ppm
+D JGHC(晶光华),Crystal-4P,16MHz,CL 12pF,-40~80℃,±10ppm
 K Crystal,4P,16MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C390768_E46E86316B0C8C704FFB675CE7EACDD8.pdf
 $ENDCMP
 #
 $CMP S3216000201060
-D Crystal-4P,16MHz,CL 20pF,-40~80℃,±10ppm
+D JGHC(晶光华),Crystal-4P,16MHz,CL 20pF,-40~80℃,±10ppm
 K Crystal,4P,16MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C426974_0A1DBD384518BB0910862B5BF1EFFE6E.pdf
 $ENDCMP
 #
+$CMP S3225000121060
+D JGHC(晶光华),Crystal-4P,25MHz,CL 12pF,-40~80℃,±10ppm,60Ω
+K Crystal,4P,25MHz,3225
+F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C390773_06AF113595233219FED0FFAF8E70EAA7.pdf
+$ENDCMP
+#
 $CMP S3232000121040
-D Crystal-4P,32MHz,CL 12pF,60Ω,±10ppm,-40~85℃
+D JGHC(晶光华),Crystal-4P,32MHz,CL 12pF,60Ω,±10ppm,-40~85℃
 K Crystal,4P,24MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C426984_6B4A04D0E0088A3A8775E8E197BD0A6F.pdf
 $ENDCMP
 #
 $CMP SMD-3215-32.768KHz
-D Crystal-2P,32.768kHz,CL 12.5pF,-40~80℃,±20ppm
+D TAE(雅晶鑫),Crystal-2P,32.768kHz,CL 12.5pF,-40~80℃,±20ppm
 K Crystal,2P,32.768kHz,3215
 F https://atta.szlcsc.com/upload/public/pdf/source/20180207/C164062_15179949936741359198.pdf
 $ENDCMP
 #
 $CMP SMD31327681252090
-D Crystal-2P,32.768kHz,CL 12.5pF,-40~80℃,±20ppm
+D JGHC(晶光华) ,Crystal-2P,32.768kHz,CL 12.5pF,-40~80℃,±20ppm
 K Crystal,2P,32.768kHz,3215
 F https://atta.szlcsc.com/upload/public/pdf/source/20191012/C390740_8887BC72518AA101EA233501276751C5.pdf
 $ENDCMP
 #
 $CMP TAXM8M4RDBCCT2T
-D TAE Crystal,8MHZ,10pF,15ppm,250R,3225
+D TAE(雅晶),TAE Crystal,8MHZ,10pF,15ppm,250R,3225
 K Crystal 2520
 F https://atta.szlcsc.com/upload/public/pdf/source/20190626/C400090_CF95B89E745AFE4EF2E392EF8AC009D6.pdf
 $ENDCMP
 #
 $CMP TXM27.12M0004322DBBDO00T
-D Crystal-4P,27.12MHz,CL 10pF,30Ω,±10ppm,-40~80℃ ±20ppm
+D TAE(雅晶鑫),Crystal-4P,27.12MHz,CL 10pF,30Ω,±10ppm,-40~80℃ ±20ppm
 K Crystal,4P,27.12MHz,3225
 F https://atta.szlcsc.com/upload/public/pdf/source/20190124/C362365_9E2A0A7E00021373A75E42C61F7238D7.pdf
 $ENDCMP

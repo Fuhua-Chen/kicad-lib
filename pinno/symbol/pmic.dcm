@@ -12,6 +12,12 @@ K 1117,LDO,3.3V
 F https://atta.szlcsc.com/upload/public/pdf/source/20190906/C426566_95BE246DE70C248781207323626ADB09.pdf
 $ENDCMP
 #
+$CMP AMS1117-5.0
+D The AMS1117 is a series of low dropout voltage regulators which can provide up to 1A of output current. The AMS1117 is available in six fixed voltage, 1.2, 1.5, 1.8, 2.5, 3.3 and 5.0V. Additionally it is also available in adjustable version. On chip precision trimming adjusts the reference/ output voltage to within ± 2%. On-chip thermal limiting provides protection against any combination of overload and ambient temperatures that would create excessive junction temperatures. The AMS1117 series is available in SOT-223, TO252, SOT89 packages. A minimum of 10uF tantalum capacitor is required at the output to improve the transient response and stability.
+K 1117,LDO,5.0V
+F https://atta.szlcsc.com/upload/public/pdf/source/20191224/C473812_BC040FEB3240886B16D0A1B097E2F984.pdf
+$ENDCMP
+#
 $CMP AP2004HTCER-ADJ
 D AP2004H 是一个恒定频率峰值电流模式的异步 PWM 升压转换器。需要一个外部肖特基二极管。 在轻负载时，AP2004H 工作在轻负载模式。静态电 流为 100uA，关断电流小于 1uA。内部 NMOS 管导 通电阻为 130mΩ，保证在整个输出负载范围内高效 率。3A 峰值电流使得 AP2004H 可以提供 1.5A 输出 负载电流。非常适应于 MID 和移动电源。输入电 压范围 2.5 ~ 5.5V 。内部工作频率是设定在 1.0MHz。 AP2004H 采用 6 引脚的扁平 SOT-23 封装。
 K DCDC,Synchronous Step up Regulator,BOOST,1MHz,3A

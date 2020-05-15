@@ -22,12 +22,6 @@ D Inductors
 K Inductor
 $ENDCMP
 #
-$CMP IND_3Pins_22uH_720uH
-D Inductors
-K Boost usage Inductor
-F https://item.taobao.com/item.htm?spm=a230r.1.14.89.5d656eb45i94Sa&id=575177782034&ns=1&abbucket=9#detail
-$ENDCMP
-#
 $CMP IND_3Pins_22uH_720uH_6x8mm
 D Inductors
 K Boost usage Inductor
@@ -61,6 +55,12 @@ $CMP PRS6045-4R7MT
 D FH Inductor, High Current, Power Inductor,4.7uH,±20%，0.031DCR,4A,6x6x4.5mm
 K Inductor
 F https://atta.szlcsc.com/upload/public/pdf/source/20170505/1493957831537.pdf
+$ENDCMP
+#
+$CMP SCBG100505U121T
+D 120Ω@100MHz,25%,150mA,0402,DCR=0.5Ω
+K SMD Multilayer Chip Ferrite General Bead
+F https://atta.szlcsc.com/upload/public/pdf/source/20200303/C480913_8F3E5A1B45F84D1AA597361EC254B713.pdf
 $ENDCMP
 #
 $CMP SDCL1005C1N0STDF
